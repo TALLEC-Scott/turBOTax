@@ -4,7 +4,12 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "docling[onnxruntime]>=2.75.0",
+    "httpx>=0.28.1",
+    "pydantic>=2.12.5",
+    "pyyaml>=6.0.3",
+]
 
 [dependency-groups]
 dev = [
