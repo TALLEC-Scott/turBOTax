@@ -5,100 +5,156 @@ type: topic
 category: Income
 tags:
   - topic
-  - military
-  - home-sale
-  - exclusion
+  - income
+  - real-estate
+  - seniors
 ---
 
-# Sale of Home Exclusion (Military)
+# Sale of Home Exclusion
 
 ## Overview
 
-Members of the Armed Forces may exclude up to $250,000 ($500,000 if married filing jointly) of gain from the sale of their main home. Special rules allow military members to suspend the 5-year ownership and use test period during qualified official extended duty.
+When you sell your main home, you may be able to exclude up to $250,000 ($500,000 if married filing jointly) of gain from your income. This exclusion can significantly reduce or eliminate the tax owed on the profit from selling your home.
 
-## Standard Exclusion Rules
+## Maximum Exclusion Amounts
 
-### Maximum Exclusion Amount
 | Filing Status | Maximum Exclusion |
-|---------------|-------------------|
+|---------------|------------------|
 | Single | $250,000 |
 | Married Filing Jointly | $500,000 |
+| Married Filing Separately | $250,000 (each) |
 
-### Standard Requirements
-To qualify for the full exclusion, you must meet both tests during the 5-year period ending on the sale date:
-1. **Ownership Test** - Owned the home for at least 2 years
-2. **Use Test** - Lived in the home as your main home for at least 2 years
+## Ownership and Use Tests
 
-## Military Suspension Rule
+To qualify for the exclusion, you must meet BOTH tests during the 5-year period ending on the date of sale:
 
-### What Is Suspended
-You can suspend the 5-year test period during any period you or your spouse serves on **qualified official extended duty** as a member of the Armed Forces.
+### Ownership Test
+- Owned the home for at least **2 years** (730 days total)
+- Don't have to be consecutive days
 
-This means you may qualify for the exclusion even if you didn't live in the home for 2 of the 5 years before the sale due to military service.
+### Use Test
+- Lived in the home as your main home for at least **2 years** (730 days total)
+- Don't have to be consecutive days
+- Short temporary absences count as time lived in home
 
-### Qualified Official Extended Duty Defined
-You are on qualified official extended duty if:
-- Your duty station is at least **50 miles from your main home**, OR
-- You live in government quarters under government orders
+### 2-in-5 Year Rule
+Both tests must be met within a 5-year window ending on sale date.
 
-**Extended duty** means active duty for more than 90 days or for an indefinite period.
+## Main Home Definition
 
-### Limits on Suspension
-| Limitation | Rule |
-|------------|------|
-| Maximum suspension period | 10 years |
-| Properties at one time | Only one property |
-| Revocability | Can revoke choice at any time |
+Your main home can be:
+- House
+- Condominium
+- Cooperative apartment
+- Mobile home
+- Houseboat
 
-### Example
-David bought a home in 2017 and lived in it for 2½ years. He then served 6 years on qualified official extended duty. He sold the home in 2025 at a gain. By suspending the 5-year period for those 6 years, David's test period consists of the 5 years before he went on duty. He meets the ownership and use tests.
+Must be the home you live in most of the time.
+
+## Special Rules for Married Taxpayers
+
+### Joint Return Maximum ($500,000)
+Both must meet use test; either spouse can meet ownership test.
+
+### Requirements for $500,000 Exclusion
+- Married and file joint return for year of sale
+- Either spouse meets ownership test
+- Both spouses meet use test
+- Neither excluded gain from another home in prior 2 years
+
+### Surviving Spouse
+Can exclude up to $500,000 if:
+- Sale within 2 years of spouse's death
+- Haven't remarried
+- Met ownership and use tests at time of spouse's death
+- Neither excluded gain from another home in prior 2 years
+
+## Exceptions to Tests
+
+### Disability Exception to Use Test
+Considered to live in home during any time you:
+- Become physically or mentally unable to care for yourself
+- Own and live in a licensed care facility (nursing home)
+- Owned and lived in home for at least 1 year before moving to facility
+
+Still must meet 2-year ownership test.
+
+### Property Acquired in Like-Kind Exchange
+Must own the home for **5 years** (not 2) to qualify for exclusion.
+
+### Transfer from Spouse
+Treated as owning home during any period spouse owned it.
+
+### Divorce Situations
+- Treated as using home as main home while ex-spouse lives there under divorce decree
+- Treated as owning home if transferred from spouse
 
 ## Reduced Maximum Exclusion
 
-If you don't meet the ownership and use tests but move due to a new permanent duty station, you may still qualify for a reduced exclusion. The reduced amount is based on the fraction of the 2-year period you met the requirements.
+If you don't meet tests due to:
+- Change in place of employment
+- Health reasons
+- Unforeseen circumstances
+
+You may qualify for a **prorated exclusion** based on portion of ownership/use period completed.
 
 ## Nonqualified Use
 
-For periods after 2008 when neither you nor your spouse used the property as a main home (and weren't on qualified official extended duty), the gain attributable to those periods **cannot be excluded**.
+After December 31, 2008, gain allocable to periods of "nonqualified use" (rental, etc.) may not qualify for exclusion.
 
-**Exception:** Time spent on qualified official extended duty (up to 10 years) is NOT treated as nonqualified use.
+## When to Report the Sale
 
-## Losses Not Deductible
+**Do NOT report** the sale if:
+- You received no Form 1099-S, AND
+- You qualify to exclude all of the gain, AND
+- You choose to exclude the gain
 
-You cannot deduct a loss from the sale of your main home.
+**Must report** if:
+- Received Form 1099-S, OR
+- Have gain that can't be fully excluded, OR
+- Choose not to exclude the gain, OR
+- Have a deductible loss
 
-## Foreclosures and SCRA Violations
+## Business or Rental Use
 
-### Servicemembers Civil Relief Act (SCRA) Settlement Payments
+### Recapturing Depreciation
+If home used for business or rental after May 6, 1997:
+- May owe tax on depreciation previously claimed
+- This "recapture" cannot be excluded
 
-| Payment Type | Tax Treatment |
-|--------------|---------------|
-| Lump-sum payment | Generally taxable income |
-| Interest on lump-sum | Taxable income |
-| Lost equity payment | Treated as additional amount on foreclosure; may be excludable as home sale gain |
-| Interest on lost equity | Taxable income |
+### Partial Exclusion
+May still qualify for exclusion on the personal-use portion.
+
+## Reverse Mortgages
+
+- Loan advances from reverse mortgages are NOT taxable income
+- Interest on reverse mortgage NOT deductible until paid
+- See Pub 936 for details
 
 ## Related Topics
 
-- [[Military Pay and Allowances]] - Housing allowances
-- [[Moving Expenses]] - PCS-related moving deductions
-- [[Combat Zone Exclusion]] - Extended duty in combat zones
-- [[Filing Status]] - Joint filing requirements for $500,000 exclusion
-- [[Itemized Deductions]] - Mortgage interest and real estate taxes
+- [[Basis of Home]] - Determining your home's basis
+- [[Home Improvements]] - Additions to basis
+- [[Settlement Costs]] - Closing costs affecting basis
+- [[Capital Gains Tax Rates]] - Rates if exclusion doesn't apply
+- [[Inherited Property Basis]] - Step-up in basis rules
+- [[Like-Kind Exchanges]] - Exchange rules for property
+- [[Depreciation Recapture]] - Recapture rules for business property
 
 ## Related Publications
 
-- [[Pub 3 - Armed Forces Tax Guide]] - Home sale rules for military
-- [[Pub 523 - Selling Your Home]] - Detailed home sale rules
-- [[Pub 544 - Sales and Other Dispositions of Assets]] - Non-residence foreclosures
+- [[Pub 554 - Tax Guide for Seniors]] - Sale of Home section
+- Pub 523 - Selling Your Home
+- Pub 936 - Home Mortgage Interest Deduction
+- Pub 544 - Sales and Other Dispositions of Assets
 
 ## Related Forms
 
-- [[Form 1040]] - Report gain on Schedule D
-- [[Form 8949]] - Sales and Other Dispositions of Capital Assets
+- Form 8949 - Sales and Other Dispositions of Capital Assets
+- Form 4797 - Sales of Business Property (for business/rental portion)
+- Form 1099-S - Proceeds From Real Estate Transactions
 
-## Source
+## References
 
-- [[Pub 3 - Armed Forces Tax Guide]] - Home section
-- Pub 523 - Selling Your Home
-- IRS.gov/Pub3
+- [[Pub 554 - Tax Guide for Seniors]] - Sale of Home section
+- Pub 523 - Detailed rules and worksheets

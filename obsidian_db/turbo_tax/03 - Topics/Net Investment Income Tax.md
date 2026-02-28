@@ -182,6 +182,9 @@ For high-income taxpayers above both thresholds:
 - [[Self-Employment Tax]] - Not subject to NIIT
 - [[Estimated Tax Payments]] - Must include NIIT
 - [[Tax Withholding and Estimated Tax]] - Pay-as-you-go system
+- [[General Rule]] - Used for nonqualified annuity taxation
+- [[Pension and Annuity Income]] - Nonqualified distributions subject to NIIT
+- [[Variable Annuities]] - Nonqualified variable annuity income subject to NIIT
 
 ## Related Publications
 

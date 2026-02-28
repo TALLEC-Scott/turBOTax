@@ -155,3 +155,6 @@ Advance payments to a private institution for lifetime care of a physically or m
 - [[Qualifying Relative]]
 - [[Dependents]]
 - [[Self-Employment Tax]]
+- [[Accelerated Death Benefits]] - Early access to life insurance for chronically ill
+- [[ABLE Accounts]] - Tax-favored savings for disabled individuals
+- [[Impairment-Related Work Expenses]] - Work-related disability expenses

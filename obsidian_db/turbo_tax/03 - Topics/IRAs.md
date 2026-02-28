@@ -13,14 +13,60 @@ tags:
 
 IRAs are tax-advantaged accounts that help individuals save for retirement. The two main types are Traditional IRAs and Roth IRAs.
 
-## Traditional IRA
+## Types of IRAs
 
-### Contributions
-- **2025 Limit:** $7,000 ($8,000 if age 50+)
-- May be deductible depending on income and employer plan coverage
-- Contributions can be made until April 15, 2026 for 2025
+### [[Traditional IRA]]
+Contributions may be tax-deductible; earnings grow tax-deferred; distributions taxed as ordinary income.
 
-### Deduction Limits (2025)
+**Key features:**
+- **2025 Contribution Limit:** $7,000 ($8,000 if age 50+)
+- Deductibility depends on income and employer plan coverage
+- Required Minimum Distributions (RMDs) begin at age 73
+- Withdrawals before age 59½ may incur 10% penalty (with exceptions)
+
+### [[Roth IRA]]
+Contributions are made with after-tax dollars; qualified distributions are tax-free; no RMDs during owner's lifetime.
+
+**Key features:**
+- **2025 Contribution Limit:** $7,000 ($8,000 if age 50+)
+- Income limits apply for eligibility
+- No deduction for contributions
+- No RMDs during owner's lifetime
+- Qualified distributions are tax-free
+
+### [[Trump Accounts]] - NEW for 2025
+New type of IRA for children born 2025-2028:
+- $1,000 pilot program contribution available
+- Use Form 4547 to establish and claim contribution
+
+### SEP-IRA and SIMPLE IRA
+See [[SEP Plans]] and [[SIMPLE Plans]] for employer-sponsored IRA arrangements.
+
+## [[IRA Contributions]]
+
+### 2025 Contribution Limits
+
+| Age | Maximum Contribution |
+|-----|---------------------|
+| Under 50 | $7,000 |
+| 50 or older | $8,000 |
+
+### 2026 Contribution Limits (Increased)
+
+| Age | Maximum Contribution |
+|-----|---------------------|
+| Under 50 | $7,500 |
+| 50 or older | $8,600 |
+
+### Key Rules
+- Combined limit for Traditional + Roth IRAs
+- Cannot exceed taxable compensation
+- Deadline: April 15 (extensions don't apply)
+- Spousal IRA available for non-working spouse
+
+## [[IRA Deductions and Phaseouts]]
+
+### Traditional IRA Deduction Phaseouts (2025)
 
 **Covered by Employer Retirement Plan:**
 
@@ -36,20 +82,7 @@ IRAs are tax-advantaged accounts that help individuals save for retirement. The 
 |---------------|----------------|-------------------|--------------|
 | MFJ | $236,000 or less | $236,001 - $246,000 | Over $246,000 |
 
-### Tax Treatment
-- Contributions may be tax-deductible
-- Earnings grow tax-deferred
-- Distributions taxed as ordinary income
-- Required Minimum Distributions (RMDs) begin at age 73
-
-## Roth IRA
-
-### Contributions
-- **2025 Limit:** $7,000 ($8,000 if age 50+)
-- Contributions are NOT deductible
-- Same total limit applies to combined Traditional + Roth contributions
-
-### Income Limits (2025)
+### Roth IRA Contribution Phaseouts (2025)
 
 | Filing Status | Full Contribution | Partial Contribution | No Contribution |
 |---------------|-------------------|----------------------|-----------------|
@@ -57,19 +90,58 @@ IRAs are tax-advantaged accounts that help individuals save for retirement. The 
 | Single/HOH | Under $150,000 | $150,000 - $165,000 | Over $165,000 |
 | MFS (lived with spouse) | $0 | Up to $10,000 | Over $10,000 |
 
-### Tax Treatment
-- Contributions made with after-tax dollars
-- Earnings grow tax-free
-- Qualified distributions are tax-free
-- No RMDs during owner's lifetime
+## [[Roth Conversions]]
 
-### Qualified Distribution Requirements
-1. Five-year holding period, AND
-2. One of the following:
-   - Age 59½ or older
-   - Disability
-   - First-time home purchase (up to $10,000)
-   - Death (to beneficiaries)
+Convert Traditional IRA (or employer plan) to Roth IRA:
+
+**Benefits:**
+- Future tax-free growth and distributions
+- No RMDs during lifetime
+- No income limits for conversions
+
+**Considerations:**
+- Must include converted amount in income
+- Tax planning opportunity in low-income years
+- Pro-rata rule applies if you have nondeductible contributions
+
+**Important:** Conversions after 2017 cannot be recharacterized.
+
+## [[IRA Recharacterizations]]
+
+Change contribution from one IRA type to another:
+- Traditional contribution → Roth contribution
+- Roth contribution → Traditional contribution
+
+**Deadline:** Due date of tax return (including extensions)
+
+**Cannot recharacterize:** Roth conversions made after 2017
+
+## [[Excess IRA Contributions]]
+
+### What Causes Excess Contributions
+- Contributing more than the limit
+- Contributing more than compensation
+- Roth contributions when income exceeds limits
+
+### Penalty
+**6% excise tax** per year until corrected.
+
+### Correction Methods
+1. Withdraw by due date (including extensions) - no penalty
+2. Apply to future year's contribution limit
+3. Distribute after due date under specific rules
+
+## [[Retirement Savings Contributions Credit]]
+
+Tax credit of up to $1,000 ($2,000 MFJ) for eligible contributions to retirement plans.
+
+**2025 Income Limits:**
+
+| Filing Status | Maximum AGI |
+|---------------|-------------|
+| MFJ | $79,000 |
+| Head of Household | $59,250 |
+| Single/MFS/QSS | $39,500 |
 
 ## Catch-Up Contributions
 
@@ -86,17 +158,20 @@ For workplace plans (401(k), 403(b), 457, TSP):
 - A spouse with little or no compensation can contribute to their own IRA
 - Combined contributions limited to total compensation of both spouses
 - Each spouse can contribute up to the annual limit
+- See [[IRA Contributions]] for details
 
 ## IRA-to-IRA Transfers
 
 ### Rollover
 - Must be completed within 60 days
-- One rollover per 12-month period per IRA
+- One rollover per 12-month period per IRA owner (not per IRA)
 
 ### Direct Transfer (Trustee-to-Trustee)
 - No time limit
 - Unlimited transfers
 - Recommended method
+
+See [[Rollovers]] for comprehensive transfer rules.
 
 ## Early Withdrawal Penalty Exceptions
 
@@ -110,75 +185,82 @@ The 10% additional tax on early distributions does not apply for:
 - Birth or adoption (up to $5,000)
 - First-time home purchase (Roth IRA only)
 
-## Trump Accounts - NEW for 2025
-
-New type of IRA for children:
-- Established by parents, guardians, or authorized individuals
-- For children born 2025-2028 who are U.S. citizens
-- $1,000 pilot program contribution available
-- Use Form 4547 to establish and claim contribution
+See [[Early Distribution Tax]] for complete details.
 
 ## Military Considerations
 
 Per [[Pub 3 - Armed Forces Tax Guide]]:
 
 ### Combat Zone Pay for IRA Calculations
-For IRA purposes, your compensation includes **nontaxable combat zone pay**. Even though excluded from gross income, it counts when figuring contribution limits.
+Nontaxable combat zone pay counts as compensation for IRA contribution limits.
 
 ### Deadline Extensions
-Individuals serving in combat zones have additional time to make IRA contributions. The deadline is extended by 180 days plus any remaining filing period after leaving the combat zone.
+Individuals serving in combat zones have additional time to make IRA contributions (180 days plus any remaining filing period).
 
 ### Qualified Reservist Distributions (QRD)
-Distributions from IRAs, 401(k), or 403(b) plans to reservists called to active duty for more than 179 days are **NOT subject to the 10% early distribution penalty** if:
-- Ordered to active duty after September 11, 2001
-- Distribution made between the call-up date and end of active duty
+Distributions to reservists called to active duty for more than 179 days are NOT subject to the 10% early distribution penalty.
 
-**Repayment:** QRD amounts can be repaid to an IRA within 2 years after active duty ends (not deductible).
-
-### Thrift Savings Plan (TSP)
-Military members can contribute to TSP:
-- **Traditional TSP:** Pre-tax contributions; combat zone contributions remain tax-exempt in the account
-- **Roth TSP:** After-tax contributions; qualified distributions are tax-free
-- **Combat zone limit (2025):** Up to $70,000 for those serving in combat zones
+**Repayment:** QRD amounts can be repaid to an IRA within 2 years after active duty ends.
 
 ## Divorce and IRAs
 
 ### IRA Transfer Due to Divorce
-- Transfer of IRA interest to spouse/former spouse under divorce decree is **not taxable**
+- Transfer under divorce decree is **not taxable**
 - After transfer, the IRA is treated as the spouse's IRA
-- No deduction for contributions to former spouse's traditional IRA after divorce
 
 ### Alimony as Compensation
 For divorce instruments executed on or before December 31, 2018:
 - Taxable alimony received counts as compensation for IRA contribution purposes
-- This does NOT apply to post-2018 instruments
 
 ### Qualified Domestic Relations Order (QDRO)
-A QDRO can divide retirement plan accounts between spouses. See [[Property Settlements]] for details.
+A QDRO can divide retirement plan accounts between spouses. See [[Property Settlements]] and [[Qualified Domestic Relations Order]].
 
 ## Related Topics
 
-- [[Filing Status]] - Determines contribution and deduction limits
+- [[Traditional IRA]] - Detailed Traditional IRA rules
+- [[Roth IRA]] - Detailed Roth IRA rules
+- [[IRA Contributions]] - Contribution limits and eligibility
+- [[IRA Deductions and Phaseouts]] - Detailed deduction calculations
+- [[Roth Conversions]] - Converting Traditional to Roth
+- [[Excess IRA Contributions]] - Handling over-contributions
+- [[IRA Recharacterizations]] - Changing contribution type
+- [[Trump Accounts]] - New IRA type for children (2025+)
+- [[Retirement Savings Contributions Credit]] - Saver's Credit
+- [[Rollovers]] - Moving retirement funds
+- [[Required Minimum Distributions]] - RMD rules
+- [[Early Distribution Tax]] - Penalty for early withdrawals
+- [[Form 8606]] - Reporting nondeductible contributions
+- [[SEP Plans]] - Employer-sponsored Traditional IRAs
+- [[SIMPLE Plans]] - Small employer retirement plans
+- [[401(k) Plans]] - Employer-sponsored alternative
+- [[403(b) Plans]] - Tax-sheltered annuities
+- [[Social Security Benefits]] - Retirement income planning
 - [[Tax Withholding and Estimated Tax]] - Retirement planning
 - [[Tax Credits]] - Saver's Credit eligibility
-- [[Social Security Benefits]] - Retirement income planning
-- [[Interest Income]] - Investment alternatives
+- [[Filing Status]] - Determines contribution and deduction limits
 - [[Standard Deduction]] - Tax planning with IRA deductions
 - [[Dependents]] - Spousal IRA rules
 - [[Property Settlements]] - IRA transfers in divorce
-- [[Alimony]] - Taxable alimony as compensation for IRA contributions
-- [[Qualified Charitable Distributions]] - IRA donations to charity for those 70½+
+- [[Alimony]] - Taxable alimony as compensation
+- [[Qualified Charitable Distributions]] - IRA donations for those 70½+
 
 ## Related Publications
 
+- [[Pub 590-A - Contributions to IRAs]] - Complete contribution rules
+- [[Pub 590-B - Distributions from IRAs]] - Distribution and RMD rules
 - [[Pub 17 - Your Federal Income Tax]] - Chapter 9
-- [[Pub 590-A - Contributions to IRAs]]
-- [[Pub 590-B - Distributions from IRAs]]
-- [[Pub 560 - Retirement Plans for Small Business]]
+- [[Pub 560 - Retirement Plans for Small Business]] - SEP and SIMPLE IRAs
+- [[Pub 505 - Tax Withholding and Estimated Tax]] - Estimated taxes for conversions
+- [[Pub 3 - Armed Forces Tax Guide]] - Military-specific rules
 
 ## Related Forms
 
-- Form 1040 - Lines for IRA deduction
-- Form 8606 - Nondeductible IRAs
-- Form 4547 - Trump Account elections
-- Form 8915-F - Qualified disaster distributions
+| Form | Purpose |
+|------|---------|
+| Form 1040 Schedule 1, Line 20 | IRA deduction |
+| Form 8606 | Nondeductible IRAs, conversions |
+| Form 5329 | Additional taxes on IRAs |
+| Form 8880 | Retirement Savings Contributions Credit |
+| Form 4547 | Trump Account elections |
+| Form 1099-R | Distributions reported |
+| Form 5498 | Contributions reported by trustee |

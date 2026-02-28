@@ -147,11 +147,13 @@ On Form 1040 or 1040-SR:
 - [[Children of Divorced Parents]] - Custodial parent rules
 - [[Innocent Spouse Relief]] - Relief from joint liability
 - [[Injured Spouse]] - Recovering your share of a refund
+- [[Tax Tables]] - HOH column for tax calculation
 
 ## Related Publications
 
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete Head of Household rules
 - [[Pub 504 - Divorced or Separated Individuals]] - Married persons living apart rules
+- [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax table with HOH column
 
 ## Related Forms
 

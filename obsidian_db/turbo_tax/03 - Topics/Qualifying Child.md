@@ -114,6 +114,21 @@ The noncustodial parent can claim the child as a qualifying child if:
 4. **[[Child and Dependent Care Credit]]** - For childcare expenses
 5. **Exclusion for [[Dependent Care Benefits]]** - Employer-provided childcare
 
+## EIC-Specific Qualifying Child Rules
+
+For the [[Earned Income Credit|Earned Income Credit (EIC)]], qualifying children have additional requirements:
+
+### SSN Requirement
+The child must have a **valid Social Security Number** issued on or before the due date of the return (including extensions). The SSN cannot be marked "Not valid for employment" unless immigration status has changed.
+
+### Residency Must Be in U.S.
+The child must have lived with you in the United States (50 states and D.C.) for more than half the year. This does NOT include Puerto Rico or U.S. territories.
+
+### Self-Only EIC Option
+If your qualifying child doesn't have a valid SSN, you may still qualify for a "self-only" EIC using the rules for taxpayers without a qualifying child.
+
+See [[EIC Tiebreaker Rules]] for rules when multiple persons can claim the same child for EIC.
+
 ## Related Topics
 
 - [[Dependents]] - Overview of dependency rules
@@ -125,12 +140,14 @@ The noncustodial parent can claim the child as a qualifying child if:
 - [[Dependent Care Benefits]] - Employer-provided childcare benefits
 - [[Credit for Other Dependents]] - For dependents not qualifying for CTC
 - [[Earned Income Credit]] - Credit based on qualifying children
+- [[EIC Tiebreaker Rules]] - When multiple persons can claim same child for EIC
 - [[Head of Household]] - Filing status requiring a qualifying person
 - [[Medical and Dental Expenses]] - Deducting medical expenses for qualifying children
 - [[Health Insurance Premiums]] - Insurance for qualifying children
 - [[Filing Status]] - Choosing the right filing status
 - [[Filing Requirements]] - Who must file
 - [[Standard Deduction]] - Deduction amounts
+- [[Tax Tables]] - EIC Table for finding credit amounts
 
 ## Related Publications
 
@@ -138,6 +155,7 @@ The noncustodial parent can claim the child as a qualifying child if:
 - [[Pub 504 - Divorced or Separated Individuals]] - Children of divorced parents rules
 - [[Pub 596 - Earned Income Credit]] - EIC qualifying child rules
 - [[Pub 972 - Child Tax Credit]] - CTC qualifying child requirements
+- [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - EIC Table amounts
 
 ## Related Forms
 

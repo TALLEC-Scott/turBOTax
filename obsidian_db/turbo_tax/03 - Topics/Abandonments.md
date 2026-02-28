@@ -39,29 +39,39 @@ For abandonment of a portion of a MACRS asset:
 
 ## Secured Property Rules
 
-### Recourse Debt
-- May have ordinary income from canceled debt
-- File [[Form 982]] if exclusion applies
+### Recourse Debt Abandonment
+- No gain or loss until the later foreclosure is completed
+- Must wait for foreclosure to calculate gain, loss, or COD income
+- Ordinary income may result from canceled debt if lender forgives balance
 
-### Nonrecourse Debt
-- Different rules apply
-- See [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]]
+### Nonrecourse Debt Abandonment
+- Treated as a **sale or exchange** immediately upon abandonment
+- Amount realized = the nonrecourse debt amount
+- Calculate gain or loss by comparing debt to adjusted basis
+- No separate COD income
+- Loss from business/investment property is deductible
+- Loss from personal-use property is **NOT deductible**
 
 ## Information Returns
 
 - **Form 1099-A**: Lender sends if property is abandoned and lender knows
 - **Form 1099-C**: Lender sends if debt is canceled ($600+)
+- Due by February 2, 2026 for 2025 transactions
 
 ## Related Topics
 
 - [[Foreclosures and Repossessions]] - Involuntary property disposition
 - [[Canceled Debt]] - COD income treatment
+- [[Recourse vs Nonrecourse Debt]] - Debt liability types and tax impact
+- [[Form 982]] - Reduction of tax attributes
+- [[Insolvency Exclusion]] - Excluding COD income when insolvent
 - [[MACRS Depreciation]] - Depreciation system for business property
 - [[Sales and Exchanges]] - General disposition rules
 - [[Partial Dispositions]] - Disposing of portion of MACRS asset
 - [[Ordinary Loss]] - Loss treatment for business property
+- [[Tax Attribute Reduction]] - Required reductions after debt exclusion
 
 ## References
 
+- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Primary source (Chapter 3)
 - [[Pub 544 - Sales and Other Dispositions of Assets]] - Chapter 1
-- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Detailed rules

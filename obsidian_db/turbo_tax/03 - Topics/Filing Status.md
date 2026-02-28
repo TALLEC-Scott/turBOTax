@@ -126,6 +126,7 @@ You can choose to treat a nonresident alien spouse as a U.S. resident for tax pu
 - [[Head of Household]] - Requirements and benefits for unmarried taxpayers
 - [[Qualifying Surviving Spouse]] - Special status for widows/widowers
 - [[Filing Requirements]] - Who must file a tax return
+- [[Tax Tables]] - Tax amounts vary by filing status
 
 ## Related Topics (Divorce and Separation)
 
@@ -141,6 +142,7 @@ You can choose to treat a nonresident alien spouse as a U.S. resident for tax pu
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete filing status rules
 - [[Pub 504 - Divorced or Separated Individuals]] - Filing status for divorced/separated taxpayers
 - [[Pub 3 - Armed Forces Tax Guide]] - Military-specific filing rules
+- [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax tables by filing status
 
 ## Related Forms
 

@@ -142,3 +142,6 @@ If you deducted medical expenses in a prior year and receive reimbursement later
 - [[Qualifying Relative]]
 - [[Self-Employment Tax]]
 - [[Tax Credits]]
+- [[Impairment-Related Work Expenses]] - Business deduction alternative (no AGI floor)
+- [[ABLE Accounts]] - Tax-favored savings for disabled individuals
+- [[Disability Pensions]] - Income treatment for disability

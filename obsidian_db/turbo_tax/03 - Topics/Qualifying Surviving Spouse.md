@@ -4,149 +4,135 @@ updated: 2026-02-28
 type: topic
 category: Filing Status
 tags:
+  - topic
   - filing-status
-  - surviving-spouse
-  - fundamentals
+  - estate
 ---
 
 # Qualifying Surviving Spouse
 
-Qualifying Surviving Spouse (QSS) is a filing status available to unmarried widows and widowers for two years after their spouse's death. It provides the same tax rates and standard deduction as [[Married Filing Jointly]].
+## Overview
 
-## 2025 Standard Deduction
-
-**$31,500** (same as Married Filing Jointly)
+Qualifying surviving spouse (formerly "qualifying widow(er)") is a filing status that allows a surviving spouse to use the same tax rates as Married Filing Jointly for two years after the year of the spouse's death.
 
 ## Eligibility Requirements
 
-To file as a Qualifying Surviving Spouse for 2025, you must meet ALL of the following tests:
+### All Must Be Met
 
-### 1. Entitled to File Joint Return in Year of Spouse's Death
+1. **Spouse died in one of the two preceding tax years**
+2. **Did not remarry before end of current tax year**
+3. **Have a dependent child or stepchild**
+4. **Provide more than half the cost of maintaining household**
+5. **Be eligible to file joint return with deceased spouse** (if alive)
 
-You must have been entitled to file a joint return with your spouse for the year they died. It doesn't matter whether you actually filed jointly.
+### Dependent Child Requirements
+- Must be son, daughter, stepchild, or adopted child
+- Must qualify as your dependent for the year
+- Must have lived with you all year (except temporary absences)
+- Must not have provided over half of their own support
 
-### 2. Spouse Died in 2023 or 2024
+## Duration of Status
 
-Your spouse must have died in 2023 or 2024 (for 2025 returns). You must NOT have remarried before the end of 2025.
+### Two-Year Period
+Can file as qualifying surviving spouse for:
+- **Year of spouse's death** (can also file joint return this year)
+- **Two years after** the year of death
 
-**Duration:** This filing status is available for only **2 years** following the year of your spouse's death.
+### Example Timeline
+If spouse died in 2024:
+- 2024: File joint return OR qualifying surviving spouse
+- 2025: File as qualifying surviving spouse
+- 2026: File as qualifying surviving spouse
+- 2027: File as Head of Household or Single
 
-| Year of Death | Years You Can Use QSS |
-|---------------|----------------------|
-| 2024 | 2025, 2026 |
-| 2023 | 2024, 2025 |
-| 2022 | 2023, 2024 (not 2025) |
+## Tax Benefits
 
-### 3. Have a Qualifying Child or Stepchild
+### Same Rates as Married Filing Jointly
+- Uses married filing jointly tax brackets
+- Highest standard deduction amount
+- No marriage penalty
 
-You must have a child or stepchild (NOT a foster child) whom you:
-- Can claim as a dependent, OR
-- Could claim as a dependent except that for 2025:
-  - The child had gross income of $5,200 or more, OR
-  - The child filed a joint return, OR
-  - You could be claimed as a dependent on someone else's return
+### Standard Deduction
+Same as married filing jointly (for 2025):
+- Higher than single or head of household
 
-**Note:** If the child isn't claimed as your dependent on Form 1040, you must enter their name in the space provided below the filing status checkboxes.
+### Tax Rate Schedule
+Uses married filing jointly tax brackets:
+- Lower rates than single or head of household
+- Wider brackets
 
-### 4. Child Lived With You All Year
+## Filing Requirements
 
-The child must have lived in your home for the entire year, except for temporary absences.
+### Can Still File Joint Return Year of Death
+- Joint return may be more beneficial
+- Both options available year of death
+- Must choose one or the other
 
-**Exceptions:**
-- **Birth or death during the year** - The child qualifies if they lived with you for the entire time they were alive
-- **Adopted child** - Qualifies if your home was their main home since adoption or placement
-- **Kidnapped child** - Special rules apply (see below)
+### Children's Income
+- Children with investment income may need to file
+- Kiddie tax rules may apply
+- See Pub 929 for dependent returns
 
-### 5. Paid More Than Half the Cost of Keeping Up a Home
+## Household Cost Test
 
-You must have paid more than half the cost of maintaining your home for the year. See [[Head of Household#What Counts as Cost of Keeping Up a Home]] for what expenses count.
+### What Counts
+Cost of maintaining household includes:
+- Rent or mortgage interest
+- Property taxes
+- Insurance on home
+- Utilities
+- Repairs
+- Food eaten in the home
 
-## Year of Death
+### What Doesn't Count
+- Value of your own services
+- Clothing, education, medical treatment
+- Life insurance premiums
+- Transportation
 
-If your spouse died in 2025:
-- You are considered married for the entire year
-- You can file [[Married Filing Jointly]] for 2025
-- This is the last year you can file jointly with your deceased spouse
-- You may be eligible for QSS for 2026 and 2027
+### More Than Half Test
+- Your contribution must exceed 50% of total household costs
+- Include contributions from all sources
+- Your earned income counts
+- Tax-exempt income counts
 
-## Special Situations
+## Remarriage
 
-### Adopted Child
-
-You may be eligible for QSS if the qualifying child was:
-- Adopted by you in 2025, or
-- Lawfully placed with you for legal adoption in 2025
-
-The child is considered to have lived with you all year if your main home was their main home since placement.
-
-### Kidnapped Child
-
-You can claim QSS if your qualifying child was kidnapped and:
-1. Law enforcement presumes kidnapping by a non-family member
-2. The child lived with you for more than half the year before the kidnapping
-3. In the year of return, the child lived with you for more than half the year following the return
-4. You would have qualified for QSS if the child hadn't been kidnapped
-
-This treatment continues until the child is found dead or would have reached age 18.
-
-### Remarriage
-
-If you remarry before the end of the tax year:
-- You CANNOT use QSS
-- You must file as married (jointly or separately) with your new spouse
-- Your deceased spouse's filing status for that year is [[Married Filing Separately]]
-
-## Benefits of Qualifying Surviving Spouse
-
-| Benefit | Qualifying Surviving Spouse | Single |
-|---------|------------------------------|--------|
-| Standard Deduction (2025) | $31,500 | $15,750 |
-| Tax Brackets | Same as MFJ | Less favorable |
-| Eligibility for Credits | Same as MFJ | More limited |
-
-**What QSS Does NOT Provide:**
-- You cannot file a joint return with your deceased spouse
-- The filing is separate; you report only your own income
-
-## How to File
-
-On Form 1040 or 1040-SR:
-1. Check the "Qualifying surviving spouse" box on the Filing Status line
-2. If the qualifying child isn't claimed as your dependent, enter their name in the space below the filing status checkboxes
-3. Use the Married Filing Jointly column of the Tax Table or Section B of the Tax Computation Worksheet
-
-## After QSS Eligibility Ends
-
-After the 2-year QSS period ends, you may be able to file as [[Head of Household]] if you:
-- Remain unmarried
-- Have a qualifying person
-- Pay more than half the cost of keeping up a home
+### Effect on Status
+- Remarriage before end of year = disqualified
+- Must file as married (joint or separate) with new spouse
+- Cannot use qualifying surviving spouse status
 
 ## Example
 
-Your spouse died in 2023 and you haven't remarried. During 2024 and 2025, you continued to keep up a home for yourself and your child who lives with you and whom you can claim as a dependent. You were entitled to file a joint return for 2023.
+**Situation**: John's wife died in 2024. They have a 10-year-old son who lives with John. John pays all household costs. John did not remarry.
 
-- 2024: File as Qualifying Surviving Spouse
-- 2025: File as Qualifying Surviving Spouse
-- 2026: File as Head of Household (if you qualify) or Single
+**Filing Status Options**:
+- 2024: Married Filing Jointly (or Qualifying Surviving Spouse)
+- 2025: Qualifying Surviving Spouse
+- 2026: Qualifying Surviving Spouse
+- 2027: Head of Household (if still supporting dependent child) or Single
+
+## Comparison with Other Filing Statuses
+
+| Status | Standard Deduction | Tax Brackets |
+|--------|-------------------|--------------|
+| Qualifying Surviving Spouse | Highest (same as MFJ) | Most favorable |
+| Married Filing Jointly | Highest | Most favorable |
+| Head of Household | Lower than MFJ | Less favorable |
+| Single | Lowest | Least favorable |
 
 ## Related Topics
 
-- [[Filing Status]] - Overview of all five filing statuses
-- [[Head of Household]] - Next filing status after QSS ends
-- [[Married Filing Jointly]] - Same tax rates as QSS
-- [[Qualifying Child]] - Requirements for qualifying child
-- [[Dependents]] - Overview of dependency rules
-- [[Standard Deduction]] - Deduction amounts by filing status
-- [[Filing Requirements]] - Who must file
+- [[Filing Status]] - All filing status options
+- [[Head of Household]] - Alternative after QSS expires
+- [[Dependents]] - Qualifying child requirements
+- [[Final Tax Return for Decedent]] - Year of death filing
+- [[Joint Return]] - Joint filing with deceased spouse
+- [[Standard Deduction]] - Deduction amounts by status
 
 ## Related Publications
 
-- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete QSS rules
-- [[Pub 559 - Survivors, Executors, and Administrators]] - Final return for decedent
-
-## Related Forms
-
-- Form 1040 - U.S. Individual Income Tax Return
-- Form 1040-SR - U.S. Tax Return for Seniors
-- Form 1310 - Statement of Person Claiming Refund Due a Deceased Taxpayer
+- [[Pub 559 - Survivors, Executors, and Administrators]] - Primary source
+- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Filing status rules
+- [[Pub 17 - Your Federal Income Tax]] - General tax guide

@@ -33,11 +33,13 @@ Credit ranges from **10% to 50%** of contributions, depending on income level.
 | Head of Household | AGI ≤ $33,750 | $33,751 - $36,563 | $36,564 - $59,250 |
 | Married Filing Jointly | AGI ≤ $45,000 | $45,001 - $48,750 | $48,751 - $79,000 |
 
-### Income Limits (2025)
-Maximum AGI to qualify:
-- **Single:** $39,500
-- **Head of Household:** $59,250
-- **Married Filing Jointly:** $79,000
+### Income Limits (2025-2026)
+
+| Filing Status | 2025 Limit | 2026 Limit |
+|---------------|------------|------------|
+| Single | $39,500 | $40,250 |
+| Head of Household | $59,250 | $60,375 |
+| Married Filing Jointly | $79,000 | $80,500 |
 
 ## Eligibility Requirements
 
@@ -183,6 +185,8 @@ Distributions do NOT reduce contributions if:
 - [[Tax Withholding and Estimated Tax]] - Pay-as-you-go system
 - [[Estimated Tax Payments]] - Quarterly payment considerations
 - [[Standard Deduction]] - Affects AGI calculation
+- [[403(b) Plans]] - 403(b) retirement plans
+- [[Elective Deferrals]] - Salary reduction contributions
 
 ## Related Publications
 

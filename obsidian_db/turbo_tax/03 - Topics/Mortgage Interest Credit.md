@@ -119,5 +119,6 @@ See [[Sale of Home]] and [[Pub 523 - Selling Your Home]] for details.
 
 ## Related Publications
 
-- [[Pub 530 - Tax Information for Homeowners]] - Primary source
+- [[Pub 936 - Home Mortgage Interest Deduction]] - Mortgage interest deduction rules
+- [[Pub 530 - Tax Information for Homeowners]] - Primary source for MCC
 - [[Pub 523 - Selling Your Home]] - Recapture rules

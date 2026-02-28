@@ -38,6 +38,7 @@ Thematic notes connecting forms, publications, and tax concepts.
 - [[Capital Medical Expenses]] - Home modifications and equipment
 - [[Tax Withholding and Estimated Tax]] - Pay-as-you-go system
 - [[Rental Expenses]] - Deductible costs for rental properties
+- [[Impairment-Related Work Expenses]] - Business deduction for disability-related work costs (no AGI floor)
 
 ### Charitable Contributions
 - [[Qualified Organizations]] - Which organizations can receive deductible contributions
@@ -53,16 +54,35 @@ Thematic notes connecting forms, publications, and tax concepts.
 - [[Child Tax Credit]] - Up to $2,000 per qualifying child
 - [[Child and Dependent Care Credit]] - For childcare expenses
 - [[Earned Income Credit]] - Refundable credit for working families
+- [[EIC Earned Income Rules]] - What counts as earned income for EIC
+- [[EIC Tiebreaker Rules]] - When multiple persons can claim same child
+- [[Investment Income for EIC]] - Investment income limits and calculation
+- [[Separated Spouse EIC Rules]] - Special rules for separated spouses
+- [[Schedule EIC]] - Form for reporting qualifying children
 - [[Credit for Other Dependents]] - $500 for other dependents
+- [[Credit for the Elderly or Disabled]] - Nonrefundable credit for 65+ or disabled
+- [[Retirement Savings Contributions Credit]] - Saver's credit for retirement contributions
 
 ### Income
 - [[Interest Income]] - Taxable and tax-exempt interest
 - [[Social Security Benefits]] - Taxability of benefits
+- [[Disability Pensions]] - Tax treatment of disability income
+- [[VA Disability Benefits]] - Nontaxable veterans' disability benefits
+- [[Accelerated Death Benefits]] - Early life insurance payouts for terminally/chronically ill
 - [[Tips and Tip Reporting]] - Tip income reporting
 - [[Supplemental Wages]] - Bonuses and supplemental pay
 - [[Military Pay and Allowances]] - Military compensation
 - [[Combat Zone Exclusion]] - Nontaxable combat pay
 - [[Rental Income]] - Types and reporting requirements
+
+### Investment Income
+- [[Original Issue Discount (OID)]] - OID accrual and reporting rules
+- [[OID Tables]] - IRS tables for publicly offered OID instruments
+- [[Acquisition Premium]] - Reduces reportable OID when purchasing above adjusted issue price
+- [[Market Discount]] - Treatment when purchasing below issue price
+- [[Contingent Payment Debt Instruments]] - Special OID rules for contingent payments
+- [[Inflation-Indexed Debt Instruments]] - TIPS and similar instruments
+- [[Stripped Bonds and Coupons]] - Zero coupon bonds and STRIPS program
 
 ### Employment Tax
 - [[Social Security and Medicare Taxes]] - FICA taxes
@@ -155,6 +175,27 @@ Thematic notes connecting forms, publications, and tax concepts.
 - [[Self-Employment Tax Abroad]] - SE tax for expats
 - [[Filing Requirements for Expats]] - Filing obligations and extensions
 
+### International (U.S. Territories)
+- [[Bona Fide Residence Test]] - Qualifying as territory resident
+- [[Territory Source Income]] - Income sourcing rules for territories
+- [[U.S. Territories Tax Filing]] - Filing requirements by residency status
+- [[Military Spouse Residency Rules]] - MSRRA provisions for military spouses
+- [[Year of Move Rules]] - Special rules when moving to/from territories
+- [[Territory Income Exclusion]] - Excluding AS/PR income from U.S. tax
+- [[Self-Employment Tax for Territory Residents]] - SE tax obligations
+- [[Double Taxation Resolution (Territories)]] - Mutual agreement procedures
+
+### Bankruptcy
+- [[Bankruptcy Estate]] - Separate taxable entity in Chapter 7/11 cases
+- [[Bankruptcy Tax Filing Requirements]] - Return obligations during bankruptcy
+- [[Chapter 7 Bankruptcy Tax]] - Liquidation bankruptcy tax rules
+- [[Chapter 11 Bankruptcy Tax]] - Reorganization bankruptcy tax rules
+- [[Chapter 13 Bankruptcy Tax]] - Individual debt adjustment tax rules
+- [[Debt Cancellation in Bankruptcy]] - Exclusion of canceled debt from income
+- [[Tax Attribute Reduction]] - Reducing losses, credits, and basis
+- [[Discharge of Tax in Bankruptcy]] - Which taxes can be discharged
+- [[Automatic Stay in Bankruptcy]] - Collection protection and CSED suspension
+
 ## All Topics
 
 ```dataview
@@ -246,6 +287,14 @@ LIMIT 10
 - [[Property Settlements]] - Tax-free transfers between spouses
 - [[Qualified Domestic Relations Order]] - Dividing retirement plans
 
+### From [[Pub 596 - Earned Income Credit]]
+- [[Earned Income Credit]] - Refundable credit for low-to-moderate income workers
+- [[EIC Earned Income Rules]] - What counts as earned income for EIC purposes
+- [[EIC Tiebreaker Rules]] - Rules when multiple persons can claim same child
+- [[Investment Income for EIC]] - Investment income limits ($11,950 for 2025)
+- [[Separated Spouse EIC Rules]] - Special rules for separated spouses
+- [[Schedule EIC]] - Form to report qualifying children for EIC
+
 ### From [[Pub 509 - Tax Calendars]]
 - [[Tax Calendars]] - Overview of tax calendar types
 - [[Semiweekly Deposit Rules]] - Payroll tax deposit schedule
@@ -290,6 +339,15 @@ LIMIT 10
 - [[Cooperative Housing Rental]] - Stock depreciation and pass-through deductions
 - [[Property Changed to Rental Use]] - Basis rules for converted property
 
+### From [[Pub 1212 - Guide to Original Issue Discount (OID) Instruments]]
+- [[Original Issue Discount (OID)]] - Core OID concept and accrual rules
+- [[OID Tables]] - IRS tables for publicly offered OID debt instruments
+- [[Acquisition Premium]] - Reduces OID when purchased above adjusted issue price
+- [[Market Discount]] - Treatment when purchased below issue price plus accrued OID
+- [[Contingent Payment Debt Instruments]] - Noncontingent bond method for uncertain payments
+- [[Inflation-Indexed Debt Instruments]] - TIPS and inflation-adjusted securities
+- [[Stripped Bonds and Coupons]] - Zero coupon bonds and STRIPS program
+
 ### From [[Pub 544 - Sales and Other Dispositions of Assets]]
 - [[Sales and Exchanges]] - Determining when a disposition occurs
 - [[Foreclosures and Repossessions]] - Property dispositions through foreclosure
@@ -310,3 +368,52 @@ LIMIT 10
 - [[Capital Loss Treatment]] - Deduction and carryover rules
 - [[Holding Period]] - Determining short vs. long-term
 - [[Information Returns for Dispositions]] - Forms 1099-B, 1099-S, 1099-DA
+
+### From [[Pub 907 - Tax Highlights for Persons With Disabilities]]
+- [[ABLE Accounts]] - Tax-favored savings for disabled individuals
+- [[Disability Pensions]] - Tax treatment before/after minimum retirement age
+- [[VA Disability Benefits]] - Nontaxable veterans' benefits
+- [[Accelerated Death Benefits]] - Early life insurance for terminally/chronically ill
+- [[Impairment-Related Work Expenses]] - Business deduction for disability work costs
+- [[Credit for the Elderly or Disabled]] - Nonrefundable credit for 65+ or disabled
+- [[Business Tax Incentives for Disabilities]] - Credits and deductions for accessibility
+- [[Long-Term Care]] - Long-term care insurance treatment
+- [[Medical and Dental Expenses]] - Disability-related medical deductions
+
+### From [[Pub 570 - Tax Guide for Individuals With Income From U.S. Territories]]
+- [[Bona Fide Residence Test]] - Three-part test for territory residency
+- [[Territory Source Income]] - Income sourcing rules by type
+- [[U.S. Territories Tax Filing]] - Filing requirements by territory and status
+- [[Military Spouse Residency Rules]] - MSRRA provisions
+- [[Year of Move Rules]] - Transition year rules for moving to/from territories
+- [[Territory Income Exclusion]] - Section 931/933 exclusions
+- [[Self-Employment Tax for Territory Residents]] - SE tax obligations
+- [[Double Taxation Resolution (Territories)]] - Mutual agreement procedures
+
+### Bankruptcy
+
+#### Bankruptcy Estate and Filing
+- [[Bankruptcy Estate]] - Separate taxable entity in Chapter 7/11 cases
+- [[Bankruptcy Tax Filing Requirements]] - Return obligations during bankruptcy
+- [[Automatic Stay in Bankruptcy]] - Collection protection and CSED suspension
+
+#### Bankruptcy Chapters
+- [[Chapter 7 Bankruptcy Tax]] - Liquidation bankruptcy rules
+- [[Chapter 11 Bankruptcy Tax]] - Reorganization bankruptcy rules
+- [[Chapter 13 Bankruptcy Tax]] - Individual debt adjustment rules
+
+#### Debt and Tax in Bankruptcy
+- [[Debt Cancellation in Bankruptcy]] - Exclusion of canceled debt from income
+- [[Tax Attribute Reduction]] - Reducing losses, credits, and basis for canceled debt
+- [[Discharge of Tax in Bankruptcy]] - Which taxes can be discharged
+
+### From [[Pub 908 - Bankruptcy Tax Guide]]
+- [[Bankruptcy Estate]] - Separate taxable entity, EIN requirements, asset transfers
+- [[Bankruptcy Tax Filing Requirements]] - Pre/post-petition returns, filing thresholds
+- [[Chapter 7 Bankruptcy Tax]] - Liquidation, short tax year election, discharge rules
+- [[Chapter 11 Bankruptcy Tax]] - Reorganization, DIP responsibilities, W-2 allocation
+- [[Chapter 13 Bankruptcy Tax]] - No separate entity, 4-year return requirement
+- [[Debt Cancellation in Bankruptcy]] - Bankruptcy and insolvency exclusions
+- [[Tax Attribute Reduction]] - Order of reduction, basis election, Form 982
+- [[Discharge of Tax in Bankruptcy]] - Priority taxes, non-dischargeable taxes
+- [[Automatic Stay in Bankruptcy]] - Collection prohibition, CSED suspension

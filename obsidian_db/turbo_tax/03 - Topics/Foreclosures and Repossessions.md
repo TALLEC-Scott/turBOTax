@@ -66,12 +66,16 @@ When debt exceeds FMV on foreclosure with recourse debt:
 - [[Canceled Debt]] - COD income rules and exclusions
 - [[Abandonments]] - Voluntary relinquishment of property
 - [[Sales and Exchanges]] - General disposition rules
-- [[Foreclosures and Repossessions]] - Property disposition through foreclosure
+- [[Recourse vs Nonrecourse Debt]] - Debt liability types and tax impact
 - [[Form 982]] - Reduction of tax attributes
-- [[Recourse vs Nonrecourse Debt]] - Debt liability types
+- [[Insolvency Exclusion]] - Excluding COD income when insolvent
+- [[Qualified Principal Residence Indebtedness]] - Home mortgage debt exclusion
+- [[Debt Cancellation in Bankruptcy]] - Bankruptcy exclusion rules
+- [[Foreclosures and Repossessions]] - Property disposition through foreclosure
+- [[Tax Attribute Reduction]] - Required reductions after debt exclusion
 
 ## References
 
+- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Primary source (Chapter 2)
 - [[Pub 544 - Sales and Other Dispositions of Assets]] - Chapter 1
-- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Detailed guidance
 - [[Pub 908 - Bankruptcy Tax Guide]] - Bankruptcy rules

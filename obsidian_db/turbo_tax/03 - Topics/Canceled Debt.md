@@ -149,18 +149,25 @@ If you included canceled debt in income and later pay the debt, you may file For
 
 ## Related Publications
 
+- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Comprehensive guidance on COD income, exclusions, and reporting
 - [[Pub 525 - Taxable and Nontaxable Income]] - General canceled debt rules
 - [[Pub 908 - Bankruptcy Tax Guide]] - Bankruptcy debt rules
-- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions]] - Detailed guidance
 - [[Pub 225 - Farmer's Tax Guide]] - Farm debt rules
 - [[Pub 334 - Tax Guide for Small Business]] - Business debt rules
 
 ## Related Topics
 
-- [[Bankruptcy]] - Debt discharge in bankruptcy
-- [[Foreclosure]] - Property surrender and debt relief
-- [[Business Debt]] - Business debt cancellation
-- [[Student Loans]] - Education loan forgiveness
+- [[Insolvency Exclusion]] - Excluding debt when liabilities exceed assets
+- [[Qualified Principal Residence Indebtedness]] - Home mortgage debt exclusion
+- [[Qualified Farm Indebtedness]] - Farm debt exclusion
+- [[Qualified Real Property Business Indebtedness]] - Business real property debt exclusion
+- [[Recourse vs Nonrecourse Debt]] - Debt type distinctions for tax purposes
+- [[Debt Cancellation in Bankruptcy]] - Bankruptcy exclusion rules
+- [[Tax Attribute Reduction]] - Reducing attributes after exclusion
+- [[Form 982]] - Form to claim exclusions
+- [[Foreclosures and Repossessions]] - Property disposition rules
+- [[Abandonments]] - Tax treatment of abandoned property
+- [[Student Loan Cancellations]] - Education loan forgiveness
 
 ## Common Questions
 

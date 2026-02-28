@@ -136,6 +136,8 @@ Randall has two children, pays $6,000 for daycare. His employer provides $5,000 
 - [[Earned Income Credit]] - Different credit for workers
 - [[Child Tax Credit]] - Separate credit for children
 - [[Tax Credits]] - Parent category
+- [[Credit for the Elderly or Disabled]] - Credit for disabled individuals
+- [[Impairment-Related Work Expenses]] - Work expenses for disabled taxpayers
 
 ## Related Publications
 

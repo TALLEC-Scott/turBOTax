@@ -146,11 +146,14 @@ For dependents, use the greater of:
 - [[Filing Requirements]] - Who must file
 - [[Head of Household]] - Higher standard deduction
 - [[Qualifying Surviving Spouse]] - Uses MFJ deduction
+- [[Taxable Income]] - What remains after deductions
+- [[Tax Tables]] - Used after calculating taxable income
 
 ## Related Publications
 
 - [[Pub 17 - Your Federal Income Tax]] - Chapter 10
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete standard deduction rules
+- [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax tables using taxable income
 
 ## Related Forms
 

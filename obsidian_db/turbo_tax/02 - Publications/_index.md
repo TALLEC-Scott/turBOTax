@@ -17,6 +17,7 @@ IRS Publications distilled into actionable notes.
 |-------------|-------|------------|
 | [[Pub 15 - Employer's Tax Guide\|Pub 15]] | Employer's Tax Guide (Circular E) | Employment taxes, payroll, withholding |
 | [[Pub 17 - Your Federal Income Tax\|Pub 17]] | Your Federal Income Tax | Comprehensive individual tax guide |
+| [[Pub 1040 - Tax and Earned Income Credit Tables 2025\|Pub 1040]] | Tax and Earned Income Credit Tables | Tax tables, EIC tables, filing status |
 | [[Pub 3 - Armed Forces Tax Guide\|Pub 3]] | Armed Forces Tax Guide | Military-specific tax rules |
 | [[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad\|Pub 54]] | Tax Guide for U.S. Citizens Abroad | FEIE, housing exclusion, foreign tax credit |
 | [[Pub 225 - Farmer's Tax Guide\|Pub 225]] | Farmer's Tax Guide | Farm income, expenses, depreciation, credits |
@@ -82,6 +83,7 @@ The comprehensive guide for farmers, covering farm income, expenses, depreciatio
 - [[Pub 544 - Sales and Other Dispositions of Assets]] - Capital gains, business property, depreciation recapture
 - [[Pub 550 - Investment Income and Expenses]]
 - [[Pub 537 - Installment Sales]]
+- [[Pub 1212 - Guide to Original Issue Discount (OID) Instruments]] - OID rules, tables, and reporting
 
 ### Deductions
 - [[Pub 502 - Medical and Dental Expenses]]
@@ -174,7 +176,8 @@ The comprehensive guide to tax rules for disposing of property:
 - [[Pub 551 - Basis of Assets]] - Basis determination
 
 ### Credits
-- [[Pub 596 - Earned Income Credit]]
+- [[Pub 596 - Earned Income Credit]] - Comprehensive guide to the refundable credit for working families
+- [[Pub 907 - Tax Highlights for Persons With Disabilities]] - Disability income, ABLE accounts, impairment-related expenses
 - [[Pub 970 - Tax Benefits for Education]]
 - [[Pub 972 - Child Tax Credit]]
 
@@ -198,10 +201,14 @@ The comprehensive guide to tax rules for disposing of property:
 - [[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad]] - Expatriate tax rules
 - [[Pub 514 - Foreign Tax Credit for Individuals]] - Comprehensive FTC guidance
 - [[Pub 519 - U.S. Tax Guide for Aliens]]
+- [[Pub 570 - Tax Guide for Individuals With Income From U.S. Territories]] - Bona fide residence, territory source income, filing requirements
 - [[Pub 901 - U.S. Tax Treaties]]
 
 ### Tax Administration
 - [[Pub 509 - Tax Calendars]] - Filing deadlines, deposit schedules, and tax calendars
+
+### Bankruptcy
+- [[Pub 908 - Bankruptcy Tax Guide]] - Bankruptcy estate taxation, debt cancellation, discharge rules
 
 ## All Publications
 

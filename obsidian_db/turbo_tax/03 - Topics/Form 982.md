@@ -69,16 +69,26 @@ Reduce tax attributes in the required order. For homeowners, this is typically:
 
 ## Related Topics
 
+- [[Canceled Debt]] - General debt discharge rules
+- [[Insolvency Exclusion]] - Excluding debt when liabilities exceed assets
+- [[Qualified Principal Residence Indebtedness]] - Home mortgage debt exclusion
+- [[Qualified Farm Indebtedness]] - Farm debt exclusion
+- [[Qualified Real Property Business Indebtedness]] - Business real property debt exclusion
+- [[Debt Cancellation in Bankruptcy]] - Bankruptcy exclusion rules
+- [[Tax Attribute Reduction]] - Required reductions after exclusion
 - [[Basis of Home]] - How discharge affects basis
 - [[Sale of Home]] - Gain calculation with reduced basis
-- [[Canceled Debt]] - General debt discharge rules
+- [[Foreclosures and Repossessions]] - Property disposition rules
+- [[Abandonments]] - Tax treatment of abandoned property
 
 ## Related Forms
 
 - [[Form 1040]] - Main tax return
+- [[Form 1099-C]] - Cancellation of Debt (received from lender)
 
 ## Related Publications
 
+- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Primary source for COD exclusions and Form 982 instructions
 - [[Pub 530 - Tax Information for Homeowners]] - Mortgage debt forgiveness
-- [[Pub 4681 - Canceled Debts, Foreclosures, Repossessions, and Abandonments]] - Detailed debt rules
+- [[Pub 908 - Bankruptcy Tax Guide]] - Bankruptcy exclusion details
 - Form 982 Instructions - Attribute reduction order

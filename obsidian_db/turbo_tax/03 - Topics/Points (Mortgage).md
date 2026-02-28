@@ -129,7 +129,52 @@ Same facts as Example 1, but the seller also paid 1 point ($1,000).
 - [[Schedule A (Form 1040)]] - Itemized Deductions
 - [[Form 1098]] - Mortgage Interest Statement (shows deductible points)
 
+## Ratable Deduction Rules
+
+If you don't meet all the tests for full deduction in year paid, you can deduct points ratably over the loan life if you meet these tests:
+
+1. You use the **cash method** of accounting
+2. Your loan is **secured by a home** (doesn't need to be main home)
+3. Your loan period isn't more than **30 years**
+4. If loan period is more than 10 years, terms are the same as other loans in your area
+5. Either initial principal was **$250,000 or less**, OR points don't exceed:
+   - 4 points (if loan period is 15 years or less)
+   - 6 points (if loan period is more than 15 years)
+
+**Example**: You take out a $100,000 home mortgage for 20 years. You pay $4,800 in points. You made 3 monthly payments in 2025. Your deduction is $60 [($4,800 ÷ 240 months) × 3 payments].
+
+## Original Issue Discount
+
+If you don't qualify to deduct points (either method), the points reduce the issue price of the loan, resulting in original issue discount (OID).
+
+## Form 1098 Reporting
+
+Form 1098 (Box 6) shows points paid on purchase of principal residence. However:
+
+- Form 1098 generally includes only points fully deductible in year paid
+- May report points that aren't deductible (MFS, multiple properties)
+- Points not on Form 1098 may still be deductible
+- Verify deductibility using the rules in this topic
+
+## Limits on Points Deduction
+
+Points on mortgages exceeding [[Home Acquisition Debt]] limits may not be fully deductible. See the Table 1 Instructions in [[Pub 936 - Home Mortgage Interest Deduction]] for line 13 calculations.
+
+## Related Topics
+
+- [[Home Mortgage Interest]] - Main interest deduction rules
+- [[Home Acquisition Debt]] - Debt limits affecting points deduction
+- [[Basis of Home]] - How points affect basis
+- [[Itemized Deductions]] - Where to deduct
+- [[Settlement Costs]] - Other closing costs
+- [[Schedule A (Form 1040)]] - Reporting form
+
+## Related Forms
+
+- [[Schedule A (Form 1040)]] - Itemized Deductions
+- [[Form 1098]] - Mortgage Interest Statement (shows deductible points)
+
 ## Related Publications
 
-- [[Pub 530 - Tax Information for Homeowners]] - Primary source
-- [[Pub 936 - Home Mortgage Interest Deduction]] - Detailed points rules
+- [[Pub 936 - Home Mortgage Interest Deduction]] - Comprehensive points rules and examples
+- [[Pub 530 - Tax Information for Homeowners]] - General homeowner information

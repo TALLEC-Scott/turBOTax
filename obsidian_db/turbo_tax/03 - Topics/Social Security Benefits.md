@@ -139,20 +139,27 @@ If you repaid benefits:
 - If repayment exceeds benefits received, may be able to claim deduction or credit
 - See Pub 915 for details
 
-## Related Publications
-
-- [[Pub 915 - Social Security Benefits]] - Detailed taxability rules and worksheets
-- [[Pub 525 - Taxable and Nontaxable Income]] - General income rules
-- [[Pub 590-A - Contributions to IRAs]] - IRA deduction with Social Security
-- [[Pub 554 - Tax Guide for Seniors]] - Senior tax issues
-
 ## Related Topics
 
+- [[Social Security Benefits Taxation]] - Detailed taxability rules and thresholds
+- [[Lump-Sum Election]] - Special method for prior year benefits
+- [[Benefits Repayment Rules]] - Handling repayments
+- [[Form SSA-1099]] - Understanding your benefit statement
+- [[Form RRB-1099]] - Railroad retirement statements
+- [[Nonresident Alien Social Security Taxation]] - Rules for nonresident aliens
+- [[Railroad Retirement Benefits]] - Tier 1 SSEB taxation
 - [[Retirement Income]] - Pensions and retirement income
 - [[IRAs]] - IRA contributions and deductions
 - [[Disability and Workers Compensation]] - Disability benefits
 - [[Estimated Tax Payments]] - Paying tax on benefits
 - [[Form W-4V]] - Voluntary withholding request
+
+## Related Publications
+
+- [[Pub 915 - Social Security and Equivalent Railroad Retirement Benefits]] - Primary source for detailed rules and worksheets
+- [[Pub 525 - Taxable and Nontaxable Income]] - General income rules
+- [[Pub 590-A - Contributions to IRAs]] - IRA deduction with Social Security
+- [[Pub 554 - Tax Guide for Seniors]] - Senior tax issues
 
 ## Common Questions
 
@@ -163,7 +170,7 @@ If you repaid benefits:
 **A:** Yes, complete Form W-4V and submit to the Social Security Administration. Choose from 7%, 10%, 12%, or 22% withholding.
 
 ### Q: What if I received a lump-sum for prior years?
-**A:** You may benefit from the lump-sum election method. See Pub 915 for worksheets to determine best option.
+**A:** You may benefit from the lump-sum election method. See [[Lump-Sum Election]] and [[Pub 915 - Social Security and Equivalent Railroad Retirement Benefits]] for worksheets to determine best option.
 
 ### Q: Are SSI benefits taxable?
 **A:** No, Supplemental Security Income (SSI) is not taxable and doesn't need to be reported on your tax return.
