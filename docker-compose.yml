@@ -5,36 +5,54 @@ services:
       dockerfile: Containerfile
     image: turbo-tax-agent
     container_name: turbo-tax
-    stdin_open: true
-    tty: true
+    network_mode: host
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
     volumes:
-      # Documentation - read only
       - ./docs:/app/docs:ro
-      # Obsidian vault - read/write
       - ./obsidian_db/turbo_tax:/app/vault
-      # Qwen config with MCP settings - read/write
-      - ./config:/app/.config/qwen
-      # IRS publications data - read only
       - ./data:/app/data:ro
     working_dir: /app
     command: bash
 
-  # Quick commands via docker compose run
+  # Distill a single publication: podman-compose run --rm distill 17
   distill:
     build:
       context: .
       dockerfile: Containerfile
     image: turbo-tax-agent
     container_name: turbo-tax-distill
-    stdin_open: true
-    tty: true
+    network_mode: host
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
     volumes:
       - ./docs:/app/docs:ro
       - ./obsidian_db/turbo_tax:/app/vault
-      - ./config:/app/.config/qwen
       - ./data:/app/data:ro
     working_dir: /app
-    # Override with: docker compose run --rm distill bash -c "qwen --yolo ..."
-    command: bash
-    profiles:
-      - tools
+    entrypoint: [/app/scripts/distill-entrypoint.sh]
+    command: ["17"]
+
+  # Distill all publications: podman-compose run --rm distill-all
+  distill-all:
+    build:
+      context: .
+      dockerfile: Containerfile
+    image: turbo-tax-agent
+    container_name: turbo-tax-distill-all
+    network_mode: host
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+    volumes:
+      - ./docs:/app/docs:ro
+      - ./obsidian_db/turbo_tax:/app/vault
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+    working_dir: /app
+    entrypoint: [/app/scripts/distill-all.sh]

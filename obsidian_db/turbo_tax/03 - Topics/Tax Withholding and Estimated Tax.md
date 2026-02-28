@@ -133,12 +133,16 @@ If AGI exceeded $150,000 on prior year return:
 
 ## Related Topics
 
-- [[Filing Status]]
-- [[IRAs]]
-- [[Tax Credits]]
-- [[Self-Employment Income]]
-- [[Interest Income]]
-- [[Social Security Benefits]]
+- [[Filing Status]] - Affects withholding calculations
+- [[IRAs]] - Retirement withholding considerations
+- [[Tax Credits]] - May reduce withholding needs
+- [[Interest Income]] - May require estimated payments
+- [[Social Security Benefits]] - Voluntary withholding option
+- [[Itemized Deductions]] - SALT withholding considerations
+- [[Standard Deduction]] - Simplifies tax planning
+- [[Filing Requirements for Expats]] - Special rules for U.S. citizens abroad
+- [[Self-Employment Tax Abroad]] - SE tax and estimated payments for expats
+- [[Foreign Earned Income Exclusion]] - Withholding adjustments for FEIE
 
 ## Related Publications
 

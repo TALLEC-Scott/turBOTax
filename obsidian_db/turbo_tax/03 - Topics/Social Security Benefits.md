@@ -102,12 +102,13 @@ You can request federal income tax withholding from Social Security benefits:
 
 ## Related Topics
 
-- [[Filing Status]]
-- [[Interest Income]]
-- [[IRAs]]
-- [[Retirement Planning]]
-- [[Tax Withholding]]
-- [[Itemized Deductions]]
+- [[Filing Status]] - Affects taxability thresholds
+- [[Interest Income]] - Included in combined income calculation
+- [[IRAs]] - Retirement income planning
+- [[Tax Withholding and Estimated Tax]] - Voluntary withholding option
+- [[Itemized Deductions]] - Repayment deductions
+- [[Standard Deduction]] - Tax planning for retirees
+- [[Tax Credits]] - May affect overall tax liability
 
 ## Related Publications
 

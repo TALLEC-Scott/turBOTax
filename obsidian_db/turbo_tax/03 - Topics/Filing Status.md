@@ -93,23 +93,43 @@ If more than one filing status applies, choose the one with the lowest tax.
 | IRA Deduction Limits | Higher | Lower | Higher | Lower |
 | SALT Deduction Cap | $40,000 | $20,000 | $40,000 | $40,000 |
 
+## Military Considerations
+
+Per [[Pub 3 - Armed Forces Tax Guide]]:
+
+### Same-Sex Marriage
+For federal tax purposes, marriages of same-sex couples are treated the same as opposite-sex marriages. You must select married filing jointly or married filing separately.
+
+### Registered Domestic Partnerships
+If you're in a registered domestic partnership, civil union, or similar relationship not considered a marriage under state law, you're not considered married for federal tax purposes. Select single or head of household (if eligible).
+
+### Spouse in Combat Zone
+If your spouse is in a combat zone, you may:
+- File a joint return with their written statement (or power of attorney)
+- Sign the return with "filing as surviving spouse" notation
+- Claim any refund due to a deceased spouse
+
+### Nonresident Alien Spouse
+You can choose to treat a nonresident alien spouse as a U.S. resident for tax purposes by filing a joint return. This is indicated by a checkbox in the Filing Status section of Form 1040.
+
 ## Related Topics
 
-- [[Standard Deduction]]
-- [[Dependents]]
-- [[Tax Credits]]
-- [[Child Tax Credit]]
-- [[Earned Income Credit]]
-- [[IRAs]]
-- [[Itemized Deductions]]
+- [[Standard Deduction]] - Amounts vary by filing status
+- [[Dependents]] - Affects head of household qualification
+- [[Tax Credits]] - Eligibility varies by filing status
+- [[Child Tax Credit]] - Phaseout thresholds by status
+- [[Earned Income Credit]] - Not available if MFS
+- [[IRAs]] - Deduction limits vary by status
+- [[Itemized Deductions]] - SALT limits by filing status
 
 ## Related Publications
 
 - [[Pub 17 - Your Federal Income Tax]] - Chapter 2
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]]
 - [[Pub 504 - Divorced or Separated Individuals]]
+- [[Pub 3 - Armed Forces Tax Guide]] - Military-specific filing rules
 
 ## Related Forms
 
-- [[Form 1040]] - U.S. Individual Income Tax Return
+- Form 1040 - U.S. Individual Income Tax Return
 - Form 1040-SR - U.S. Tax Return for Seniors

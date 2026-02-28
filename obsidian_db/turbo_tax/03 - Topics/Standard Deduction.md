@@ -97,12 +97,11 @@ If claimed as a dependent by another taxpayer:
 
 ## Related Topics
 
-- [[Itemized Deductions]]
-- [[Filing Status]]
-- [[Dependents]]
-- [[Tax Credits]]
-- [[IRAs]]
-- [[Tax Withholding]]
+- [[Itemized Deductions]] - Alternative to standard deduction
+- [[Filing Status]] - Determines deduction amount
+- [[Dependents]] - Special rules for dependents
+- [[Tax Credits]] - May reduce tax further
+- [[IRAs]] - Retirement planning considerations
 
 ## Related Publications
 

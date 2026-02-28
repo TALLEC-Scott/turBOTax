@@ -5,149 +5,144 @@ type: topic
 category: Deductions
 tags:
   - deductions
-  - schedule-a
+  - itemized
 ---
 
 # Itemized Deductions
 
-Itemized deductions are specific expenses that reduce your taxable income. Claim itemized deductions on Schedule A (Form 1040) if they exceed your standard deduction.
+Itemized deductions are specific expenses that reduce your taxable income. You should itemize if your total itemized deductions exceed your standard deduction.
 
 ## When to Itemize
 
-Itemize if total deductions exceed the [[Standard Deduction]] for your filing status.
+Itemize when total deductions exceed the standard deduction:
+- **Single:** $15,750
+- **Married Filing Jointly:** $31,500
+- **Head of Household:** $23,625
 
-### 2025 Standard Deduction Thresholds
-- Single: $15,750
-- MFJ: $31,500
-- HOH: $23,625
+## Categories of Itemized Deductions (Schedule A)
 
-## Categories of Itemized Deductions
-
-### 1. Medical and Dental Expenses (Schedule A, Line 1)
+### 1. Medical and Dental Expenses
 
 **Deductible Amount:** Expenses exceeding 7.5% of AGI
 
-**Qualifying Expenses:**
-- Doctor and dentist fees
-- Hospital care
+**Includes:**
+- Doctor, dentist, hospital fees
 - Prescription medications
 - Medical equipment and supplies
 - Health insurance premiums (not paid pre-tax)
-- Long-term care insurance (limited)
-- Travel for medical care
+- Long-term care insurance (limited by age)
+- Transportation for medical care
 
 **Not Deductible:**
-- Expenses reimbursed by insurance
+- Health club memberships
 - Cosmetic surgery (unless medically necessary)
-- Non-prescription medications
-- General health items (vitamins, health club dues)
+- Non-prescription medications (with exceptions)
+- Expenses reimbursed by insurance
 
-### 2. State and Local Taxes (SALT) (Schedule A, Line 5)
+### 2. State and Local Taxes (SALT)
 
-**2025 Limit:** $40,000 ($20,000 if MFS)
+**2025 Limit:** $40,000 ($20,000 if Married Filing Separately)
+- Reduced if MAGI exceeds $500,000 ($250,000 MFS)
+- Cannot go below $10,000 ($5,000 MFS)
 
 **Deductible Taxes:**
-- State and local income OR sales taxes (choose one)
+- State and local income taxes OR sales taxes
 - Real estate taxes
 - Personal property taxes
 
-**Phaseout:** Limit reduced if MAGI exceeds $500,000 ($250,000 MFS), but not below $10,000
+**Not Deductible:**
+- Federal income taxes
+- FHA mortgage insurance premiums
+- Foreign real estate taxes
+- Transfer taxes on property sales
 
-### 3. Interest Expense (Schedule A, Lines 8-10)
+### 3. Interest Expense
 
 **Home Mortgage Interest:**
-- Interest on up to $750,000 of acquisition debt
-- Interest on home equity loans (if used to buy, build, or improve home)
-- Reported on Form 1098
+- On loans up to $750,000 ($375,000 MFS)
+- Acquisition debt (to buy, build, or improve home)
+- Home equity loan interest (if used for home)
 
 **Investment Interest:**
-- Interest on debt to purchase taxable investments
+- Interest on money borrowed to purchase investments
 - Limited to net investment income
 
-**NOT Deductible:**
+**Not Deductible:**
 - Personal credit card interest
-- Car loan interest (unless for business)
-- Points paid on rental property
+- Car loan interest (unless new 2025 deduction applies)
+- Points paid on refinance (amortized over loan term)
 
-### 4. Charitable Contributions (Schedule A, Lines 11-14)
+### 4. Charitable Contributions
 
 **Cash Contributions:**
-- Limit: 60% of AGI
+- Limited to 60% of AGI
 - Must have bank record or written acknowledgment
 
 **Non-Cash Contributions:**
-- Limit: 50% of AGI for most property
-- Fair market value at time of donation
-- Special rules for vehicles, clothing, household items
+- Limited to 50%, 30%, or 20% of AGI depending on type
+- Clothing and household items must be in good condition
+- Document donations over $500 with Form 8283
 
-**Carryover:** Excess contributions carry forward 5 years
+**Volunteer Expenses:**
+- 14 cents per mile (2025) for charitable use of car
+- Out-of-pocket expenses for charity work
 
-**Documentation Required:**
-- Under $250: Receipt or bank record
-- $250-$500: Written acknowledgment from charity
-- Over $500: Form 8283 required
-- Over $5,000: Qualified appraisal required
+### 5. Casualty and Theft Losses
 
-### 5. Casualty and Theft Losses (Schedule A, Line 15)
+**Only Deductible If:**
+- From federally declared disaster
+- Loss exceeds 10% of AGI (after $100 per casualty floor)
 
-**Limited to:**
-- Federally declared disasters
-- Must exceed $100 per casualty
-- Only amount exceeding 10% of AGI
-
-### 6. Other Itemized Deductions (Schedule A, Line 16)
+### 6. Other Itemized Deductions
 
 - Gambling losses (up to gambling winnings)
-- Casualty and theft losses from income-producing property
-- Federal estate tax on income in respect of a decedent
+- Unrecovered investment in pension (at death)
 - Amortizable bond premium
 
-## Deductions Eliminated (2018-2025)
+## Limitations and Phaseouts
 
-The following previously deductible items are no longer deductible:
-- Unreimbursed employee expenses
-- Tax preparation fees
-- Investment fees and expenses
-- Moving expenses (except military)
-- Miscellaneous deductions subject to 2% AGI floor
+### Overall Itemized Deduction Limit
+No overall limitation for 2025 (eliminated by TCJA through 2025).
 
-## Itemizing vs. Standard Deduction
+### High-Income Considerations
+- SALT deduction limited to $40,000
+- Charitable contribution limits apply
+- Investment interest limitation based on investment income
 
-### Consider Itemizing If:
-- Large unreimbursed medical expenses
-- High state/local taxes (up to limit)
-- Significant mortgage interest
-- Substantial charitable giving
-- Casualty loss from federally declared disaster
+## Schedule A Quick Reference
 
-### Example Calculation
-```
-Medical expenses: $20,000 (AGI $100,000)
-  - 7.5% floor: -$7,500
-  = Deductible: $12,500
+| Line | Deduction Type | Key Limit |
+|------|----------------|-----------|
+| 1-4 | Medical/Dental | > 7.5% AGI |
+| 5a-5c | SALT | $40,000 max |
+| 6-7 | Interest | $750k mortgage |
+| 8-14 | Charity | 60% AGI (cash) |
+| 15-16 | Casualty | Disaster only |
+| 17 | Other | Varies |
 
-SALT: $15,000
-Mortgage interest: $12,000
-Charitable contributions: $8,000
+## Recordkeeping Requirements
 
-Total Itemized: $47,500
-Standard Deduction (Single): $15,750
-→ Itemize (higher amount)
-```
+- **Medical:** Receipts, insurance statements, mileage log
+- **Taxes:** Property tax bills, DMV registration, receipts
+- **Interest:** Form 1098, closing documents
+- **Charity:** Acknowledgment letters, bank records, receipts
 
 ## Related Topics
 
-- [[Standard Deduction]]
-- [[Filing Status]]
-- [[Tax Credits]]
-- [[Interest Income]]
-- [[IRAs]]
+- [[Standard Deduction]] - Alternative to itemizing
+- [[Filing Status]] - SALT limits vary by status
+- [[Tax Credits]] - Additional tax benefits
+- [[Tax Withholding and Estimated Tax]] - SALT withholding
+- [[Interest Income]] - Investment interest deduction
+- [[Social Security Benefits]] - Medical expense planning
+- [[IRAs]] - Retirement planning with deductions
 
 ## Related Publications
 
 - [[Pub 17 - Your Federal Income Tax]] - Chapters 21-26
 - [[Pub 502 - Medical and Dental Expenses]]
 - [[Pub 526 - Charitable Contributions]]
+- [[Pub 530 - Tax Information for Homeowners]]
 - [[Pub 547 - Casualties, Disasters, and Thefts]]
 - [[Pub 936 - Home Mortgage Interest Deduction]]
 

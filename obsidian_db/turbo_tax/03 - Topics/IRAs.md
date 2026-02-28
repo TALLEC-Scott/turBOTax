@@ -118,14 +118,38 @@ New type of IRA for children:
 - $1,000 pilot program contribution available
 - Use Form 4547 to establish and claim contribution
 
+## Military Considerations
+
+Per [[Pub 3 - Armed Forces Tax Guide]]:
+
+### Combat Zone Pay for IRA Calculations
+For IRA purposes, your compensation includes **nontaxable combat zone pay**. Even though excluded from gross income, it counts when figuring contribution limits.
+
+### Deadline Extensions
+Individuals serving in combat zones have additional time to make IRA contributions. The deadline is extended by 180 days plus any remaining filing period after leaving the combat zone.
+
+### Qualified Reservist Distributions (QRD)
+Distributions from IRAs, 401(k), or 403(b) plans to reservists called to active duty for more than 179 days are **NOT subject to the 10% early distribution penalty** if:
+- Ordered to active duty after September 11, 2001
+- Distribution made between the call-up date and end of active duty
+
+**Repayment:** QRD amounts can be repaid to an IRA within 2 years after active duty ends (not deductible).
+
+### Thrift Savings Plan (TSP)
+Military members can contribute to TSP:
+- **Traditional TSP:** Pre-tax contributions; combat zone contributions remain tax-exempt in the account
+- **Roth TSP:** After-tax contributions; qualified distributions are tax-free
+- **Combat zone limit (2025):** Up to $70,000 for those serving in combat zones
+
 ## Related Topics
 
-- [[Filing Status]]
-- [[Tax Withholding]]
-- [[Retirement Planning]]
-- [[Tax Credits]]
-- [[Social Security Benefits]]
-- [[Interest Income]]
+- [[Filing Status]] - Determines contribution and deduction limits
+- [[Tax Withholding and Estimated Tax]] - Retirement planning
+- [[Tax Credits]] - Saver's Credit eligibility
+- [[Social Security Benefits]] - Retirement income planning
+- [[Interest Income]] - Investment alternatives
+- [[Standard Deduction]] - Tax planning with IRA deductions
+- [[Dependents]] - Spousal IRA rules
 
 ## Related Publications
 
@@ -139,3 +163,4 @@ New type of IRA for children:
 - Form 1040 - Lines for IRA deduction
 - Form 8606 - Nondeductible IRAs
 - Form 4547 - Trump Account elections
+- Form 8915-F - Qualified disaster distributions

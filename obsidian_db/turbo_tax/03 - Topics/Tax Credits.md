@@ -120,13 +120,15 @@ Most credits require:
 
 ## Related Topics
 
-- [[Child Tax Credit]]
-- [[Earned Income Credit]]
-- [[Filing Status]]
-- [[Dependents]]
-- [[Standard Deduction]]
-- [[IRAs]]
-- [[Itemized Deductions]]
+- [[Child Tax Credit]] - Up to $2,000 per qualifying child
+- [[Earned Income Credit]] - Refundable credit for working families
+- [[Credit for Other Dependents]] - $500 for other dependents
+- [[Filing Status]] - Affects credit eligibility and phaseouts
+- [[Dependents]] - Required for dependent-related credits
+- [[Standard Deduction]] - Tax planning considerations
+- [[IRAs]] - Saver's Credit eligibility
+- [[Foreign Tax Credit]] - Credit for taxes paid to foreign countries
+- [[Foreign Earned Income Exclusion]] - Ineligible for EIC when claiming FEIE
 
 ## Related Publications
 

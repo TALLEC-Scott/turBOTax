@@ -39,6 +39,8 @@ See [[Standard Deduction]] for details.
 - **SALT deduction limit increased:** $40,000 ($20,000 MFS), reduced above $500,000 MAGI
 - **Trump accounts:** New retirement account type for children (Form 4547)
 - **Adoption credit:** Up to $5,000 refundable; $17,280 maximum per child
+- **Deferred compensation limits:** $23,500 standard; $31,000 if 50+; $37,750 if ages 60-63
+- **AMT exemption:** $88,100 ($137,000 MFJ)
 
 ## Structure
 
@@ -90,8 +92,15 @@ Must file if gross income exceeds threshold based on:
 - Automatic 6-month extension available (Form 4868)
 - Extension to file ≠ extension to pay
 
+### Penalties
+- Accuracy-related penalty: 20% of underpayment
+- Fraud penalty: 75% of underpayment due to fraud
+- Frivolous tax submission: $5,000 penalty
+- Failure to file/pay penalties may apply
+
 ## Related Publications
 
+- [[Pub 15 - Employer's Tax Guide]] - Employer tax obligations
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Detailed filing requirements
 - [[Pub 505 - Tax Withholding and Estimated Tax]] - Withholding and estimated payments
 - [[Pub 590-A - Contributions to IRAs]] - IRA contribution rules
@@ -104,12 +113,12 @@ Must file if gross income exceeds threshold based on:
 - [[Standard Deduction]]
 - [[Itemized Deductions]]
 - [[Tax Credits]]
+- [[Child Tax Credit]]
 - [[IRAs]]
 - [[Social Security Benefits]]
 - [[Interest Income]]
 - [[Dependents]]
-- [[Tax Withholding]]
-- [[Estimated Tax Payments]]
+- [[Tax Withholding and Estimated Tax]]
 
 ## External Links
 

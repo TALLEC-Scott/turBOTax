@@ -16,7 +16,11 @@ ENV PATH="/root/.local/bin:$PATH"
 RUN npm install -g @anthropic-ai/claude-code @qwen-code/qwen-code
 
 # Create directories
-RUN mkdir -p /app/docs /app/vault /app/.config/qwen
+RUN mkdir -p /app/docs /app/vault /app/logs
+
+# Copy scripts
+COPY scripts/*.sh /app/scripts/
+RUN chmod +x /app/scripts/*.sh
 
 # Set working directory
 WORKDIR /app

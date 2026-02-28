@@ -117,11 +117,13 @@ If claimed as a dependent:
 
 ## Related Topics
 
-- [[IRAs]]
-- [[Social Security Benefits]]
-- [[Itemized Deductions]]
-- [[Tax Credits]]
-- [[Filing Status]]
+- [[IRAs]] - Retirement savings interest
+- [[Social Security Benefits]] - Combined income calculation
+- [[Itemized Deductions]] - Investment interest deduction
+- [[Tax Credits]] - Education savings bond exclusion
+- [[Filing Status]] - Education bond phaseout thresholds
+- [[Standard Deduction]] - Tax planning considerations
+- [[Tax Withholding and Estimated Tax]] - Estimated payments for investment income
 
 ## Related Publications
 
