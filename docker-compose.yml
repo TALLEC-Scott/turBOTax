@@ -1,0 +1,40 @@
+services:
+  agent:
+    build:
+      context: .
+      dockerfile: Containerfile
+    image: turbo-tax-agent
+    container_name: turbo-tax
+    stdin_open: true
+    tty: true
+    volumes:
+      # Documentation - read only
+      - ./docs:/app/docs:ro
+      # Obsidian vault - read/write
+      - ./obsidian_db/turbo_tax:/app/vault
+      # Qwen config with MCP settings - read/write
+      - ./config:/app/.config/qwen
+      # IRS publications data - read only
+      - ./data:/app/data:ro
+    working_dir: /app
+    command: bash
+
+  # Quick commands via docker compose run
+  distill:
+    build:
+      context: .
+      dockerfile: Containerfile
+    image: turbo-tax-agent
+    container_name: turbo-tax-distill
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./docs:/app/docs:ro
+      - ./obsidian_db/turbo_tax:/app/vault
+      - ./config:/app/.config/qwen
+      - ./data:/app/data:ro
+    working_dir: /app
+    # Override with: docker compose run --rm distill bash -c "qwen --yolo ..."
+    command: bash
+    profiles:
+      - tools
