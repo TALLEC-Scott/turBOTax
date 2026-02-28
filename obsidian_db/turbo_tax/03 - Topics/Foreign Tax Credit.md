@@ -7,6 +7,9 @@ tags:
   - international
   - credits
   - expats
+related_publications:
+  - "[[Pub 514 - Foreign Tax Credit for Individuals]]"
+  - "[[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad]]"
 ---
 
 # Foreign Tax Credit
@@ -87,7 +90,12 @@ Foreign income is divided into categories (baskets), and the limitation is calcu
 
 1. **General Category Income** - Wages, business income, interest
 2. **Passive Category Income** - Dividends, interest, royalties, annuities
-3. **Other Categories** - Section 901(j) income, certain oil-related income
+3. **Section 951A Category Income** - [[GILTI]] inclusions from CFCs
+4. **Foreign Branch Category Income** - Business profits from foreign branches
+5. **Section 901(j) Income** - Income from sanctioned countries
+6. **Lump-Sum Distributions** - Foreign retirement plan distributions
+
+See [[Separate Limit Income Categories]] for detailed rules on categorization.
 
 ### Example Calculation
 
@@ -107,6 +115,14 @@ If your foreign taxes exceed the credit limit:
 - **Carry forward** 10 years
 
 This ensures you don't lose the benefit of foreign taxes paid in high-tax years.
+
+See [[Foreign Tax Credit Carryover]] for detailed rules on:
+- Carryback and carryover mechanics
+- Allocation between spouses
+- Effect of bankruptcy or insolvency
+- Special rules for pre-2018 unused taxes
+
+**Exception:** No carrybacks or carryovers allowed for Section 951A (GILTI) category income.
 
 ## Treaty Benefits
 
@@ -151,6 +167,13 @@ Social security totalization agreements may exempt you from dual coverage.
 - [[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad]] - Primary source
 - [[Tax Credits]] - Overview of all credits
 - [[Itemized Deductions]] - Alternative to credit
+- [[GILTI]] - Global Intangible Low-Taxed Income rules
+- [[Controlled Foreign Corporation]] - CFC rules for U.S. shareholders
+- [[Foreign Tax Credit Carryover]] - Carryback and carryover rules
+- [[Passive Category Income]] - One of the separate limit categories
+- [[Foreign Currency and Exchange Rates]] - Currency translation rules
+- [[Foreign Tax Redetermination]] - Changes in foreign tax liability
+- [[Separate Limit Income Categories]] - Different categories for FTC limitation
 
 ## Related Forms
 
@@ -160,6 +183,6 @@ Social security totalization agreements may exempt you from dual coverage.
 
 ## Related Publications
 
-- [[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad]] - Primary source
-- Pub 514 - Foreign Tax Credit for Individuals
+- [[Pub 514 - Foreign Tax Credit for Individuals]] - Primary source (comprehensive)
+- [[Pub 54 - Tax Guide for U.S. Citizens and Resident Aliens Abroad]] - Expatriate guidance
 - Pub 901 - U.S. Tax Treaties

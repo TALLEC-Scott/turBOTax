@@ -91,6 +91,8 @@ Employees must pay an additional 0.9% Medicare tax on wages exceeding:
 - [[Wages and Compensation]] - What constitutes taxable wages
 - [[Federal Unemployment Tax (FUTA)]] - Unemployment tax requirements
 - [[Self-Employment Tax]] - Equivalent tax for self-employed individuals
+- [[Additional Medicare Tax]] - 0.9% surtax on high earners
+- [[Net Investment Income Tax]] - 3.8% NIIT on investment income
 
 ## Related Forms
 

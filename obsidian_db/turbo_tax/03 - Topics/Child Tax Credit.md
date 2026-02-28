@@ -53,6 +53,8 @@ Per [[Pub 3 - Armed Forces Tax Guide]]:
 - [[Filing Status]] - Affects credit calculation
 - [[Credit for Other Dependents]] - For dependents not qualifying for CTC
 - [[Standard Deduction]] - Tax planning considerations
+- [[Form W-4]] - Claim credit via Step 3 withholding adjustment
+- [[Tax Withholding and Estimated Tax]] - Credit reduces estimated payment needs
 
 ## Related Publications
 

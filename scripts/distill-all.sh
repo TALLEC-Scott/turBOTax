@@ -18,10 +18,10 @@ for PUB_FILE in $PUB_FILES; do
     CURRENT=$((CURRENT + 1))
     PUB_NAME=$(basename "$PUB_FILE")
     PUB_NUM=$(echo "$PUB_NAME" | sed 's/pub_//; s/_[0-9]*.md//')
-    
+
     echo "[$CURRENT/$TOTAL] Distilling: $PUB_NAME"
     echo "[$(date -Iseconds)] Starting: $PUB_NAME" >> "$LOG_DIR/distill.log"
-    
+
     if qwen --yolo \
         --model "$OPENAI_MODEL" \
         --auth-type openai \
@@ -31,7 +31,7 @@ for PUB_FILE in $PUB_FILES; do
     else
         echo "[$(date -Iseconds)] FAILED: $PUB_NAME" >> "$LOG_DIR/distill.log"
     fi
-    
+
     echo ""
 done
 

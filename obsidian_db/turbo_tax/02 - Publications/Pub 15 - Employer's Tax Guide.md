@@ -110,9 +110,12 @@ IRS Publication 15 (Circular E) is the comprehensive employer's tax guide explai
 - [[Pub 15-A]] - Employer's Supplemental Tax Guide
 - [[Pub 15-B]] - Employer's Tax Guide to Fringe Benefits
 - [[Pub 15-T]] - Federal Income Tax Withholding Methods
+- [[Pub 509 - Tax Calendars]] - Filing deadlines and deposit schedules
 
 ## Related Topics
 
+- [[Tax Calendars]] - Complete tax calendar with all deadlines
+- [[Semiweekly Deposit Rules]] - Semiweekly deposit schedule
 - [[Social Security and Medicare Taxes]] - Tax rates, wage bases, employer/employee shares
 - [[Federal Unemployment Tax (FUTA)]] - FUTA tax requirements and deposit rules
 - [[Employer Identification Number]] - EIN application and usage

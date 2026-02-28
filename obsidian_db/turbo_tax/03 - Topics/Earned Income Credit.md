@@ -109,6 +109,8 @@ Common errors to avoid:
 - [[Tax Credits]] - Parent topic for all credits
 - [[Tax Withholding and Estimated Tax]] - Adjust withholding with EIC
 - [[Standard Deduction]] - Tax planning considerations
+- [[Form W-4]] - Reduce withholding for expected EIC
+- [[Estimated Tax Payments]] - May reduce estimated payment needs
 
 ## Related Publications
 

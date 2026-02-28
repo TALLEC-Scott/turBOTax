@@ -25,12 +25,15 @@ Itemize when total deductions exceed the standard deduction:
 
 **Deductible Amount:** Expenses exceeding 7.5% of AGI
 
+See [[Medical and Dental Expenses]] for comprehensive rules.
+
 **Includes:**
 - Doctor, dentist, hospital fees
 - Prescription medications
 - Medical equipment and supplies
-- Health insurance premiums (not paid pre-tax)
-- Long-term care insurance (limited by age)
+- [[Health Insurance Premiums]] (not paid pre-tax)
+- [[Long-Term Care]] insurance (limited by age)
+- [[Capital Medical Expenses]] (home modifications, special equipment)
 - Transportation for medical care
 
 **Not Deductible:**
@@ -87,6 +90,16 @@ Itemize when total deductions exceed the standard deduction:
 - 14 cents per mile (2025) for charitable use of car
 - Out-of-pocket expenses for charity work
 
+See [[Charitable Contributions]] for comprehensive rules including:
+- [[Qualified Organizations]] - Which organizations qualify
+- [[Noncash Contributions]] - Property donations
+- [[Vehicle Donations]] - Cars, boats, airplanes
+- [[Conservation Contributions]] - Conservation easements
+- [[Qualified Charitable Distributions]] - IRA donations to charity
+- [[Charitable Contribution Limits]] - AGI percentage limits
+- [[Volunteer Expense Deductions]] - Out-of-pocket expenses
+- [[Form 8283]] - Noncash contribution reporting
+
 ### 5. Casualty and Theft Losses
 
 **Only Deductible If:**
@@ -131,11 +144,20 @@ No overall limitation for 2025 (eliminated by TCJA through 2025).
 
 - [[Standard Deduction]] - Alternative to itemizing
 - [[Filing Status]] - SALT limits vary by status
+- [[Medical and Dental Expenses]] - Medical expense deduction rules
+- [[Health Insurance Premiums]] - Insurance premium deductibility
+- [[Long-Term Care]] - Long-term care deduction rules
+- [[Capital Medical Expenses]] - Home modifications and equipment
 - [[Tax Credits]] - Additional tax benefits
 - [[Tax Withholding and Estimated Tax]] - SALT withholding
 - [[Interest Income]] - Investment interest deduction
 - [[Social Security Benefits]] - Medical expense planning
 - [[IRAs]] - Retirement planning with deductions
+- [[Charitable Contributions]] - Comprehensive charitable deduction rules
+- [[Qualified Organizations]] - Which organizations can receive contributions
+- [[Noncash Contributions]] - Property donation rules
+- [[Charitable Contribution Limits]] - AGI percentage limits
+- [[Volunteer Expense Deductions]] - Out-of-pocket charity expenses
 
 ## Related Publications
 

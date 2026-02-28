@@ -95,6 +95,47 @@ If claimed as a dependent by another taxpayer:
   - $1,350, or
   - Earned income (up to $15,300) plus $450
 
+## Standard Deduction Tables for 2025
+
+### Table 6 - Standard Deduction Chart for Most People
+
+| IF your filing status is... | YOUR standard deduction is... |
+|----------------------------|------------------------------|
+| Single or Married filing separately | $15,750 |
+| Married filing jointly or Qualifying surviving spouse | $31,500 |
+| Head of household | $23,625 |
+
+### Table 7 - Standard Deduction for Age 65+ or Blind
+
+| Filing Status | Number of Boxes Checked | Standard Deduction |
+|--------------|------------------------|-------------------|
+| Single | 1 | $17,750 |
+| Single | 2 | $19,750 |
+| Married filing jointly | 1 | $33,100 |
+| Married filing jointly | 2 | $34,700 |
+| Married filing jointly | 3 | $36,300 |
+| Married filing jointly | 4 | $37,900 |
+| Qualifying surviving spouse | 1 | $33,100 |
+| Qualifying surviving spouse | 2 | $34,700 |
+| Married filing separately | 1 | $17,350 |
+| Married filing separately | 2 | $18,950 |
+| Married filing separately | 3 | $20,550 |
+| Married filing separately | 4 | $22,150 |
+| Head of household | 1 | $25,625 |
+| Head of household | 2 | $27,625 |
+
+**Boxes to check:**
+- Born before January 2, 1961 (age 65+)
+- Blind
+
+### Table 8 - Standard Deduction Worksheet for Dependents
+
+For dependents, use the greater of:
+1. $1,350, OR
+2. Earned income (up to $15,300) plus $450
+
+**Additional amounts:** If 65+ or blind, add $2,000 per condition ($1,600 if married).
+
 ## Related Topics
 
 - [[Itemized Deductions]] - Alternative to standard deduction
@@ -102,11 +143,14 @@ If claimed as a dependent by another taxpayer:
 - [[Dependents]] - Special rules for dependents
 - [[Tax Credits]] - May reduce tax further
 - [[IRAs]] - Retirement planning considerations
+- [[Filing Requirements]] - Who must file
+- [[Head of Household]] - Higher standard deduction
+- [[Qualifying Surviving Spouse]] - Uses MFJ deduction
 
 ## Related Publications
 
 - [[Pub 17 - Your Federal Income Tax]] - Chapter 10
-- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]]
+- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete standard deduction rules
 
 ## Related Forms
 

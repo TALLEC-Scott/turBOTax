@@ -116,17 +116,30 @@ You can choose to treat a nonresident alien spouse as a U.S. resident for tax pu
 
 - [[Standard Deduction]] - Amounts vary by filing status
 - [[Dependents]] - Affects head of household qualification
+- [[Qualifying Person]] - Who qualifies for head of household and dependent care credit
 - [[Tax Credits]] - Eligibility varies by filing status
 - [[Child Tax Credit]] - Phaseout thresholds by status
+- [[Child and Dependent Care Credit]] - Requires joint return if married
 - [[Earned Income Credit]] - Not available if MFS
 - [[IRAs]] - Deduction limits vary by status
 - [[Itemized Deductions]] - SALT limits by filing status
+- [[Head of Household]] - Requirements and benefits for unmarried taxpayers
+- [[Qualifying Surviving Spouse]] - Special status for widows/widowers
+- [[Filing Requirements]] - Who must file a tax return
+
+## Related Topics (Divorce and Separation)
+
+- [[Children of Divorced Parents]] - Rules for determining custodial parent
+- [[Innocent Spouse Relief]] - Relief from joint tax liability
+- [[Injured Spouse]] - Recovering your share of a joint refund
+- [[Community Property]] - Special rules for community property states
+- [[Alimony]] - Tax treatment affecting filing decisions
 
 ## Related Publications
 
 - [[Pub 17 - Your Federal Income Tax]] - Chapter 2
-- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]]
-- [[Pub 504 - Divorced or Separated Individuals]]
+- [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Complete filing status rules
+- [[Pub 504 - Divorced or Separated Individuals]] - Filing status for divorced/separated taxpayers
 - [[Pub 3 - Armed Forces Tax Guide]] - Military-specific filing rules
 
 ## Related Forms

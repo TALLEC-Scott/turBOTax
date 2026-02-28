@@ -14,7 +14,7 @@ A dependent is a person other than you or your spouse who entitles you to claim 
 
 ## Types of Dependents
 
-### Qualifying Child
+### [[Qualifying Child]]
 
 A qualifying child must meet ALL of the following tests:
 
@@ -34,15 +34,16 @@ A qualifying child must meet ALL of the following tests:
 - **Birth or death during year** counts as living with you the entire year
 - **Adopted children** meet the relationship test from the time placed with you
 
-### Qualifying Relative
+### [[Qualifying Relative]]
 
 A qualifying relative must meet ALL of the following tests:
 
 | Test | Requirement |
 |------|-------------|
-| **Support** | You must provide more than half of the person's total support for the year |
-| **Gross Income** | Must have gross income less than $5,450 (2025) |
-| **Relationship** | Must be your relative OR live with you all year as a member of your household |
+| **Not a Qualifying Child** | Cannot be anyone's qualifying child |
+| **Relationship/Residency** | Must be your relative OR live with you all year as a member of your household |
+| **Gross Income** | Must have gross income less than $5,200 (2025) |
+| **Support** | You must provide more than half of the person's total support |
 | **Citizenship** | Must be a U.S. citizen, U.S. national, U.S. resident alien, or a resident of Canada or Mexico |
 | **Joint Return** | Must not file a joint return for the year (unless only to claim refund) |
 
@@ -63,7 +64,8 @@ A qualifying relative must meet ALL of the following tests:
 - [[Child Tax Credit]] - Up to $2,000 per qualifying child under 17
 - [[Credit for Other Dependents]] - $500 for dependents who don't qualify for CTC
 - [[Earned Income Credit]] - Higher credit amounts with qualifying children
-- Child and Dependent Care Credit - For childcare expenses
+- [[Child and Dependent Care Credit]] - For childcare expenses to enable work
+- [[Qualifying Person]] - Definition for dependent care credit purposes
 
 ### Deductions
 - Medical expenses paid for dependents are deductible
@@ -91,12 +93,21 @@ The custodial parent can release the claim by signing Form 8332 (Release of Clai
 ## Related Topics
 
 - [[Filing Status]] - Affects dependency claims and Head of Household
+- [[Head of Household]] - Filing status requiring a qualifying person
+- [[Qualifying Child]] - Detailed tests for qualifying child
+- [[Qualifying Relative]] - Detailed tests for qualifying relative
+- [[Qualifying Person]] - Who qualifies for dependent care credit
 - [[Child Tax Credit]] - Requires qualifying child under 17
 - [[Earned Income Credit]] - Based on qualifying children
+- [[Child and Dependent Care Credit]] - For childcare expenses
+- [[Work-Related Expenses]] - What expenses qualify for dependent care credit
 - [[Credit for Other Dependents]] - For dependents not qualifying for CTC
 - [[Itemized Deductions]] - Medical expenses for dependents
+- [[Medical and Dental Expenses]] - Deducting medical expenses for dependents
+- [[Health Insurance Premiums]] - Insurance for dependents
 - [[Tax Credits]] - Parent category for all credits
 - [[Standard Deduction]] - Special rules for dependents
+- [[Filing Requirements]] - Filing thresholds for dependents
 
 ## Related Publications
 

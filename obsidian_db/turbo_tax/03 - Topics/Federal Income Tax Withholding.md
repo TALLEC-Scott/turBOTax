@@ -138,6 +138,9 @@ Backup withholding does NOT apply to:
 - [[Tips and Tip Reporting]] - Tip income withholding
 - [[Employee Classification]] - Determining worker status
 - [[Wages and Compensation]] - What constitutes taxable wages
+- [[Form W-4]] - Employee's Withholding Certificate
+- [[Backup Withholding]] - Withholding on missing TIN
+- [[Additional Medicare Tax]] - 0.9% surtax on high earners
 
 ## Related Forms
 

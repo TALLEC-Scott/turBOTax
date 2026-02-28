@@ -143,6 +143,15 @@ If AGI exceeded $150,000 on prior year return:
 - [[Filing Requirements for Expats]] - Special rules for U.S. citizens abroad
 - [[Self-Employment Tax Abroad]] - SE tax and estimated payments for expats
 - [[Foreign Earned Income Exclusion]] - Withholding adjustments for FEIE
+- [[Form W-4]] - Employee's Withholding Certificate
+- [[Form W-4P]] - Withholding Certificate for Pension
+- [[Estimated Tax Payments]] - Quarterly payment procedures
+- [[Backup Withholding]] - Withholding on missing TIN
+- [[Underpayment Penalty]] - Penalty rules and exceptions
+- [[Additional Medicare Tax]] - 0.9% surtax on high earners
+- [[Net Investment Income Tax]] - 3.8% NIIT
+- [[Premium Tax Credit]] - Health insurance credit
+- [[Retirement Savings Contributions Credit]] - Saver's credit
 
 ## Related Publications
 
@@ -152,8 +161,8 @@ If AGI exceeded $150,000 on prior year return:
 
 ## Related Forms
 
-- Form W-4 - Employee's Withholding Certificate
-- Form W-4P - Withholding Certificate for Pension
+- [[Form W-4]] - Employee's Withholding Certificate
+- [[Form W-4P]] - Withholding Certificate for Pension
 - Form W-4V - Voluntary Withholding Request
 - Form 1040-ES - Estimated Tax for Individuals
 - Form 2210 - Underpayment of Estimated Tax

@@ -75,6 +75,9 @@ Self-employed farmers must make quarterly estimated tax payments if expected tax
 - [[Farm Employment Taxes]]: Taxes for farm employers
 - [[Pub 225 - Farmer's Tax Guide]]: Farm tax guidance
 - [[Schedule SE (Form 1040)]]: Self-Employment Tax form
+- [[Additional Medicare Tax]] - 0.9% surtax on high earners
+- [[Tax Withholding and Estimated Tax]] - Pay-as-you-go system
+- [[Underpayment Penalty]] - Penalty rules and exceptions
 
 ## Key Forms
 

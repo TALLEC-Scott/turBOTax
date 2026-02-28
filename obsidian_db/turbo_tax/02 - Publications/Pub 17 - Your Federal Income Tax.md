@@ -103,6 +103,7 @@ Must file if gross income exceeds threshold based on:
 - [[Pub 15 - Employer's Tax Guide]] - Employer tax obligations
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Detailed filing requirements
 - [[Pub 505 - Tax Withholding and Estimated Tax]] - Withholding and estimated payments
+- [[Pub 526 - Charitable Contributions]] - Comprehensive charitable deduction rules
 - [[Pub 590-A - Contributions to IRAs]] - IRA contribution rules
 - [[Pub 590-B - Distributions from IRAs]] - IRA distribution rules
 - [[Pub 596 - Earned Income Credit]] - EIC eligibility and calculation

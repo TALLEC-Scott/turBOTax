@@ -141,6 +141,21 @@ Military members can contribute to TSP:
 - **Roth TSP:** After-tax contributions; qualified distributions are tax-free
 - **Combat zone limit (2025):** Up to $70,000 for those serving in combat zones
 
+## Divorce and IRAs
+
+### IRA Transfer Due to Divorce
+- Transfer of IRA interest to spouse/former spouse under divorce decree is **not taxable**
+- After transfer, the IRA is treated as the spouse's IRA
+- No deduction for contributions to former spouse's traditional IRA after divorce
+
+### Alimony as Compensation
+For divorce instruments executed on or before December 31, 2018:
+- Taxable alimony received counts as compensation for IRA contribution purposes
+- This does NOT apply to post-2018 instruments
+
+### Qualified Domestic Relations Order (QDRO)
+A QDRO can divide retirement plan accounts between spouses. See [[Property Settlements]] for details.
+
 ## Related Topics
 
 - [[Filing Status]] - Determines contribution and deduction limits
@@ -150,6 +165,9 @@ Military members can contribute to TSP:
 - [[Interest Income]] - Investment alternatives
 - [[Standard Deduction]] - Tax planning with IRA deductions
 - [[Dependents]] - Spousal IRA rules
+- [[Property Settlements]] - IRA transfers in divorce
+- [[Alimony]] - Taxable alimony as compensation for IRA contributions
+- [[Qualified Charitable Distributions]] - IRA donations to charity for those 70½+
 
 ## Related Publications
 

@@ -31,6 +31,7 @@ Can result in a refund even if you owe no tax:
 ### Nonrefundable Credits
 Reduce tax to zero but cannot create a refund:
 - Child Tax Credit (nonrefundable portion)
+- [[Child and Dependent Care Credit]] - For childcare expenses
 - Credit for Other Dependents
 - Lifetime Learning Credit
 - Saver's Credit
@@ -121,8 +122,12 @@ Most credits require:
 ## Related Topics
 
 - [[Child Tax Credit]] - Up to $2,000 per qualifying child
+- [[Child and Dependent Care Credit]] - For childcare expenses to enable work
 - [[Earned Income Credit]] - Refundable credit for working families
 - [[Credit for Other Dependents]] - $500 for other dependents
+- [[Qualifying Person]] - Who qualifies for dependent care credit
+- [[Work-Related Expenses]] - What expenses qualify for dependent care credit
+- [[Dependent Care Benefits]] - Employer-provided childcare benefits
 - [[Filing Status]] - Affects credit eligibility and phaseouts
 - [[Dependents]] - Required for dependent-related credits
 - [[Standard Deduction]] - Tax planning considerations
