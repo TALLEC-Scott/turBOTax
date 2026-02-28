@@ -47,7 +47,7 @@ Certified indebtedness amount on MCC
 Original amount of your mortgage
 ```
 
-**Example**: 
+**Example**:
 - Mortgage: $125,000
 - Certified indebtedness: $100,000
 - Interest paid: $7,500

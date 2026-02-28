@@ -28,7 +28,7 @@ The care must be for one or more [[Qualifying Person|qualifying persons]]:
 - A dependent who is physically or mentally unable to care for themselves
 
 ### 2. Earned Income Test
-You (and your spouse if filing jointly) must have earned income during the year. 
+You (and your spouse if filing jointly) must have earned income during the year.
 
 **Special rule for students/disabled spouses:** A spouse who is a full-time student or not able to care for themselves is treated as having earned income of at least $250/month (one qualifying person) or $500/month (two or more).
 
@@ -50,7 +50,7 @@ If married, you must file a joint return. **Exceptions:**
 ### 6. Provider Identification Test
 You must identify the care provider on your return with:
 - Name
-- Address  
+- Address
 - Taxpayer identification number (SSN, ITIN, or EIN)
 
 ## Dollar Limits

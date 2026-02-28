@@ -76,7 +76,7 @@ Even if you cannot claim your child as a dependent, they are treated as your qua
 1. Child was under 13 or was not able to care for themselves
 2. Child received over half their support from one or both parents who are:
    - Divorced or legally separated under decree of divorce/separate maintenance, OR
-   - Separated under written separation agreement, OR  
+   - Separated under written separation agreement, OR
    - Lived apart at all times during the last 6 months of the year
 3. Child was in custody of one or both parents for more than half the year
 4. You were the **custodial parent** (the parent the child lived with for more nights)

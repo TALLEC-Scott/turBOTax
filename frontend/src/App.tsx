@@ -78,10 +78,10 @@ function App() {
       timestamp: new Date(),
     }
 
-    setConversations(prev => prev.map(c => 
-      c.id === convId 
-        ? { 
-            ...c, 
+    setConversations(prev => prev.map(c =>
+      c.id === convId
+        ? {
+            ...c,
             messages: [...c.messages, userMessage],
             title: c.messages.length === 0 ? input.slice(0, 30) + (input.length > 30 ? '...' : '') : c.title
           }
@@ -116,9 +116,9 @@ function App() {
             if (lastMessage?.role === 'assistant') {
               lastMessage.content = assistantContent
             } else {
-              newMessages.push({ 
+              newMessages.push({
                 id: crypto.randomUUID(),
-                role: 'assistant', 
+                role: 'assistant',
                 content: assistantContent,
                 timestamp: new Date()
               })
@@ -133,9 +133,9 @@ function App() {
         if (c.id !== convId) return c
         return {
           ...c,
-          messages: [...c.messages, { 
+          messages: [...c.messages, {
             id: crypto.randomUUID(),
-            role: 'assistant' as const, 
+            role: 'assistant' as const,
             content: 'Sorry, I encountered an error connecting to the server. Please make sure the backend is running on port 8000.',
             timestamp: new Date()
           }]
@@ -167,13 +167,13 @@ function App() {
       console.error('Upload error:', error)
       alert('Failed to upload document. Please check if the backend is running.')
     }
-    
+
     setShowDocUpload(false)
   }
 
   return (
     <div className="app">
-      <button 
+      <button
         className="sidebar-toggle"
         onClick={() => setSidebarOpen(!sidebarOpen)}
       >
@@ -184,16 +184,16 @@ function App() {
         <button className="new-chat-btn" onClick={createNewConversation}>
           + New Chat
         </button>
-        
+
         <div className="conversations-list">
           {conversations.map(conv => (
-            <div 
-              key={conv.id} 
+            <div
+              key={conv.id}
               className={`conversation-item ${conv.id === currentConversationId ? 'active' : ''}`}
               onClick={() => setCurrentConversationId(conv.id)}
             >
               <span className="conv-title">{conv.title}</span>
-              <button 
+              <button
                 className="delete-btn"
                 onClick={(e) => {
                   e.stopPropagation()
@@ -241,8 +241,8 @@ function App() {
 
         <form className="input-form" onSubmit={handleSubmit}>
           <div className="input-wrapper">
-            <button 
-              type="button" 
+            <button
+              type="button"
               className="upload-btn"
               onClick={() => setShowDocUpload(!showDocUpload)}
               title="Upload document"

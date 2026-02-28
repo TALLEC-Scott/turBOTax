@@ -68,7 +68,7 @@ Simple disappearance is **not theft**. However, accidental loss may qualify as a
 
 ### Amount of Loss
 > Loss = Adjusted Basis - FMV after theft (zero) - Reimbursements
-> 
+>
 > For stolen property, FMV after theft = $0
 
 ### Recovered Stolen Property
