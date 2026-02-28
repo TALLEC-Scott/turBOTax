@@ -1,114 +1,130 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Tax assistant</title>
+    <title>Tax assistant</title>
 
- <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #e5e5e5;
-      font-family: Arial, sans-serif;
-    }
+    <style>
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #e5e5e5;
+            font-family: Arial, sans-serif;
+        }
 
-    .container {
-      background: white;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-      width: 600px;
-      max-width: 90%;
-      text-align: center;
-    }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 14px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            width: 900px;
+            /* larger container */
+            max-width: 95%;
+            text-align: center;
+        }
 
-    h1 {
-      margin-top: 0;
-      margin-bottom: 20px;
-    }
+        h1 {
+            margin-top: 0;
+            margin-bottom: 25px;
+            font-size: 28px;
+        }
 
-    textarea {
-      width: 100%;
-      padding: 10px;
-      border-radius: 8px;
-      border: 1px solid #ccc;
-      resize: vertical;
-      font-size: 14px;
-      box-sizing: border-box;
-    }
+        textarea {
+            width: 100%;
+            /* full width */
+            height: 150px;
+            /* larger input */
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            resize: vertical;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
 
-    button {
-      margin-top: 15px;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 8px;
-      background-color: #333;
-      color: white;
-      cursor: pointer;
-      font-size: 14px;
-    }
+        button {
+            margin-top: 20px;
+            padding: 12px 28px;
+            border: none;
+            border-radius: 10px;
+            background-color: #333;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
 
-    button:hover {
-      background-color: #555;
-    }
+        button:hover {
+            background-color: #555;
+        }
 
-    pre {
-      margin-top: 20px;
-      text-align: left;
-      white-space: pre-wrap;
-      word-wrap: break-word;
-      background: #f7f7f7;
-      padding: 15px;
-      border-radius: 8px;
-      min-height: 120px;
-      overflow-y: auto;
-    }
-  </style>
+        pre {
+            margin-top: 25px;
+            text-align: left;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background: #f7f7f7;
+            padding: 20px;
+            border-radius: 10px;
+
+            height: 400px;
+            /* much larger output area */
+            overflow-y: auto;
+            box-sizing: border-box;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
 </head>
 
 <body>
- <div class="container">
-    <h1>Tax assistant</h1>
-    <textarea id="prompt" rows="4">Help me with my revenue declaration</textarea>
-    <br>
-    <button onclick="run()">Send</button>
+    <div class="container">
+        <h1>Tax assistant</h1>
+        <textarea id="prompt" rows="4">Help me with my revenue declaration</textarea>
+        <br>
+        <button onclick="run()">Send</button>
 
-    <pre id="output"></pre>
-  </div>
+        <pre id="output"></pre>
+    </div>
 
-  <script type="module">
-// llama-server.exe -m Ministral-3-3B-Instruct-2512-Q8_0.gguf -c 4096 --cors
-// npx serve .
-    import OpenAI from "https://cdn.jsdelivr.net/npm/openai@4.47.1/+esm";
+    <script type="module">
+        // llama-server.exe -m Ministral-3-3B-Instruct-2512-Q8_0.gguf -c 4096 --cors
+        // npx serve .
+        import OpenAI from "https://cdn.jsdelivr.net/npm/openai@4.47.1/+esm";
 
-    const client = new OpenAI({
-      apiKey: "not-needed",
-      baseURL: "http://localhost:8080/v1",
-      dangerouslyAllowBrowser: true
-    });
+        const client = new OpenAI({
+            apiKey: "not-needed",
+            baseURL: "http://localhost:8080/v1",
+            dangerouslyAllowBrowser: true
+        });
 
-    async function run() {
-      const prompt = document.getElementById("prompt").value;
-      const output = document.getElementById("output");
-      output.textContent = "";
+        async function run() {
+            const prompt = document.getElementById("prompt").value;
+            const output = document.getElementById("output");
 
-      const stream = await client.chat.completions.create({
-        model: "local-model",
-        messages: [{ role: "user", content: prompt }],
-        stream: true,
-      });
+            output.textContent = "";
 
-      for await (const chunk of stream) {
-        const token = chunk.choices[0]?.delta?.content;
-        if (token) {
-          output.textContent += token;
+            const stream = await client.chat.completions.create({
+                model: "local-model",
+                messages: [{ role: "user", content: prompt }],
+                stream: true,
+            });
+
+            for await (const chunk of stream) {
+                const token = chunk.choices[0]?.delta?.content;
+                if (token) {
+                    output.textContent += token;
+
+                    // Auto-scroll to bottom
+                    output.scrollTop = output.scrollHeight;
+                }
+            }
         }
-      }
-    }
 
-    window.run = run;
-  </script>
+        window.run = run;
+    </script>
 </body>
+
 </html>
