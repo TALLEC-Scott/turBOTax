@@ -361,7 +361,7 @@ The standard deduction for 2024 is $14,600 for single filers [[Pub 17#Chapter 10
 To claim the Child Tax Credit, a child must meet the qualifying child tests
 under [[Pub 501#Dependents]].
 
-Self-employment income is reported on [[Schedule C]] and subject to 
+Self-employment income is reported on [[Schedule C]] and subject to
 self-employment tax per [[Pub 334]].
 ```
 

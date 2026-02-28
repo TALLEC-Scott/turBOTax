@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Run IRS Tax Accountant Agent in Qwen Code with Obsidian MCP.
 
 This script spawns a Qwen Code agent in yolo mode with:
@@ -16,6 +15,8 @@ import argparse
 import subprocess
 import sys
 from pathlib import Path
+
+MAX_PUBLICATIONS_TO_LIST = 20
 
 
 def get_agent_prompt() -> str:
@@ -39,7 +40,7 @@ def setup_mcp_server(vault_path: Path) -> None:
     print(f"Setting up Obsidian MCP server for vault: {vault_path}")
 
     # Add Obsidian MCP server
-    result = subprocess.run(
+    result = subprocess.run(  # noqa: S603
         [
             "qwen",
             "mcp",
@@ -52,6 +53,7 @@ def setup_mcp_server(vault_path: Path) -> None:
         ],
         capture_output=True,
         text=True,
+        check=False,
     )
 
     # It's okay if it already exists
@@ -62,23 +64,24 @@ def setup_mcp_server(vault_path: Path) -> None:
 def build_system_context() -> str:
     """Build the system context with vault structure info."""
     vault_structure_path = Path(__file__).parent.parent / "docs" / "VAULT_STRUCTURE.md"
-    
+
     context_parts = [
         "# IRS Tax Accountant Agent",
         "",
-        "You are operating as the IRS Tax Accountant Agent. Your system prompt follows.",
+        "You are operating as the IRS Tax Accountant Agent.",
+        "Your system prompt follows.",
         "",
         "---",
         "",
     ]
-    
+
     # Add vault structure info
     if vault_structure_path.exists():
         context_parts.append("## Vault Structure Reference")
         context_parts.append("")
         context_parts.append(f"See: {vault_structure_path}")
         context_parts.append("")
-    
+
     return "\n".join(context_parts)
 
 
@@ -91,10 +94,11 @@ def build_distillation_prompt(publications_dir: Path) -> str:
     """Build the knowledge distillation prompt."""
     # List available publications
     pubs = list(publications_dir.glob("pub_*.md"))
-    pub_list = "\n".join(f"  - {p.name}" for p in sorted(pubs)[:20])
-    if len(pubs) > 20:
-        pub_list += f"\n  - ... and {len(pubs) - 20} more"
-    
+    pub_list = "\n".join(
+        f"  - {p.name}" for p in sorted(pubs)[:MAX_PUBLICATIONS_TO_LIST])
+    if len(pubs) > MAX_PUBLICATIONS_TO_LIST:
+        pub_list += f"\n  - ... and {len(pubs) - MAX_PUBLICATIONS_TO_LIST} more"
+
     return f"""# Knowledge Distillation Task
 
 You have access to parsed IRS publications in the `data/irs_publications/` directory. Your task is to distill this knowledge into the Obsidian vault.
@@ -168,19 +172,19 @@ def run_agent(
     distill: bool = False,
 ) -> None:
     """Run the Qwen Code agent."""
-    
+
     if vault_path is None:
         vault_path = get_vault_path()
-    
+
     # Setup MCP server
     setup_mcp_server(vault_path)
-    
+
     # Load agent prompt
     agent_prompt = get_agent_prompt()
-    
+
     # Build the full context
     system_context = build_system_context()
-    
+
     # Default prompt if none provided
     if prompt is None:
         if distill:
@@ -195,7 +199,7 @@ def run_agent(
 4. Offer to help with any tax questions or documentation
 
 Remember to follow the backlink philosophy: build connections, not hierarchies."""
-    
+
     # Combine system prompt with user prompt
     full_prompt = f"""{system_context}
 
@@ -206,27 +210,29 @@ Remember to follow the backlink philosophy: build connections, not hierarchies."
 ## User Request
 
 {prompt}"""
-    
+
     print("\n" + "=" * 60)
     print("IRS Tax Accountant Agent")
     print("=" * 60)
     print(f"Vault: {vault_path}")
     print(f"Mode: {'Interactive' if interactive else 'One-shot'}")
     print("=" * 60 + "\n")
-    
+
     # Build command
     cmd = [
         "qwen",
         "--yolo",
-        "--allowed-mcp-server-names", "obsidian",
-        "--prompt", full_prompt,
+        "--allowed-mcp-server-names",
+        "obsidian",
+        "--prompt",
+        full_prompt,
     ]
 
     if interactive:
         cmd.append("--prompt-interactive")
-    
+
     # Run the agent
-    subprocess.run(cmd)
+    subprocess.run(cmd, check=False)
 
 
 def main() -> None:
@@ -257,33 +263,35 @@ Examples:
     uv run python scripts/run_tax_agent.py --vault /path/to/vault "List all notes"
         """,
     )
-    
+
     parser.add_argument(
         "prompt",
         nargs="?",
         help="The prompt/question for the agent",
     )
-    
+
     parser.add_argument(
-        "-i", "--interactive",
+        "-i",
+        "--interactive",
         action="store_true",
         help="Run in interactive mode (continues after initial prompt)",
     )
-    
+
     parser.add_argument(
         "--vault",
         type=Path,
         help="Path to Obsidian vault (default: obsidian_db/turbo_tax)",
     )
-    
+
     parser.add_argument(
-        "-d", "--distill",
+        "-d",
+        "--distill",
         action="store_true",
         help="Distill IRS publications from data/irs_publications/ into the vault",
     )
-    
+
     args = parser.parse_args()
-    
+
     run_agent(
         prompt=args.prompt,
         interactive=args.interactive,

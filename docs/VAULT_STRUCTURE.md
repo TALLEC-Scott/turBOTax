@@ -507,8 +507,8 @@ LIMIT 10
 ```markdown
 # When discussing Itemized Deductions:
 
-Itemized deductions ([[Schedule A]]) are an alternative to the 
-[[Standard Deduction]]. See [[Pub 501]] for limitations and 
+Itemized deductions ([[Schedule A]]) are an alternative to the
+[[Standard Deduction]]. See [[Pub 501]] for limitations and
 [[Pub 17 Chapter 22]] for detailed rules.
 ```
 
