@@ -95,7 +95,8 @@ def build_distillation_prompt(publications_dir: Path) -> str:
     # List available publications
     pubs = list(publications_dir.glob("pub_*.md"))
     pub_list = "\n".join(
-        f"  - {p.name}" for p in sorted(pubs)[:MAX_PUBLICATIONS_TO_LIST])
+        f"  - {p.name}" for p in sorted(pubs)[:MAX_PUBLICATIONS_TO_LIST]
+    )
     if len(pubs) > MAX_PUBLICATIONS_TO_LIST:
         pub_list += f"\n  - ... and {len(pubs) - MAX_PUBLICATIONS_TO_LIST} more"
 
