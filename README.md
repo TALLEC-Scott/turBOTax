@@ -2,13 +2,15 @@
 
 An IRS document parsing agent that extracts structured information from tax forms, publications, and instructions using AI, then organizes everything into an Obsidian vault for easy querying.
 
+## Screenshots
 
-<img width="1500" height="1066" alt="image" src="https://github.com/user-attachments/assets/aa65d06d-4595-4240-a3cf-b7e166f9f22e" />
+### Web Interface
 
+<img width="500" height="500" alt="Tax Assistant Web Interface" src="https://github.com/user-attachments/assets/aa65d06d-4595-4240-a3cf-b7e166f9f22e" />
 
-<img width="1500" height="1012" alt="image" src="https://github.com/user-attachments/assets/cddf0d2e-3e15-4993-812e-168dff6267a2" />
+### Obsidian Vault
 
-
+<img width="500" height="500" alt="Obsidian Vault Knowledge Graph" src="https://github.com/user-attachments/assets/cddf0d2e-3e15-4993-812e-168dff6267a2" />
 
 ## Features
 
