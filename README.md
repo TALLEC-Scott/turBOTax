@@ -9,11 +9,11 @@ An IRS document parsing agent that extracts structured information from tax form
 
 ## Screenshots
 
-### Web Interface
+### Obsidian Vault
 
 <img width="500" height="500" alt="Tax Assistant Web Interface" src="https://github.com/user-attachments/assets/aa65d06d-4595-4240-a3cf-b7e166f9f22e" />
 
-### Obsidian Vault
+### Web Interface
 
 <img width="500" height="500" alt="Obsidian Vault Knowledge Graph" src="https://github.com/user-attachments/assets/cddf0d2e-3e15-4993-812e-168dff6267a2" />
 
