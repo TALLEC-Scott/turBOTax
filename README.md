@@ -2,6 +2,11 @@
 
 An IRS document parsing agent that extracts structured information from tax forms, publications, and instructions using AI, then organizes everything into an Obsidian vault for easy querying.
 
+
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/b2ebb8ce-c4cc-41f6-8fa4-cb44d7f5e054" />
+
+
+
 ## Screenshots
 
 ### Web Interface
