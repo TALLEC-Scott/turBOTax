@@ -146,6 +146,9 @@ Randall has two children, pays $6,000 for daycare. His employer provides $5,000 
 - [[Pub 502 - Medical and Dental Expenses]] - Medical expense deductions
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/dollar_limit_qualifying_persons_2025|Dollar Limit Qualifying Persons 2025]] - Specifies the $3,000 limit for one qualifying person and $6,000 limit for two or more qualifying persons for tax year 2025.
 
 - [[Form 2441]] - Child and Dependent Care Expenses
 - [[Schedule H (Form 1040)]] - Household Employment Taxes

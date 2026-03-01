@@ -141,6 +141,10 @@ Must reduce qualified expenses by:
 - [[Coverdell ESA]] - Education savings
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/american_opportunity_credit_overview_2025|American Opportunity Credit Overview 2025]] - Summarizes the American Opportunity Credit rules for 2025, including the $2,500 maximum credit, income phase-out limits, and eligibility criteria.
+- [[04 - Assets/tax_credits_reference_2025|Tax Credits Reference 2025]] - Provides a comprehensive list of tax credits available for 2025 and their corresponding IRS publications or form instructions.
 
 ### Q: Can I claim education credits for my child's college expenses?
 **A:** Yes, if you claim your child as a dependent and paid qualified expenses. If your child is not your dependent, they may claim the credit.

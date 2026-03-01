@@ -156,6 +156,11 @@ For dependents, use the greater of:
 - [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax tables using taxable income
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/enhanced_senior_deduction_2025|Enhanced Senior Deduction 2025]] - Shows the enhanced senior deduction of $6,000 per eligible person ($12,000 for married filing jointly when both spouses are eligible).
+- [[04 - Assets/new_deductions_2025|New Deductions 2025]] - Four new deductions for 2025: tips ($25K max), overtime ($12.5K/$25K), car loan interest ($10K), and senior deduction ($6K/$12K).
+- [[04 - Assets/standard_deduction_2025|Standard Deduction 2025]] - Lists the 2025 standard deduction amounts: $15,750 for Single/MFS, $31,500 for MFJ/QSS, and $23,625 for Head of Household.
 
 - Form 1040 - Line 12 (standard deduction)
 - Schedule 1-A (Form 1040) - New deductions for non-itemizers

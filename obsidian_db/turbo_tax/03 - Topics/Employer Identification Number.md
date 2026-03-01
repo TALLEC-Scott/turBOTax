@@ -126,6 +126,9 @@ You may need a new EIN if:
 - [[Pub 583]] - Starting a Business and Keeping Records
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/household_employer_checklist_2026|Household Employer Checklist 2026]] - Timeline of employer responsibilities from hiring through tax filing deadlines for household employers in 2026.
 
 - [[Pub 15 - Employer's Tax Guide]] - Section 1
 - IRS.gov/EIN

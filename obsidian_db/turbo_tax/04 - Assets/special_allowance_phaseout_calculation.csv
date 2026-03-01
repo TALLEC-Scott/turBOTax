@@ -1,0 +1,12 @@
+Description,Amount
+"Adjusted gross income, modified as required","$120,000"
+Minus amount not subject to phaseout,"-100,000"
+Amount subject to phaseout rule,"$20,000"
+Multiply by 50% (0.50),× 50%
+Required reduction to special allowance,"$10,000"
+Maximum special allowance,"$25,000"
+Minus required reduction (see above),"-10,000"
+Adjusted special allowance,"$15,000"
+Passive loss from rental real estate,"$31,000"
+Deduction allowable/Adjusted special allowance (see above),"-15,000"
+Amount that must be carried forward,"$16,000"

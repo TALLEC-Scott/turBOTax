@@ -1,0 +1,11 @@
+Filing Status,Age at End of 2025,File Return if Gross Income at Least
+Single,Under 65,"$15,750"
+Single,65 or older,"$17,750"
+Head of household,Under 65,"$23,625"
+Head of household,65 or older,"$25,625"
+Married filing jointly,Under 65 (both spouses),"$31,500"
+Married filing jointly,65 or older (one spouse),"$33,100"
+Married filing jointly,65 or older (both spouses),"$34,700"
+Married filing separately,Any age,$5
+Qualifying surviving spouse,Under 65,"$31,500"
+Qualifying surviving spouse,65 or older,"$33,100"

@@ -211,6 +211,10 @@ For high-income earners who can't contribute directly:
 - [[Pub 575 - Pension and Annuity Income]] - Designated Roth accounts
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/traditional_vs_roth_ira_comparison_2025|Traditional Vs Roth Ira Comparison 2025]] - Compares Traditional and Roth IRAs on age limits, 2025 contribution limits ($7,000; $8,000 if 50+), deductibility, and filing requirements.
+- [[04 - Assets/roth_ira_contribution_limits_2025|Roth Ira Contribution Limits 2025]] - Roth IRA contribution phase-out ranges for 2025: MFJ phases out $236,000-$246,000; Single phases out $150,000-$165,000.
 
 | Form | Purpose |
 |------|---------|

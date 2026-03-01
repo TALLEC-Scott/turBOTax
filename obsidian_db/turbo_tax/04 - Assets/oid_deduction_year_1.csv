@@ -1,0 +1,8 @@
+Description,Amount
+Amount borrowed,"$100,000"
+Minus: Points (OID),"- 1,500"
+Issue price of the loan,"$ 98,500"
+Multiplied by: YTM,× 0.102467
+Total,"10,093"
+Minus: QSI,"- 10,000"
+Points (OID) deductible in 2025,$ 93

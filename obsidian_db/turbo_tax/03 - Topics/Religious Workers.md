@@ -137,5 +137,8 @@ If uncertain, file [[Form SS-8]] for IRS determination.
 - [[Form SS-8]] - Worker status determination
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/fica_seca_coverage_table|Fica Seca Coverage Table]] - Classification table for ministers, religious order members, Christian Science practitioners, religious workers, and members of recognized religious sects showing their FICA and SECA coverage status.
 
 - [[Pub 517]] - Social Security and Other Information for Members of the Clergy and Religious Workers

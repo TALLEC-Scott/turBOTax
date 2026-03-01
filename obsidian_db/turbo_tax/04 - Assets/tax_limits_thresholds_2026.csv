@@ -1,0 +1,15 @@
+Item,Value,Notes
+Social security tax rate (employee),6.2%,Applies to wages up to wage base limit
+Social security tax rate (employer),6.2%,Applies to wages up to wage base limit
+Medicare tax rate (employee),1.45%,No wage base limit
+Medicare tax rate (employer),1.45%,No wage base limit
+Social security wage base limit,"$184,500",Maximum wages subject to social security tax
+Cash wage threshold (SS/Medicare),"$3,000",Annual threshold per employee for 2026
+FUTA tax rate,6.0%,"On first $7,000 of wages per employee"
+FUTA wage base,"$7,000",Maximum wages subject to FUTA per employee
+FUTA cash wage threshold,"$1,000",Per calendar quarter threshold
+Additional Medicare Tax threshold,"$200,000",Wage threshold for 0.9% additional withholding
+Qualified parking exclusion (monthly),$340,Monthly exclusion amount for 2026
+Commuter transportation exclusion (monthly),$340,Monthly exclusion for transit passes and commuter highway vehicles
+Qualified overtime deduction (single),"$12,500",Maximum deduction for qualified overtime compensation
+Qualified overtime deduction (married filing jointly),"$25,000",Maximum deduction for qualified overtime compensation

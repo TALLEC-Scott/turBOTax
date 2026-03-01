@@ -169,6 +169,12 @@ See [[Pub 559 - Survivors, Executors, and Administrators]].
 - [[Pub 596 - Earned Income Credit]] - EIC eligibility
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/traditional_vs_roth_ira_comparison_2025|Traditional Vs Roth Ira Comparison 2025]] - Compares Traditional and Roth IRAs on age limits, 2025 contribution limits ($7,000; $8,000 if 50+), deductibility, and filing requirements.
+- [[04 - Assets/other_filing_situations_2025|Other Filing Situations 2025]] - Lists conditions requiring tax return filing beyond income thresholds, including self-employment earnings of $400+ and church wages of $108.28+.
+- [[04 - Assets/dependent_filing_requirements_2025|Dependent Filing Requirements 2025]] - Filing thresholds for dependents with separate rules for single and married individuals, with additional amounts for those 65 or older or blind.
+- [[04 - Assets/filing_requirements_2025|Filing Requirements 2025]] - Shows minimum gross income amounts requiring a tax return for each filing status (Single, Head of Household, Married Filing Jointly, Married Filing Separately, Qualifying Surviving Spouse) based on age.
 
 - Form 1040 - U.S. Individual Income Tax Return
 - Form 1040-SR - U.S. Tax Return for Seniors

@@ -168,6 +168,12 @@ Many states offer their own earned income credit. Check your state's tax form if
 - [[Pub 504 - Divorced or Separated Individuals]] - Divorce and separation issues
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/eic_eligibility_rules_summary_2025|Eic Eligibility Rules Summary 2025]] - Summarizes EIC eligibility rules including AGI and earned income limits ranging from $19,104 to $68,675 depending on filing status and qualifying children, and the $11,950 investment income limit.
+- [[04 - Assets/earned_income_credit_limits_2025|Earned Income Credit Limits 2025]] - Shows EIC income limits for 2025 ranging from $19,104 (no children) to $61,555 (3+ children), with higher limits for married filing jointly.
+- [[04 - Assets/tax_credits_reference_2025|Tax Credits Reference 2025]] - Provides a comprehensive list of tax credits available for 2025 and their corresponding IRS publications or form instructions.
+- [[04 - Assets/dependent_rules_overview|Dependent Rules Overview]] - Comprehensive rules for claiming dependents including qualifying child tests (age 19/24, residency, support) and qualifying relative tests ($5,200 gross income threshold, support test).
 
 - [[Form 1040]] - Lines 27a-27c
 - [[Schedule EIC]] - Qualifying child information

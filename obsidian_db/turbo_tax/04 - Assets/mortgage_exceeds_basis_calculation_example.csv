@@ -1,0 +1,11 @@
+Description,Amount
+Selling price,"$9,000"
+Minus: Mortgage,"6,000"
+Amount actually received,"$3,000"
+Add difference:,
+Mortgage minus Installment sale basis,"1,000"
+Contract price,"$4,000"
+"Your gross profit on the sale is also $4,000.",
+Selling price,"$9,000"
+Minus: Installment sale basis,"5,000"
+Gross profit,"$4,000"

@@ -5,10 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "datasets>=4.6.1",
     "docling[onnxruntime]>=2.75.0",
+    "fastapi>=0.134.0",
     "httpx>=0.28.1",
     "pydantic>=2.12.5",
+    "python-multipart>=0.0.22",
     "pyyaml>=6.0.3",
+    "uvicorn>=0.41.0",
 ]
 
 [dependency-groups]

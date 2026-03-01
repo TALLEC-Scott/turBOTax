@@ -1,0 +1,11 @@
+Line,Description,Amount
+1.,Enter the reduced selling price for the property,"85,000"
+2.,Enter your adjusted basis for the property,"40,000"
+3.,Enter your selling expenses,-0-
+4.,Enter any depreciation recapture,-0-
+5.,"Add lines 2, 3, and 4","40,000"
+6.,Subtract line 5 from line 1. This is your adjusted gross profit,"45,000"
+7.,Enter any installment sale income reported in prior year(s),"24,000"
+8.,Subtract line 7 from line 6,"21,000"
+9.,Future installments,"45,000"
+10.,Divide line 8 by line 9. This is your new gross profit percentage,46.67%

@@ -1,0 +1,8 @@
+Item,Amount
+Amount tax free in second year,$600.00
+Amount received in second year,$500.00
+Difference,$100.00
+"Number of remaining payments after first 2 payments (age 67, from Table V)",18.4
+Amount to be added to previously determined annual tax-free part ($100 ÷ 18.4),$5.43
+Revised annual tax-free part for third and later years ($600 + $5.43),$605.43
+"Amount taxable in third year ($1,200 - $605.43)",$594.57

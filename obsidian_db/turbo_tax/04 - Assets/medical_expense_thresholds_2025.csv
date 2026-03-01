@@ -1,0 +1,4 @@
+Threshold Type,Amount/Limit,Context
+AGI Floor for Deduction,7.5%,Deductible amount must exceed this percentage of AGI
+Qualifying Relative Gross Income,"$5,200",Annual gross income threshold for a qualifying relative
+Lodging Limit,$50,Maximum per night per person for medical care lodging

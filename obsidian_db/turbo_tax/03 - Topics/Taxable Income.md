@@ -121,6 +121,13 @@ Taxable income affects eligibility for many tax benefits:
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Deduction rules
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/social_security_85_percent_thresholds|Social Security 85 Percent Thresholds]] - Specifies the income thresholds ($34,000 for single, $44,000 for joint) above which up to 85% of social security benefits may be taxable.
+- [[04 - Assets/social_security_base_amounts|Social Security Base Amounts]] - Lists the base amounts ($25,000, $32,000, or $0) used to determine if social security benefits are taxable for different filing statuses.
+- [[04 - Assets/able_distribution_example_calculation|Able Distribution Example Calculation]] - Example showing $266.67 nontaxable portion calculated from $1,600 qualified expenses, $2,400 total distributions, and $400 earnings.
+- [[04 - Assets/able_distribution_taxable_portion_formula|Able Distribution Taxable Portion Formula]] - Calculation formula for determining the nontaxable portion of ABLE account distributions based on qualified disability expenses and earnings.
+- [[04 - Assets/tax_table_sample_2025|Tax Table Sample 2025]] - Sample tax table showing tax amounts for taxable incomes between $25,200 and $25,400 for various filing statuses.
 
 - [[Form 1040]] - U.S. Individual Income Tax Return
 - [[Schedule A (Form 1040)]] - Itemized Deductions

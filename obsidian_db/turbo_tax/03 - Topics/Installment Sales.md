@@ -119,6 +119,11 @@ If the selling price is reduced after the original sale:
 **A:** All payments received in the year of sale are part of the initial reporting on [[Form 6252]]. The installment method applies to payments received in subsequent years.
 
 ## References
+## Related Tables
+
+- [[04 - Assets/mortgage_exceeds_basis_calculation_example|Mortgage Exceeds Basis Calculation Example]] - Demonstrates the calculation for a property where a $6,000 mortgage exceeds the $5,000 basis, resulting in a $4,000 contract price and gross profit.
+- [[04 - Assets/electing_out_gain_calculation_example|Electing Out Gain Calculation Example]] - Illustrates the calculation of a $22,000 gain recognized immediately upon electing out of the installment method for a property sold for $50,000.
+- [[04 - Assets/gross_profit_percentage_worksheet_example|Gross Profit Percentage Worksheet Example]] - This table provides a filled-in example of Worksheet B, showing how to calculate a new gross profit percentage of 46.67% after reducing the selling price to $85,000.
 
 - IRC Section 453 - Installment method
 - [[Pub 537 - Installment Sales]] - Full IRS guidance

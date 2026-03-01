@@ -87,5 +87,8 @@ Use Worksheet 1, Part I in [[Pub 571 - Tax-Sheltered Annuity Plans|Publication 5
 - [[Pub 571 - Tax-Sheltered Annuity Plans]] - Chapter 3: Limit on Annual Additions
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/includible_compensation_worksheet|Includible Compensation Worksheet]] - Comprehensive worksheet calculating includible compensation of $70,475 by adding wages ($66,000), elective deferrals ($4,475), and other compensation components, with adjustments for life insurance costs and non-qualified employer periods.
 
 - [[Form 5330]] - Return of Excise Taxes (for excess contributions)

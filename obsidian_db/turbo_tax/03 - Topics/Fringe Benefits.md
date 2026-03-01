@@ -159,6 +159,10 @@ Taxable fringe benefits included in:
 - [[Cafeteria Plans]] - Flexible benefit arrangements
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/group_term_life_insurance_worksheet_2025|Group Term Life Insurance Worksheet 2025]] - Example worksheet showing calculation of taxable group-term life insurance income, demonstrating the $50,000 exclusion threshold and how employee-paid premiums reduce taxable amount.
+- [[04 - Assets/group_term_life_insurance_cost_table_2025|Group Term Life Insurance Cost Table 2025]] - Monthly cost rates per $1,000 of group-term life insurance coverage by age bracket, ranging from $0.05 for those under 25 to $2.06 for those 70 and above.
 
 ### Q: Is employer-paid gym membership taxable?
 **A:** Yes, unless the gym is on employer premises and operated by employer primarily for employees.

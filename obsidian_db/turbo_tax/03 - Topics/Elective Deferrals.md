@@ -167,6 +167,10 @@ Deferrals exceeding the applicable limit are "excess deferrals."
 - [[Pub 571 - Tax-Sheltered Annuity Plans (403(b) Plans)]] - 403(b) deferral rules
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/contribution_limits_2025_2026|Contribution Limits 2025 2026]] - Elective deferral limit increases from $23,500 (2025) to $24,500 (2026); annual additions limit increases from $70,000 (2025) to $72,000 (2026); enhanced catch-up contributions for ages 60-63 beginning in 2025.
+- [[04 - Assets/compensation_service_table_example|Compensation Service Table Example]] - Example compensation data for Max showing 6/12 year service in 2026 ($42,000 wages, $2,000 deferrals), 4/12 year in 2025 ($16,000 wages, $1,650 deferrals), and 4/12 year in 2024 ($16,000 wages, $1,650 deferrals).
 
 - [[Form W-2]] - Reporting elective deferrals
 - [[Form 5329]] - Additional taxes on excess deferrals

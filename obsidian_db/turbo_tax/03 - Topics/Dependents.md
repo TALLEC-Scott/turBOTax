@@ -117,6 +117,13 @@ The custodial parent can release the claim by signing Form 8332 (Release of Clai
 - [[Pub 972 - Child Tax Credit]] - CTC dependency requirements
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/dependent_rules_overview|Dependent Rules Overview]] - Comprehensive rules for claiming dependents including qualifying child tests (age 19/24, residency, support) and qualifying relative tests ($5,200 gross income threshold, support test).
+- [[04 - Assets/qualifying_person_head_of_household|Qualifying Person Head Of Household]] - Rules for determining if a person qualifies you to file as Head of Household based on relationship, dependency status, and living arrangements.
+- [[04 - Assets/child_unearned_income_election_2025|Child Unearned Income Election 2025]] - Parents may elect to report child's interest and dividend income on their return if child is under 19 (or under 24 if student) and income is less than $13,500.
+- [[04 - Assets/dependent_gross_income_limit_2025|Dependent Gross Income Limit 2025]] - If gross income is $5,200 or more, the person generally cannot be claimed as a dependent unless they are a qualifying child.
+- [[04 - Assets/dependent_filing_requirements_2025|Dependent Filing Requirements 2025]] - Filing thresholds for dependents with separate rules for single and married individuals, with additional amounts for those 65 or older or blind.
 
 - Form 1040 - Dependents section (lines with numbered rows)
 - Form 2120 - Multiple Support Declaration

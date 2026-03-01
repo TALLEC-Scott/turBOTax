@@ -147,6 +147,9 @@ Advance payments to a private institution for lifetime care of a physically or m
 - [[Pub 969 - Health Savings Accounts and Other Tax-Favored Health Plans]] - HSA and Archer MSA rules
 
 ## Related Topics
+## Related Tables
+
+- [[04 - Assets/long_term_care_premium_limits_2025|Long Term Care Premium Limits 2025]] - Shows the maximum deductible amount for qualified long-term care insurance premiums by age group for the 2025 tax year.
 
 - [[Medical and Dental Expenses]]
 - [[Health Insurance Premiums]]

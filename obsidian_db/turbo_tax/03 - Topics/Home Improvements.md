@@ -150,6 +150,9 @@ Proper tracking of improvements:
 - [[Sale of Home]] - How basis affects gain calculation
 
 ## Related Publications
+## Related Tables
+
+- [[04 - Assets/capital_expense_worksheet_2025|Capital Expense Worksheet 2025]] - A worksheet to determine the medical expense deduction for home improvements that increase property value.
 
 - [[Pub 530 - Tax Information for Homeowners]] - Primary source
 - [[Pub 551 - Basis of Assets]] - Comprehensive basis rules

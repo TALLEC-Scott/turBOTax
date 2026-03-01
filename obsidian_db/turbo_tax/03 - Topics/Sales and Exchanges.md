@@ -89,6 +89,9 @@ The amount realized from a sale or exchange includes:
 - [[Schedule D (Form 1040)]] - Capital gains and losses
 
 ## References
+## Related Tables
+
+- [[04 - Assets/gain_loss_determination_table|Gain Loss Determination Table]] - This table provides the basic rules for distinguishing a gain from a loss by comparing the property's adjusted basis to the amount realized.
 
 - [[Pub 544 - Sales and Other Dispositions of Assets]] - Chapter 1
 - [[Pub 551 - Basis of Assets]] - Basis determination

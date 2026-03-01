@@ -83,6 +83,10 @@ For contracts with multiple beneficiaries or complex survivor arrangements, you 
 - [[Pub 939 - General Rule for Pensions and Annuities]] - Contains Tables III and VII
 
 ## Examples
+## Related Tables
+
+- [[04 - Assets/refund_feature_adjustment_example|Refund Feature Adjustment Example]] - Demonstrates how to calculate the adjustment required for the value of a refund feature when there are multiple annuitants.
+- [[04 - Assets/refund_feature_calculation_example|Refund Feature Calculation Example]] - Demonstrates the calculation of investment in a contract adjusted for the value of a refund feature, using a $21,053 net cost annuity at age 65.
 
 **Example 1**: Age 65, single-life annuity purchased for $21,053 with refund feature guaranteeing return of full cost. Annual payment $1,200. Guaranteed for 17.54 years (rounded to 18). Table VII shows 15% for age 65, 18-year guarantee. Value of refund feature = 15% × $21,053 = $3,158. Investment in contract = $17,895.
 

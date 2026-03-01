@@ -127,5 +127,9 @@ If uncertain about future eligibility:
 - Form 8889 Instructions - Line 3 Limitation Chart and Worksheet
 
 ## Code Section
+## Related Tables
+
+- [[04 - Assets/hsa_monthly_limitation_example_2|Hsa Monthly Limitation Example 2]] - Illustrates last-month rule calculation with mid-year coverage change, showing 10 months at $4,300 and 2 months at $8,550, resulting in a monthly limitation of $5,008.33.
+- [[04 - Assets/hsa_monthly_limitation_example_1|Hsa Monthly Limitation Example 1]] - Illustrates last-month rule calculation where only December contribution of $8,550 counts, resulting in a monthly limitation of $712.50 when divided by 12.
 
 Internal Revenue Code Section 223(b)(5) - Special rules for months during eligible period.

@@ -161,6 +161,9 @@ Special rules apply if you repossess property that was your main home before the
 **A:** No. The repossession rules apply regardless of how you reclaim the property, as long as the obligation is satisfied.
 
 ## References
+## Related Tables
+
+- [[04 - Assets/foreclosure_repossession_worksheet|Foreclosure Repossession Worksheet]] - This worksheet guides taxpayers through the calculation of tax consequences resulting from property foreclosure or repossession, including potential ordinary income from canceled debt.
 
 - IRC Section 1038 - Repossession of real property
 - Regulations Section 1.1038-1 - Repossession of real property

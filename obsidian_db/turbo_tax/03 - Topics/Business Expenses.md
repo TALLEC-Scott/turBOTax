@@ -158,6 +158,9 @@ If an expense is partly business and partly personal:
 - [[Self-Employment Tax]] - Tax on net profit
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/standard_mileage_rates_2025|Standard Mileage Rates 2025]] - 2025 mileage rates: 70 cents/mile for business, 14 cents/mile for charitable, and 21 cents/mile for medical use.
 
 ### Q: Can I deduct my own salary as a sole proprietor?
 **A:** No. You are not an employee of your sole proprietorship. You report net profit and pay income and self-employment tax on that amount.

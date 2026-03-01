@@ -106,6 +106,10 @@ See [[Cooperative Housing]] for details.
 - [[Schedule A (Form 1040)]] - Itemized Deductions
 
 ## Related Publications
+## Related Tables
+
+- [[04 - Assets/where_to_deduct_interest_taxes_table1|Where To Deduct Interest Taxes Table1]] - Quick reference guide showing the appropriate Schedule A (Form 1040) lines for reporting real estate taxes, home mortgage interest, and points deductions.
+- [[04 - Assets/real_estate_tax_calculation_example|Real Estate Tax Calculation Example]] - Step-by-step calculation example for prorating real estate taxes when purchasing a home mid-year, showing how to calculate the deductible portion based on days of ownership.
 
 - [[Pub 530 - Tax Information for Homeowners]] - Primary source
 - [[Pub 17 - Your Federal Income Tax]] - General information

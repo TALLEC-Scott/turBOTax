@@ -127,5 +127,10 @@ If loan ends (refinancing, prepayment, foreclosure), may deduct remaining points
 - [[Pub 946 - How to Depreciate Property]] - Depreciation details
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/oid_deduction_year_2|Oid Deduction Year 2]] - Demonstrates the calculation for the second year's OID deduction, resulting in a $103 deduction based on an adjusted issue price from the prior year.
+- [[04 - Assets/oid_deduction_year_1|Oid Deduction Year 1]] - Demonstrates the calculation for the first year's OID deduction, resulting in a $93 deduction based on a $100,000 loan with $1,500 in points and a 10.2467% yield to maturity.
+- [[04 - Assets/de_minimis_oid_calculation|De Minimis Oid Calculation]] - Illustrates the calculation to determine if points paid on a loan qualify as de minimis OID, using a principal amount of $100,000 and a 30-year term.
 
 - [[Pub 527 - Residential Rental Property]] - Chapter 1: Rental Income and Expenses

@@ -114,6 +114,9 @@ If the child was with each parent for an equal number of nights, the custodial p
 - [[Pub 501 - Dependents, Standard Deduction, and Filing Information]] - Dependent rules
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/dollar_limit_qualifying_persons_2025|Dollar Limit Qualifying Persons 2025]] - Specifies the $3,000 limit for one qualifying person and $6,000 limit for two or more qualifying persons for tax year 2025.
 
 - [[Form 2441]] - Child and Dependent Care Expenses (line 2)
 - Form W-7 - Application for ITIN

@@ -95,6 +95,10 @@ Apply limitations in this order:
 - [[Net Investment Income Tax]] - May require regrouping
 
 ## Related Publications
+## Related Tables
+
+- [[04 - Assets/passive_loss_allocation_example|Passive Loss Allocation Example]] - Demonstrates how disallowed passive activity losses are allocated ratably among activities.
+- [[04 - Assets/passive_activity_loss_example|Passive Activity Loss Example]] - Illustrates the calculation of passive activity loss across multiple activities for a taxpayer named Terry.
 
 - [[Pub 925 - Passive Activity and At-Risk Rules]] - Primary source
 - [[Pub 527 - Residential Rental Property]] - Rental property details

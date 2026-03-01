@@ -1,0 +1,7 @@
+Description,Line,Amount,Column 4,Column 5
+1. Enter the total amount from box 5 of ALL your Forms SSA-1099 and RRB-1099.,1.,"$5,980",,
+2. Multiply line 1 by 50% (0.50),2.,"2,990",,
+"3. Combine the amounts from Form 1040 or 1040-SR, lines 1z, 2b, 3b, 4b, 5b, 7a, and 8",3.,"28,990",,
+"4. Enter the amount, if any, from Form 1040 or 1040-SR, line 2a",4.,-0-,,
+"5. Enter the total of any exclusions/adjustments for: • Adoption benefits (Form 8839, line 30), • Foreign earned income or housing (Form 2555, lines 45 and 50), and • Certain income of bona fide residents of American Samoa (Form 4563, line 15) or Puerto Rico",5.,-0-,,
+"6. Combine lines 2, 3, 4, and 5 above",6.,"31,980",,

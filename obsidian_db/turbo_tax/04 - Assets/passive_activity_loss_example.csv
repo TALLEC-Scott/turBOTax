@@ -1,0 +1,4 @@
+Category,Activity A,Activity B,Activity C,Total
+Gross income,"$7,000","$4,000","$12,000","$23,000"
+Deductions,"(16,000)","(20,000)","(8,000)","(44,000)"
+Net income (loss),"($9,000)","($16,000)","$4,000","($21,000)"

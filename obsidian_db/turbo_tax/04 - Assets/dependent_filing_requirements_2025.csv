@@ -1,0 +1,7 @@
+Category,Condition,Unearned Income Threshold,Earned Income Threshold,Gross Income Calculation
+Single Dependent,Under 65 and not blind,"$1,350","$15,750","Larger of $1,350 or earned income (up to $15,300) + $450"
+Single Dependent,65 or older OR blind,"$3,350","$17,750","Larger of $3,350 or earned income (up to $15,300) + $2,450"
+Single Dependent,65 or older AND blind,"$5,350","$19,750","Larger of $5,350 or earned income (up to $15,300) + $4,450"
+Married Dependent,Under 65 and not blind,"$1,350","$15,750","Larger of $1,350 or earned income (up to $15,300) + $450"
+Married Dependent,65 or older OR blind,"$2,950","$17,350","Larger of $2,950 or earned income (up to $15,300) + $2,050"
+Married Dependent,65 or older AND blind,"$4,550","$18,950","Larger of $4,550 or earned income (up to $15,300) + $3,650"

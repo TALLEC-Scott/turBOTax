@@ -1,0 +1,11 @@
+Item,Description,Amount
+Total cash wages paid,$70 x 48 weeks,"$3,360.00"
+Employee social security tax,"$3,360 x 6.2%",$208.32
+Employee Medicare tax,"$3,360 x 1.45%",$48.72
+Employer social security tax,"$3,360 x 6.2%",$208.32
+Employer Medicare tax,"$3,360 x 1.45%",$48.72
+Form W-2 Box 1,"Wages, tips","$3,360.00"
+Form W-2 Box 3,Social security wages,"$3,360.00"
+Form W-2 Box 4,Social security tax withheld,$208.32
+Form W-2 Box 5,Medicare wages and tips,"$3,360.00"
+Form W-2 Box 6,Medicare tax withheld,$48.72

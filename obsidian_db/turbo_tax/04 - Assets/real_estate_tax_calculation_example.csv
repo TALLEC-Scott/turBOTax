@@ -1,0 +1,5 @@
+Step,Description,Amount
+1,Enter the total real estate taxes for the real property tax year,$730
+2,Enter the number of days in the property tax year that you owned the property,122
+3,Divide line 2 by 365,0.3342
+4,"Multiply line 1 by line 3. This is your deduction. Enter it on Schedule A (Form 1040), line 5b",$244

@@ -188,6 +188,10 @@ If you received advance payments, you MUST:
 - Form 8965 - Health Coverage Exemptions
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/tax_credits_reference_2025|Tax Credits Reference 2025]] - Provides a comprehensive list of tax credits available for 2025 and their corresponding IRS publications or form instructions.
+- [[04 - Assets/other_filing_situations_2025|Other Filing Situations 2025]] - Lists conditions requiring tax return filing beyond income thresholds, including self-employment earnings of $400+ and church wages of $108.28+.
 
 - [[Pub 505 - Tax Withholding and Estimated Tax]] - Premium tax credit section
 - [[Pub 974 - Premium Tax Credit]] - Full PTC rules

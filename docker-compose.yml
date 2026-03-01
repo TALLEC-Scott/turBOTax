@@ -56,3 +56,26 @@ services:
       - ./logs:/app/logs
     working_dir: /app
     entrypoint: [/app/scripts/distill-all.sh]
+
+  # Extract tables from publications: podman-compose run --rm extract-assets [pub_number]
+  # Examples:
+  #   podman-compose run --rm extract-assets         # All publications
+  #   podman-compose run --rm extract-assets 17      # Just Pub 17
+  #   podman-compose run --rm extract-assets --list  # List tables found
+  extract-assets:
+    build:
+      context: .
+      dockerfile: Containerfile
+    image: turbo-tax-agent
+    container_name: turbo-tax-extract-assets
+    network_mode: host
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
+      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+    volumes:
+      - ./scripts:/app/scripts:ro
+      - ./obsidian_db/turbo_tax:/app/vault
+      - ./data:/app/data:ro
+    working_dir: /app
+    entrypoint: [/app/scripts/extract-assets-entrypoint.sh]

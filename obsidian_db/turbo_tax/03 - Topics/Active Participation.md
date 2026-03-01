@@ -144,6 +144,9 @@ You are single, not a real estate professional. You have:
 - [[Schedule E (Form 1040)]] - Supplemental Income and Loss
 
 ## Related Publications
+## Related Tables
+
+- [[04 - Assets/income_loss_example_stacey|Income Loss Example Stacey]] - Shows income sources and rental loss for Stacey to illustrate the special $25,000 allowance.
 
 - [[Pub 925 - Passive Activity and At-Risk Rules]] - Primary source
 - [[Pub 527 - Residential Rental Property]] - Rental property details

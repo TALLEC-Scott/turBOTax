@@ -167,6 +167,12 @@ A qualifying relative can qualify you for Head of Household filing status if:
 - [[Pub 504 - Divorced or Separated Individuals]] - Custodial parent rules
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/dependent_rules_overview|Dependent Rules Overview]] - Comprehensive rules for claiming dependents including qualifying child tests (age 19/24, residency, support) and qualifying relative tests ($5,200 gross income threshold, support test).
+- [[04 - Assets/qualifying_person_head_of_household|Qualifying Person Head Of Household]] - Rules for determining if a person qualifies you to file as Head of Household based on relationship, dependency status, and living arrangements.
+- [[04 - Assets/medical_expense_thresholds_2025|Medical Expense Thresholds 2025]] - Lists the AGI floor for deductions, the qualifying relative income threshold, and the lodging limit.
+- [[04 - Assets/dependent_gross_income_limit_2025|Dependent Gross Income Limit 2025]] - If gross income is $5,200 or more, the person generally cannot be claimed as a dependent unless they are a qualifying child.
 
 - Form 1040 - Dependents section
 - Form 2120 - Multiple Support Declaration

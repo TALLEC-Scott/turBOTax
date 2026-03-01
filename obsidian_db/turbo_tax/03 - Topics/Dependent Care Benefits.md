@@ -127,6 +127,9 @@ If you have expenses that exceed your dollar limit (after reduction), you cannot
 - [[Pub 15 - Employer's Tax Guide]] - Employer rules for dependent care benefits
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/dependent_care_benefits_exclusion_limit_2025|Dependent Care Benefits Exclusion Limit 2025]] - Sets the exclusion limit at $5,000 generally and $2,500 for married filing separately status for 2025.
 
 - [[Form 2441]] - Child and Dependent Care Expenses (Part III)
 - Form W-2 - Wage and Tax Statement (Box 10)

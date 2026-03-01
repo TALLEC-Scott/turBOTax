@@ -110,6 +110,9 @@ Can coordinate with:
 - [[Scholarships and Fellowship Grants]] - Tax-free treatment
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/american_opportunity_credit_overview_2025|American Opportunity Credit Overview 2025]] - Summarizes the American Opportunity Credit rules for 2025, including the $2,500 maximum credit, income phase-out limits, and eligibility criteria.
 
 ### Q: Can I claim AOTC for graduate school?
 **A:** No, AOTC is only available for the first 4 years of postsecondary education.

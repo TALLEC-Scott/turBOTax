@@ -187,6 +187,10 @@ See [[Early Distribution Tax]] and [[Pub 590-B - Distributions from IRAs]].
 - [[Pub 575 - Pension and Annuity Income]] - Retirement plan distributions
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/traditional_vs_roth_ira_comparison_2025|Traditional Vs Roth Ira Comparison 2025]] - Compares Traditional and Roth IRAs on age limits, 2025 contribution limits ($7,000; $8,000 if 50+), deductibility, and filing requirements.
+- [[04 - Assets/traditional_ira_deduction_limits_2025|Traditional Ira Deduction Limits 2025]] - Traditional IRA deduction phase-out ranges for 2025 based on filing status and retirement plan coverage at work.
 
 | Form | Purpose |
 |------|---------|

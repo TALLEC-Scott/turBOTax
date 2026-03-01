@@ -95,5 +95,12 @@ Use Worksheet A in [[Pub 571 - Tax-Sheltered Annuity Plans|Publication 571]] to 
 - [[Pub 571 - Tax-Sheltered Annuity Plans]] - Chapter 3: Includible Compensation
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/includible_compensation_worksheet|Includible Compensation Worksheet]] - Comprehensive worksheet calculating includible compensation of $70,475 by adding wages ($66,000), elective deferrals ($4,475), and other compensation components, with adjustments for life insurance costs and non-qualified employer periods.
+- [[04 - Assets/compensation_service_table_example|Compensation Service Table Example]] - Example compensation data for Max showing 6/12 year service in 2026 ($42,000 wages, $2,000 deferrals), 4/12 year in 2025 ($16,000 wages, $1,650 deferrals), and 4/12 year in 2024 ($16,000 wages, $1,650 deferrals).
+- [[04 - Assets/incidental_life_insurance_worksheet_year2|Incidental Life Insurance Worksheet Year2]] - Example worksheet calculating $29.07 cost of incidental life insurance for a 45-year-old with a $20,000 death benefit and $1,000 cash value.
+- [[04 - Assets/incidental_life_insurance_worksheet_year1|Incidental Life Insurance Worksheet Year1]] - Example worksheet calculating $28.00 cost of incidental life insurance for a 44-year-old with a $20,000 death benefit and zero cash value.
+- [[04 - Assets/life_insurance_premium_rates_2026|Life Insurance Premium Rates 2026]] - Age-based premium rates for calculating the cost of incidental life insurance in 403(b) annuity contracts, ranging from $0.27 at age 2 to $281.05 at age 99.
 
 - [[Form W-2]] - Shows taxable wages in Box 1

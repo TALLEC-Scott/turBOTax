@@ -145,6 +145,23 @@ You can choose to treat a nonresident alien spouse as a U.S. resident for tax pu
 - [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax tables by filing status
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/social_security_85_percent_thresholds|Social Security 85 Percent Thresholds]] - Specifies the income thresholds ($34,000 for single, $44,000 for joint) above which up to 85% of social security benefits may be taxable.
+- [[04 - Assets/social_security_base_amounts|Social Security Base Amounts]] - Lists the base amounts ($25,000, $32,000, or $0) used to determine if social security benefits are taxable for different filing statuses.
+- [[04 - Assets/eic_eligibility_rules_summary_2025|Eic Eligibility Rules Summary 2025]] - Summarizes EIC eligibility rules including AGI and earned income limits ranging from $19,104 to $68,675 depending on filing status and qualifying children, and the $11,950 investment income limit.
+- [[04 - Assets/savers_credit_agi_limits_2026|Savers Credit Agi Limits 2026]] - AGI limits for 2026 Saver's Credit: $80,500 for married filing jointly, $60,375 for head of household, and $40,250 for single, married filing separately, or qualifying surviving spouse with dependent child.
+- [[04 - Assets/earned_income_credit_limits_2025|Earned Income Credit Limits 2025]] - Shows EIC income limits for 2025 ranging from $19,104 (no children) to $61,555 (3+ children), with higher limits for married filing jointly.
+- [[04 - Assets/amt_exemption_2025|Amt Exemption 2025]] - Shows 2025 AMT exemption amounts: $88,100 for most filers, $137,000 for MFJ/QSS, and $68,500 for MFS.
+- [[04 - Assets/niit_thresholds_2025|Niit Thresholds 2025]] - Shows the MAGI thresholds for the 3.8% Net Investment Income Tax: $200,000 for single/HOH/QSS, $250,000 for MFJ, and $125,000 for MFS.
+- [[04 - Assets/additional_medicare_tax_thresholds_2025|Additional Medicare Tax Thresholds 2025]] - Shows the income thresholds for the 0.9% Additional Medicare Tax: $200,000 for single/HOH/QSS, $250,000 for MFJ, and $125,000 for MFS.
+- [[04 - Assets/qualifying_person_head_of_household|Qualifying Person Head Of Household]] - Rules for determining if a person qualifies you to file as Head of Household based on relationship, dependency status, and living arrangements.
+- [[04 - Assets/itemized_deductions_separate_returns|Itemized Deductions Separate Returns]] - Rules for deducting itemized expenses on separate returns when expenses are paid from joint accounts or jointly owned property.
+- [[04 - Assets/dependent_care_benefits_exclusion_limit_2025|Dependent Care Benefits Exclusion Limit 2025]] - Sets the exclusion limit at $5,000 generally and $2,500 for married filing separately status for 2025.
+- [[04 - Assets/filing_requirements_2025|Filing Requirements 2025]] - Shows minimum gross income amounts requiring a tax return for each filing status (Single, Head of Household, Married Filing Jointly, Married Filing Separately, Qualifying Surviving Spouse) based on age.
+- [[04 - Assets/standard_deduction_2025|Standard Deduction 2025]] - Lists the 2025 standard deduction amounts: $15,750 for Single/MFS, $31,500 for MFJ/QSS, and $23,625 for Head of Household.
+- [[04 - Assets/tax_table_2025_main|Tax Table 2025 Main]] - Comprehensive tax table for 2025 listing tax amounts by income range and filing status. Note: Source layout contains merged rows and repeated column sets.
+- [[04 - Assets/tax_table_sample_2025|Tax Table Sample 2025]] - Sample tax table showing tax amounts for taxable incomes between $25,200 and $25,400 for various filing statuses.
 
 - Form 1040 - U.S. Individual Income Tax Return
 - Form 1040-SR - U.S. Tax Return for Seniors

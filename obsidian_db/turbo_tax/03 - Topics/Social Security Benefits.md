@@ -162,6 +162,11 @@ If you repaid benefits:
 - [[Pub 554 - Tax Guide for Seniors]] - Senior tax issues
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/worksheet_1_example_taxable_benefits|Worksheet 1 Example Taxable Benefits]] - An example calculation showing how to determine the taxable portion of social security benefits using Worksheet 1.
+- [[04 - Assets/social_security_85_percent_thresholds|Social Security 85 Percent Thresholds]] - Specifies the income thresholds ($34,000 for single, $44,000 for joint) above which up to 85% of social security benefits may be taxable.
+- [[04 - Assets/social_security_base_amounts|Social Security Base Amounts]] - Lists the base amounts ($25,000, $32,000, or $0) used to determine if social security benefits are taxable for different filing statuses.
 
 ### Q: How do I know if my benefits are taxable?
 **A:** Complete the worksheet in Form 1040 instructions. If combined income exceeds base amounts, benefits are partially taxable.

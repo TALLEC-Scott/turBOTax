@@ -193,6 +193,9 @@ For high-income taxpayers above both thresholds:
 - [[Pub 17 - Your Federal Income Tax]] - General tax guidance
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/niit_thresholds_2025|Niit Thresholds 2025]] - Shows the MAGI thresholds for the 3.8% Net Investment Income Tax: $200,000 for single/HOH/QSS, $250,000 for MFJ, and $125,000 for MFS.
 
 - [[Pub 505 - Tax Withholding and Estimated Tax]] - NIIT section
 - Form 8960 Instructions

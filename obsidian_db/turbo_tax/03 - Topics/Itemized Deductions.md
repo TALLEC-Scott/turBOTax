@@ -169,6 +169,15 @@ No overall limitation for 2025 (eliminated by TCJA through 2025).
 - [[Pub 936 - Home Mortgage Interest Deduction]]
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/standard_deduction_2025|Standard Deduction 2025]] - Lists the 2025 standard deduction amounts: $15,750 for Single/MFS, $31,500 for MFJ/QSS, and $23,625 for Head of Household.
+- [[04 - Assets/where_to_deduct_interest_taxes_table1|Where To Deduct Interest Taxes Table1]] - Quick reference guide showing the appropriate Schedule A (Form 1040) lines for reporting real estate taxes, home mortgage interest, and points deductions.
+- [[04 - Assets/real_estate_tax_calculation_example|Real Estate Tax Calculation Example]] - Step-by-step calculation example for prorating real estate taxes when purchasing a home mid-year, showing how to calculate the deductible portion based on days of ownership.
+- [[04 - Assets/itemized_deductions_separate_returns|Itemized Deductions Separate Returns]] - Rules for deducting itemized expenses on separate returns when expenses are paid from joint accounts or jointly owned property.
+- [[04 - Assets/long_term_care_premium_limits_2025|Long Term Care Premium Limits 2025]] - Shows the maximum deductible amount for qualified long-term care insurance premiums by age group for the 2025 tax year.
+- [[04 - Assets/salt_deduction_limit_2025|Salt Deduction Limit 2025]] - 2025 SALT deduction limit is $40,000 ($20,000 MFS), reduced if MAGI exceeds $500,000 ($250,000 MFS), floor $10,000 ($5,000 MFS).
+- [[04 - Assets/new_deductions_2025|New Deductions 2025]] - Four new deductions for 2025: tips ($25K max), overtime ($12.5K/$25K), car loan interest ($10K), and senior deduction ($6K/$12K).
 
 - Schedule A (Form 1040) - Itemized Deductions
 - Form 8283 - Noncash Charitable Contributions

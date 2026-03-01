@@ -1,0 +1,14 @@
+Category,Test Number,Requirement
+General Rule,1,"You can't claim any dependents if you, or your spouse if filing jointly, could be claimed as a dependent by another taxpayer unless that taxpayer files a return only to claim a refund of withheld income tax or estimated tax paid."
+General Rule,2,You can't claim a married person who files a joint return as a dependent unless that joint return is filed only to claim a refund of withheld income tax or estimated tax paid.
+General Rule,3,"You can't claim a person as a dependent unless that person is a U.S. citizen, U.S. resident alien, U.S. national, or a resident of Canada or Mexico."
+General Rule,4,You can't claim a person as a dependent unless that person is your qualifying child or qualifying relative.
+Tests To Be a Qualifying Child,1,"The child must be your son, daughter, stepchild, foster child, brother, sister, half brother, half sister, stepbrother, stepsister, or a descendant of any of them."
+Tests To Be a Qualifying Child,2,"The child must be (a) under age 19 at the end of the year and younger than you (or your spouse if filing jointly), (b) under age 24 at the end of the year, a student, and younger than you (or your spouse if filing jointly), or (c) any age if permanently and totally disabled."
+Tests To Be a Qualifying Child,3,The child must have lived with you for more than half of the year.
+Tests To Be a Qualifying Child,4,The child must not have provided more than half of the child's own support for the year.
+Tests To Be a Qualifying Child,5,The child must not be filing a joint return for the year (unless that joint return is filed only to claim a refund of withheld income tax or estimated tax paid).
+Tests To Be a Qualifying Relative,1,The person can't be your qualifying child or the qualifying child of anyone else.
+Tests To Be a Qualifying Relative,2,"The person either (a) must be related to you in one of the ways listed under Relatives who don't have to live with you in Pub. 501, or (b) must live with you all year as a member of your household (and your relationship must not violate local law)."
+Tests To Be a Qualifying Relative,3,"The person's gross income for the year must be less than $5,200."
+Tests To Be a Qualifying Relative,4,You must provide more than half of the person's total support for the year.

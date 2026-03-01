@@ -108,6 +108,14 @@ The larger your expected return relative to investment, the smaller your tax-fre
 - [[Pub 575 - Pension and Annuity Income]] - Simplified Method alternative
 
 ## Examples
+## Related Tables
+
+- [[04 - Assets/survivor_children_annuity_example|Survivor Children Annuity Example]] - Calculates total expected return of $169,680 for surviving spouse (age 50) and two children with temporary annuities until age 18.
+- [[04 - Assets/different_survivor_payments_example|Different Survivor Payments Example]] - Calculates total expected return of $121,200 when primary annuitant receives $500/month and survivor receives $350/month.
+- [[04 - Assets/joint_survivor_annuity_expected_return|Joint Survivor Annuity Expected Return]] - Shows expected return of $132,000 for a $500/month joint and survivor annuity with annuitants ages 70 and 67.
+- [[04 - Assets/temporary_life_annuity_expected_return|Temporary Life Annuity Expected Return]] - Calculates expected return of $11,760 for a $200/month annuity for 5 years or until death at age 65.
+- [[04 - Assets/single_life_annuity_expected_return|Single Life Annuity Expected Return]] - Shows how to calculate expected return of $115,200 for a $500/month annuity at age 66 using a multiple of 19.2.
+- [[04 - Assets/expected_return_survivor_child_example|Expected Return Survivor Child Example]] - Calculates total expected return of $77,014.80 for a surviving spouse (age 48) and child (age 9) using actuarial multiples.
 
 **Example 1**: Single-life annuity, age 66, $500/month. Multiple = 19.2. Expected return = $6,000 × 19.2 = $115,200.
 

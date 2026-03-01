@@ -1,0 +1,13 @@
+Line,Description,Amount
+1,Enter the total amount of your insurance coverage from your employer(s),"$80,000"
+2,Limit on exclusion for employer-provided group-term life insurance coverage,"$50,000"
+3,Subtract line 2 from line 1,"$30,000"
+4,"Divide line 3 by $1,000. Figure to the nearest tenth",30.0
+5,"Go to Table 1. Using your age on the last day of the tax year, find your age group in the left column, and enter the cost from the column on the right for your age group",$0.23
+6,Multiply line 4 by line 5,$6.90
+7,Enter the number of full months of coverage at this cost,12
+8,Multiply line 6 by line 7,$82.80
+9,Enter the premiums you paid per month,$4.15
+10,Enter the number of months you paid the premiums,12
+11,Multiply line 9 by line 10,$49.80
+12,Subtract line 11 from line 8. Include this amount in your income as wages,$33.00

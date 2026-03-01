@@ -145,6 +145,10 @@ Most credits require:
 - [[Pub 974 - Premium Tax Credit]]
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/american_opportunity_credit_overview_2025|American Opportunity Credit Overview 2025]] - Summarizes the American Opportunity Credit rules for 2025, including the $2,500 maximum credit, income phase-out limits, and eligibility criteria.
+- [[04 - Assets/tax_credits_reference_2025|Tax Credits Reference 2025]] - Provides a comprehensive list of tax credits available for 2025 and their corresponding IRS publications or form instructions.
 
 - Schedule 3 (Form 1040) - Additional Credits and Payments
 - Form 8862 - Recertification for Earned Income Credit

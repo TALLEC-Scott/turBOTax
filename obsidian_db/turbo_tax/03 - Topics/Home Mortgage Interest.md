@@ -175,6 +175,9 @@ If you receive a refund of mortgage interest:
 - [[Form 8396]] - Mortgage Interest Credit
 
 ## Related Publications
+## Related Tables
+
+- [[04 - Assets/where_to_deduct_interest_taxes_table1|Where To Deduct Interest Taxes Table1]] - Quick reference guide showing the appropriate Schedule A (Form 1040) lines for reporting real estate taxes, home mortgage interest, and points deductions.
 
 - [[Pub 936 - Home Mortgage Interest Deduction]] - Comprehensive rules and worksheets
 - [[Pub 530 - Tax Information for Homeowners]] - General homeowner information

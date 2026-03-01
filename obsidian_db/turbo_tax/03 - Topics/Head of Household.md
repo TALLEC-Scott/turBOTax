@@ -156,6 +156,9 @@ On Form 1040 or 1040-SR:
 - [[Pub 1040 - Tax and Earned Income Credit Tables 2025]] - Tax table with HOH column
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/qualifying_person_head_of_household|Qualifying Person Head Of Household]] - Rules for determining if a person qualifies you to file as Head of Household based on relationship, dependency status, and living arrangements.
 
 - Form 1040 - U.S. Individual Income Tax Return
 - Form 1040-SR - U.S. Tax Return for Seniors

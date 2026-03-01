@@ -1,0 +1,12 @@
+Line,Description
+Part 1,"Use Part 1 to figure your ordinary income from the cancellation of debt upon foreclosure or repossession. Complete this part only if you were personally liable for the debt. Otherwise, go to Part 2."
+1,Enter the amount of outstanding debt immediately before the transfer of property reduced by any amount for which you remain personally liable after the transfer of property
+2,Enter the FMV of the transferred property
+3,"Ordinary income from cancellation of debt upon foreclosure or repossession.* Subtract line 2 from line 1. If less than zero, enter -0-"
+Part 2,Figure your gain or loss from foreclosure or repossession.
+4,If you completed Part 1 enter the smaller of line 1 or line 2. If you did not complete Part 1 enter the outstanding debt immediately before the transfer of property
+5,Enter any proceeds you received from the foreclosure sale
+6,Add lines 4 and 5
+7,Enter the adjusted basis of the transferred property
+8,Gain or loss from foreclosure or repossession. Subtract line 7 from line 6
+*,The income may not be taxable. See Cancellation of debt.

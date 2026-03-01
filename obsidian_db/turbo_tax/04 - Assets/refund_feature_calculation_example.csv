@@ -1,0 +1,8 @@
+Item,Value
+Net cost,"$21,053"
+Amount to be received annually,"$1,200"
+"Number of years for which payment is guaranteed ($21,053 ÷ $1,200)",17.54
+Rounded to nearest whole number of years,18
+Percentage from Actuarial Table VII for age 65 with 18 years of guaranteed payments,15%
+"Value of the refund feature (15% of $21,053)","$3,158"
+"Investment in the contract, adjusted for value of refund feature","$17,895"

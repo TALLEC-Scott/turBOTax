@@ -162,6 +162,9 @@ See [[Form 8283]].
 - [[Pub 17 - Your Federal Income Tax]] - General tax guide
 
 ## Related Forms
+## Related Tables
+
+- [[04 - Assets/standard_mileage_rates_2025|Standard Mileage Rates 2025]] - 2025 mileage rates: 70 cents/mile for business, 14 cents/mile for charitable, and 21 cents/mile for medical use.
 
 - Schedule A (Form 1040) - Itemized Deductions
 - Form 8283 - Noncash Charitable Contributions

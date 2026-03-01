@@ -97,6 +97,10 @@ Variable annuity payments may depend on:
 - [[Form 1099-R]] - Reports distributions with taxable amount in box 2a
 
 ## Important Notes
+## Related Tables
+
+- [[04 - Assets/refigure_tax_free_amount_example|Refigure Tax Free Amount Example]] - Demonstrates adjusting the annual tax-free portion from $600 to $605.43 when a payment was less than expected.
+- [[04 - Assets/variable_annuity_tax_free_calculation|Variable Annuity Tax Free Calculation]] - Calculates $600 tax-free amount per payment for a $12,000 variable annuity at age 65 with 20 expected payments.
 
 - The tax-free dollar amount remains constant regardless of actual payment variations
 - All payment amounts above the tax-free portion are fully taxable

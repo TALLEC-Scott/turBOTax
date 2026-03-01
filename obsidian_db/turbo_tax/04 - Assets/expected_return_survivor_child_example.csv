@@ -1,0 +1,6 @@
+Component,Calculation,Amount
+Surviving spouse's expected return: Annual annuity ($171 × 12),"$2,052",
+Multiplied by factor from Table V (nearest age 48),34.9,"$71,614.80"
+Child's expected return: Annual annuity ($50 × 12),$600,
+Multiplied by factor from Table VIII (nearest age 9 for term of 9 years),9.0,"$5,400.00"
+Total expected return,,"$77,014.80"

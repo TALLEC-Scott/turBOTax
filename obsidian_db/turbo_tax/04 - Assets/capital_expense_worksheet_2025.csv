@@ -1,0 +1,6 @@
+Line,Description,Amount
+1,Enter the amount you paid for the home improvement,1.
+2,Enter the value of your home immediately after the improvement,2.
+3,Enter the value of your home immediately before the improvement,3.
+4,Subtract line 3 from line 2. This is the increase in the value of your home due to the improvement,4.
+5,Subtract line 4 from line 1. These are your medical expenses due to the home improvement,5.

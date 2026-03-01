@@ -80,6 +80,9 @@ Self-employed farmers must make quarterly estimated tax payments if expected tax
 - [[Underpayment Penalty]] - Penalty rules and exceptions
 
 ## Key Forms
+## Related Tables
+
+- [[04 - Assets/fica_seca_coverage_table|Fica Seca Coverage Table]] - Classification table for ministers, religious order members, Christian Science practitioners, religious workers, and members of recognized religious sects showing their FICA and SECA coverage status.
 
 - [[Schedule SE (Form 1040)]] - Self-Employment Tax
 - [[Schedule F (Form 1040)]] - Reports net farm profit

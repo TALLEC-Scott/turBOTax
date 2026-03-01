@@ -192,6 +192,9 @@ Can claim exemption if BOTH apply:
 - [[Pub 17 - Your Federal Income Tax]] - General tax guidance
 
 ## Source
+## Related Tables
+
+- [[04 - Assets/personal_financial_changes_table|Personal Financial Changes Table]] - Lists lifestyle changes, wage income changes, and other factors that should prompt a review of withholding.
 
 - [[Pub 505 - Tax Withholding and Estimated Tax]] - Chapter 1
 - IRS Form W-4 Instructions

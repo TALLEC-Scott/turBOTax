@@ -1,0 +1,5 @@
+Description,Amount
+Stated redemption price at maturity (principal amount of the loan in this case),"$100,000"
+Multiplied by: The term of the loan in complete years,× 30
+Multiplied by,× 0.0025
+De minimis amount,"$ 7,500"

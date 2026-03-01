@@ -1,0 +1,64 @@
+{
+  "evaluation_date": "2026-02-28",
+  "dataset": "QUOTIENTAI/IRS_FORM_INSTRUCTION_QA_PAIRS",
+  "total_questions_in_dataset": 200,
+  "questions_evaluated": 5,
+  "llm_judge": "Perplexity Sonar Reasoning Pro",
+  "results": [
+    {
+      "id": 1,
+      "question": "What form should I use to report income from a business I operate as a sole proprietor?",
+      "judgment": "CORRECT",
+      "explanation": "KB correctly identifies Schedule C (Form 1040) as the appropriate form for sole proprietors to report business income."
+    },
+    {
+      "id": 2,
+      "question": "Can a married couple file a joint tax return if one spouse is a nonresident alien during the year?",
+      "judgment": "PARTIALLY_CORRECT",
+      "explanation": "KB correctly identifies general prohibition and election mechanism, but omits the end-of-year timing requirement and that the election remains in effect until terminated."
+    },
+    {
+      "id": 3,
+      "question": "What should I do if I made nondeductible contributions to a traditional IRA for 2024?",
+      "judgment": "CORRECT",
+      "explanation": "KB correctly identifies Form 8606 requirement and provides additional context about basis tracking and penalties."
+    },
+    {
+      "id": 4,
+      "question": "Can I use the installment method to report income from the sale of personal property that I regularly sell?",
+      "judgment": "PARTIALLY_CORRECT",
+      "explanation": "KB correctly states general prohibition for dealers but omits exceptions for farm property, timeshares, and unimproved residential lots."
+    },
+    {
+      "id": 5,
+      "question": "What are the options for married persons when filing tax returns?",
+      "judgment": "PARTIALLY_CORRECT",
+      "explanation": "KB correctly identifies MFJ and MFS but omits guidance for married persons living apart (potential Head of Household qualification)."
+    }
+  ],
+  "summary": {
+    "correct": 2,
+    "partially_correct": 3,
+    "incorrect": 0,
+    "not_covered": 0,
+    "accuracy_rate": "40% fully correct, 100% at least partially correct"
+  },
+  "key_findings": {
+    "strengths": [
+      "Core tax concepts are well covered (IRAs, business forms)",
+      "Answers are factually accurate for covered material",
+      "Good coverage of common taxpayer scenarios"
+    ],
+    "gaps": [
+      "Missing nuance and exceptions (e.g., dealer exceptions to installment rules)",
+      "Incomplete coverage of special situations (nonresident aliens, separated spouses)",
+      "Form-specific line-item details not always present"
+    ],
+    "recommendations": [
+      "Add more detailed rules for special filing situations",
+      "Include exceptions and limitations for each rule",
+      "Add procedural guidance (what to do if refund delayed, etc.)",
+      "Cross-reference related topics more extensively"
+    ]
+  }
+}

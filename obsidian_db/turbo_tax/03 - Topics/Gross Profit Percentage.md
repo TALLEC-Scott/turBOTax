@@ -118,6 +118,9 @@ Year 3: Selling price reduced to $85,000
 **A:** If the mortgage equals or exceeds the selling price, special rules apply. See [[Installment Sales]] for mortgage exceeding basis rules.
 
 ## References
+## Related Tables
+
+- [[04 - Assets/gross_profit_percentage_worksheet_example|Gross Profit Percentage Worksheet Example]] - This table provides a filled-in example of Worksheet B, showing how to calculate a new gross profit percentage of 46.67% after reducing the selling price to $85,000.
 
 - IRC Section 453(b) - Definition of gross profit
 - [[Pub 537 - Installment Sales]] - Worksheet A for calculation

@@ -1,0 +1,12 @@
+Line,Description,Amount
+1,Enter your includible wages from the employer maintaining your 403(b) account for your most recent year of service,"$66,000"
+2,Enter elective deferrals excluded from your gross income for your most recent year of service,"4,475"
+3,Enter amounts contributed or deferred by your employer under a cafeteria plan for your most recent year of service,-0-
+4,Enter amounts contributed or deferred by your employer according to your election to your 457 account (a nonqualified plan of a state or local government or of a tax-exempt organization) for your most recent year of service,-0-
+5,Enter pre-tax contributions (employer's contributions made on your behalf according to your election) to a qualified transportation fringe benefit plan for your most recent year of service,-0-
+6,Enter your foreign earned income exclusion for your most recent year of service,-0-
+7,"Add lines 1, 2, 3, 4, 5, and 6","70,475"
+8,Enter the cost of incidental life insurance that is part of your annuity contract for your most recent year of service,-0-
+9,"Enter compensation that was both: Earned during your most recent year of service, and Earned while your employer wasn't qualified to maintain a 403(b) plan",-0-
+10,Add lines 8 and 9,-0-
+11,Subtract line 10 from line 7. This is your includible compensation for your most recent year of service,"70,475"

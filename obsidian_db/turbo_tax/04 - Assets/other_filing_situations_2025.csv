@@ -1,0 +1,13 @@
+Situation Number,Condition,Threshold Amount
+1,Alternative minimum tax owed,Any amount
+1b,Additional tax on qualified plan/IRA,Any amount
+1c,Social security/Medicare tax on unreported tips,Any amount
+1d,Uncollected social security/Medicare on tips or group-term life insurance,Any amount
+1e,Household employment taxes,Any amount
+1f,Recapture taxes,Any amount
+2,"Archer MSA, Medicare Advantage MSA, or HSA distributions received",Any amount
+3,Net earnings from self-employment,$400 or more
+4,Wages from church or qualified church-controlled organization (exempt from employer FICA),$108.28 or more
+5,Advance payments of premium tax credit received,Any amount
+6,Section 965 income inclusion or net tax liability,Any amount
+7,Clean vehicle credit transferred to dealer,Any amount

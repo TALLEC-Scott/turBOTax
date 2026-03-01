@@ -15,15 +15,22 @@ ENV PATH="/root/.local/bin:$PATH"
 # Install qwen CLI
 RUN npm install -g @anthropic-ai/claude-code @qwen-code/qwen-code
 
+# Set working directory first
+WORKDIR /app
+
+# Copy project files for dependency resolution
+COPY pyproject.toml uv.lock* ./
+
+# Install Python dependencies
+RUN uv sync --frozen || uv sync
+
 # Create directories
-RUN mkdir -p /app/docs /app/vault /app/logs
+RUN mkdir -p docs vault logs scripts
 
 # Copy scripts
-COPY scripts/*.sh /app/scripts/
-RUN chmod +x /app/scripts/*.sh
-
-# Set working directory
-WORKDIR /app
+COPY scripts/*.sh scripts/
+COPY scripts/*.py scripts/
+RUN chmod +x scripts/*.sh
 
 # Default command
 CMD ["bash"]

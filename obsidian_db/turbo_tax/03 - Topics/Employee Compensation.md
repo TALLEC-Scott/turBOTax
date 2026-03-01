@@ -120,6 +120,9 @@ Employer reports deferrals in Form W-2, box 12, code Y. Not included in income u
 - [[Independent Contractor]] - Worker classification
 
 ## Common Questions
+## Related Tables
+
+- [[04 - Assets/group_term_life_insurance_cost_table_2025|Group Term Life Insurance Cost Table 2025]] - Monthly cost rates per $1,000 of group-term life insurance coverage by age bracket, ranging from $0.05 for those under 25 to $2.06 for those 70 and above.
 
 ### Q: What if I don't receive Form W-2?
 **A:** You must still report all wages on your tax return. Contact employer for copy, or use Form 4852 as substitute.

@@ -1,0 +1,15 @@
+{
+  "total_questions": 200,
+  "likely_covered_count": 111,
+  "likely_not_covered_count": 89,
+  "by_source": {
+    "2024 Instructions for Schedule C (2024)": {
+      "covered": 26,
+      "not_covered": 13
+    },
+    "1040 (2024)": {
+      "covered": 85,
+      "not_covered": 76
+    }
+  }
+}
