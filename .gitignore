@@ -47,3 +47,6 @@ htmlcov/
 
 # Qwen Code local config
 QWEN.md
+
+# Legacy/unused AI tool configs
+opencode.json
