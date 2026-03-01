@@ -2,6 +2,14 @@
 
 An IRS document parsing agent that extracts structured information from tax forms, publications, and instructions using AI, then organizes everything into an Obsidian vault for easy querying.
 
+
+<img width="1500" height="1066" alt="image" src="https://github.com/user-attachments/assets/aa65d06d-4595-4240-a3cf-b7e166f9f22e" />
+
+
+<img width="1500" height="1012" alt="image" src="https://github.com/user-attachments/assets/cddf0d2e-3e15-4993-812e-168dff6267a2" />
+
+
+
 ## Features
 
 - **Document Parsing**: Parse IRS PDFs and HTML using Docling
