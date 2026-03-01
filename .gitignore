@@ -44,3 +44,6 @@ htmlcov/
 .mypy_cache/
 
 .obsidian/
+
+# Qwen Code local config
+QWEN.md
