@@ -67,7 +67,7 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
           ...data.nodes.map(node => {
             const degree = degreeMap.get(node.id) || 0
             const size = 4 + (degree / maxDegree) * 16
-            
+
             return {
               data: {
                 id: node.id,
@@ -99,7 +99,7 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
                   const degree = ele.data('degree') || 0
                   const intensity = Math.min(degree / 50, 1)
                   const type = ele.data('type')
-                  
+
                   let baseColor: [number, number, number]
                   switch (type) {
                     case 'form': baseColor = [167, 139, 250]; break
@@ -107,11 +107,11 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
                     case 'instructions': baseColor = [251, 191, 36]; break
                     default: baseColor = [100, 116, 139]
                   }
-                  
+
                   const r = Math.round(baseColor[0] + (255 - baseColor[0]) * intensity * 0.5)
                   const g = Math.round(baseColor[1] + (255 - baseColor[1]) * intensity * 0.5)
                   const b = Math.round(baseColor[2] + (255 - baseColor[2]) * intensity * 0.5)
-                  
+
                   return `rgb(${r}, ${g}, ${b})`
                 },
                 'width': 'data(size)',
@@ -216,7 +216,7 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
           const node = evt.target
           const path = node.data('path')
           console.log('Node clicked, path:', path, 'openInObsidian:', openInObsidian)
-          
+
           if (path && openInObsidian) {
             // Open in Obsidian using URI scheme
             // Format: obsidian://open?vault=VAULT_NAME&file=PATH
@@ -246,7 +246,7 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
         const apiUrl = `http://${window.location.hostname}:8888/graph`
         const response = await fetch(apiUrl)
         if (!response.ok) throw new Error(`HTTP ${response.status}`)
-        
+
         const data = await response.json()
         if (!data.nodes || data.nodes.length === 0) {
           throw new Error('No nodes')
@@ -279,10 +279,10 @@ export default function GraphView({ cachedData, onDataLoaded, highlightedNodes, 
           <span>{status}</span>
         </div>
       )}
-      <div 
-        ref={containerRef} 
-        className="graph-cytoscape" 
-        style={{ opacity: status === 'Ready' ? 1 : 0 }} 
+      <div
+        ref={containerRef}
+        className="graph-cytoscape"
+        style={{ opacity: status === 'Ready' ? 1 : 0 }}
       />
     </div>
   )

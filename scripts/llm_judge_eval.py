@@ -20,9 +20,9 @@ def create_judge_prompt(qa: dict, kb_content: str | None) -> str:
     """Create a prompt for the LLM judge."""
     prompt = f"""You are a tax expert judge. Evaluate whether the knowledge base answer correctly answers the question compared to the ground truth.
 
-QUESTION: {qa['question']}
+QUESTION: {qa["question"]}
 
-GROUND TRUTH ANSWER: {qa['answer']}
+GROUND TRUTH ANSWER: {qa["answer"]}
 
 KNOWLEDGE BASE CONTENT:
 {kb_content if kb_content else "No relevant content found in knowledge base."}
@@ -56,27 +56,27 @@ def create_summary_prompt(results: list[dict]) -> str:
     partial = sum(1 for r in results if r.get("judgment") == "PARTIALLY_CORRECT")
     incorrect = sum(1 for r in results if r.get("judgment") == "INCORRECT")
     not_covered = sum(1 for r in results if r.get("judgment") == "NOT_COVERED")
-    
+
     # Build examples string
     examples = []
     for r in results[:10]:
         examples.append(f"""
-Q: {r['question']}
-Ground Truth: {r['ground_truth'][:200]}...
-Judgment: {r.get('judgment', 'N/A')}
-Explanation: {r.get('explanation', 'N/A')[:150]}...
+Q: {r["question"]}
+Ground Truth: {r["ground_truth"][:200]}...
+Judgment: {r.get("judgment", "N/A")}
+Explanation: {r.get("explanation", "N/A")[:150]}...
 """)
-    
+
     prompt = f"""Summarize this LLM evaluation of a tax knowledge base:
 
 TOTAL QUESTIONS: {len(results)}
-- CORRECT: {correct} ({correct/len(results)*100:.1f}%)
-- PARTIALLY_CORRECT: {partial} ({partial/len(results)*100:.1f}%)
-- INCORRECT: {incorrect} ({incorrect/len(results)*100:.1f}%)
-- NOT_COVERED: {not_covered} ({not_covered/len(results)*100:.1f}%)
+- CORRECT: {correct} ({correct / len(results) * 100:.1f}%)
+- PARTIALLY_CORRECT: {partial} ({partial / len(results) * 100:.1f}%)
+- INCORRECT: {incorrect} ({incorrect / len(results) * 100:.1f}%)
+- NOT_COVERED: {not_covered} ({not_covered / len(results) * 100:.1f}%)
 
 SAMPLE EVALUATIONS:
-{''.join(examples)}
+{"".join(examples)}
 
 Provide:
 1. Overall assessment (1-2 sentences)
@@ -93,35 +93,38 @@ def main():
     print("Loading dataset...")
     questions = load_dataset()
     print(f"Loaded {len(questions)} questions")
-    
+
     # Sample a subset for evaluation (we'll evaluate 20 questions)
     sample_size = 20
     # Sample diverse questions
     import random
+
     random.seed(42)
     sample = random.sample(questions, min(sample_size, len(questions)))
-    
+
     print(f"\nSampled {len(sample)} questions for LLM evaluation")
     print("\nTo run the actual LLM evaluation, you would call this script")
     print("with an LLM API (OpenAI, Anthropic, or local model).")
     print("\nFor now, generating evaluation prompts...\n")
-    
+
     # Save prompts for manual evaluation
     prompts = []
     for i, qa in enumerate(sample):
         prompt = create_judge_prompt(qa, None)  # No KB content - would need to search
-        prompts.append({
-            "id": i,
-            "question": qa["question"],
-            "ground_truth": qa["answer"],
-            "source": qa["source"],
-            "prompt": prompt,
-        })
-    
+        prompts.append(
+            {
+                "id": i,
+                "question": qa["question"],
+                "ground_truth": qa["answer"],
+                "source": qa["source"],
+                "prompt": prompt,
+            }
+        )
+
     output_path = Path(__file__).parent.parent / "data" / "llm_eval_prompts.json"
     with open(output_path, "w") as f:
         json.dump(prompts, f, indent=2)
-    
+
     print(f"Saved {len(prompts)} evaluation prompts to {output_path}")
     print("\nSample prompt:")
     print("-" * 60)

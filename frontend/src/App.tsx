@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import GraphView from './GraphView'
+import DynamicGraph from './DynamicGraph'
 import './App.css'
 
 const API_URL = `http://${window.location.hostname}:8888`
@@ -50,6 +51,7 @@ function App() {
   const [graphData, setGraphData] = useState<GraphData | null>(null)
   const [highlightedNodes, setHighlightedNodes] = useState<string[]>([])
   const [openInObsidian, setOpenInObsidian] = useState(false)
+  const [graphMode, setGraphMode] = useState<'static' | 'dynamic'>('dynamic')
   const messagesEndRef = useRef<HTMLDivElement>(null)
 
   const currentConversation = conversations.find(c => c.id === currentConversationId)
@@ -159,7 +161,7 @@ function App() {
     const nameMatch = graphData.nodes.find(n => {
       const nodeLabel = String(n.data?.label || '').toLowerCase()
       const nodePath = String(n.data?.path || '').toLowerCase()
-      return nodeLabel.includes(filename.toLowerCase()) || 
+      return nodeLabel.includes(filename.toLowerCase()) ||
              filename.toLowerCase().includes(nodeLabel) ||
              nodePath.includes(filename.toLowerCase())
     })
@@ -168,7 +170,7 @@ function App() {
       console.log(`✅ Name match: ${path} -> ${nameMatch.id}`)
       return nameMatch.id
     }
-    
+
     console.log(`❌ No match for: ${path}`)
     return null
   }
@@ -226,11 +228,17 @@ function App() {
         : c
     ))
 
+    // Build history from current conversation (exclude current message)
+    const conversationHistory = currentConversation?.messages.slice(0, -1).map(msg => ({
+      role: msg.role,
+      content: msg.content
+    })) || []
+
     try {
       const response = await fetch(`${API_URL}/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: input }),
+        body: JSON.stringify({ message: input, history: conversationHistory }),
       })
 
       if (!response.ok) throw new Error('Failed to get response')
@@ -473,14 +481,21 @@ function App() {
             <div className="graph-sidebar-header">
               <h3>🕸️ Knowledge Graph</h3>
               <div className="graph-header-actions">
-                <button 
+                <button
+                  className={`graph-mode-toggle ${graphMode === 'dynamic' ? 'active' : ''}`}
+                  onClick={() => setGraphMode(graphMode === 'dynamic' ? 'static' : 'dynamic')}
+                  title={graphMode === 'dynamic' ? 'Dynamic traversal' : 'Full graph view'}
+                >
+                  {graphMode === 'dynamic' ? '🔄' : '📊'}
+                </button>
+                <button
                   className={`obsidian-toggle ${openInObsidian ? 'active' : ''}`}
                   onClick={() => setOpenInObsidian(!openInObsidian)}
                   title={openInObsidian ? "Click opens Obsidian" : "Click to enable Obsidian opening"}
                 >
                   📓
                 </button>
-                <button 
+                <button
                   className="clear-highlight-btn"
                   onClick={() => setHighlightedNodes([])}
                   title="Clear highlights"
@@ -489,12 +504,16 @@ function App() {
                 </button>
               </div>
             </div>
-            <GraphView
-              cachedData={graphData}
-              onDataLoaded={setGraphData}
-              highlightedNodes={highlightedNodes}
-              openInObsidian={openInObsidian}
-            />
+            {graphMode === 'dynamic' ? (
+              <DynamicGraph openInObsidian={openInObsidian} />
+            ) : (
+              <GraphView
+                cachedData={graphData}
+                onDataLoaded={setGraphData}
+                highlightedNodes={highlightedNodes}
+                openInObsidian={openInObsidian}
+              />
+            )}
           </aside>
         </div>
       </main>

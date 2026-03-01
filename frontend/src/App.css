@@ -343,6 +343,60 @@ body {
   box-shadow: var(--shadow-lg);
 }
 
+/* Dynamic Graph Styles */
+.dynamic-graph-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.dynamic-graph-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius-sm);
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.graph-status {
+  color: var(--text-secondary);
+}
+
+.graph-node-count {
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.dynamic-graph-canvas {
+  flex: 1;
+  min-height: 0;
+  border-radius: var(--radius-md);
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* Graph mode toggle */
+.graph-mode-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  padding: 6px 8px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: 14px;
+  transition: var(--transition);
+}
+
+.graph-mode-toggle.active {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+
+.graph-mode-toggle:hover {
+  background: var(--surface-tertiary);
+}
+
 .welcome {
   text-align: center;
   padding: 48px 24px;

@@ -66,7 +66,9 @@ def list_publications() -> list[Path]:
     return sorted(data_dir.glob("pub_*.md"))
 
 
-def extract_tables_with_llm(pub_path: Path, model: str, base_url: str, api_key: str) -> list[dict]:
+def extract_tables_with_llm(
+    pub_path: Path, model: str, base_url: str, api_key: str
+) -> list[dict]:
     """Use LLM to identify and extract tables from a publication.
 
     Returns list of dicts with:
@@ -234,7 +236,11 @@ def update_assets_index(assets_dir: Path, tables: list[dict]) -> None:
             cat = "Deductions"
         elif "credit" in name_lower or "eic" in name_lower or "ctc" in name_lower:
             cat = "Credits"
-        elif "income" in name_lower or "bracket" in name_lower or "tax_table" in name_lower:
+        elif (
+            "income" in name_lower
+            or "bracket" in name_lower
+            or "tax_table" in name_lower
+        ):
             cat = "Income"
         elif "ira" in name_lower or "401" in name_lower or "retirement" in name_lower:
             cat = "Retirement"
@@ -266,7 +272,9 @@ def update_assets_index(assets_dir: Path, tables: list[dict]) -> None:
             lines.append(f"## {category}")
             lines.append("")
             for name, summary in items:
-                lines.append(f"- [[{name}|{name.replace('_', ' ').title()}]] - {summary}")
+                lines.append(
+                    f"- [[{name}|{name.replace('_', ' ').title()}]] - {summary}"
+                )
             lines.append("")
 
     index_path.write_text("\n".join(lines))
@@ -291,7 +299,9 @@ def find_topic_note(topic_name: str) -> Path | None:
     return None
 
 
-def update_topic_with_table_link(topic_path: Path, table_name: str, table_description: str) -> None:
+def update_topic_with_table_link(
+    topic_path: Path, table_name: str, table_description: str
+) -> None:
     """Add a link to a table in a topic note."""
     content = topic_path.read_text()
 
@@ -313,17 +323,24 @@ def update_topic_with_table_link(topic_path: Path, table_name: str, table_descri
                 in_tables_section = True
             elif in_tables_section and line.startswith("## ") and not added:
                 # Reached next section, add before it
-                new_lines.insert(-1, f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}")
+                new_lines.insert(
+                    -1,
+                    f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}",
+                )
                 added = True
                 in_tables_section = False
             elif in_tables_section and not line.strip() and not added:
                 # Empty line in tables section, add link before it
-                new_lines.append(f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}")
+                new_lines.append(
+                    f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}"
+                )
                 added = True
 
         if not added:
             # Add at end of tables section
-            new_lines.append(f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}")
+            new_lines.append(
+                f"- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}"
+            )
 
         content = "\n".join(new_lines)
     else:
@@ -331,7 +348,7 @@ def update_topic_with_table_link(topic_path: Path, table_name: str, table_descri
         section = f"""
 ## Related Tables
 
-- [[04 - Assets/{table_name}|{table_name.replace('_', ' ').title()}]] - {table_description}
+- [[04 - Assets/{table_name}|{table_name.replace("_", " ").title()}]] - {table_description}
 """
         # Find a good place to insert (before the last heading or at end)
         lines = content.rstrip().split("\n")
