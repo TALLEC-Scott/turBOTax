@@ -8,8 +8,9 @@ services:
     network_mode: host
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
-      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+      - OBSIDIAN_VAULT=/app/vault
     volumes:
       - ./docs:/app/docs:ro
       - ./obsidian_db/turbo_tax:/app/vault
@@ -27,8 +28,9 @@ services:
     network_mode: host
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
-      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+      - OBSIDIAN_VAULT=/app/vault
     volumes:
       - ./docs:/app/docs:ro
       - ./obsidian_db/turbo_tax:/app/vault
@@ -47,8 +49,9 @@ services:
     network_mode: host
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
-      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+      - OBSIDIAN_VAULT=/app/vault
     volumes:
       - ./docs:/app/docs:ro
       - ./obsidian_db/turbo_tax:/app/vault
@@ -71,8 +74,9 @@ services:
     network_mode: host
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}
-      - OPENAI_BASE_URL=${OPENAI_BASE_URL:-http://px106.prod.exalead.com:8000/v1}
-      - OPENAI_MODEL=${OPENAI_MODEL:-glm-5-fp8}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+      - OBSIDIAN_VAULT=/app/vault
     volumes:
       - ./scripts:/app/scripts:ro
       - ./obsidian_db/turbo_tax:/app/vault

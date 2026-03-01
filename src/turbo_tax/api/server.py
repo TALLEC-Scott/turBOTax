@@ -14,13 +14,21 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 
-# Configuration
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "test-key")
-OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "http://px106.prod.exalead.com:8000/v1")
-OPENAI_MODEL = os.getenv("OPENAI_MODEL", "glm-5-fp8")
-VAULT_PATH = Path(
-    os.getenv("OBSIDIAN_VAULT", "/udir/stallec/home/turbo-tax/obsidian_db/turbo_tax")
-)
+# Configuration (all required via environment)
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL")
+VAULT_PATH = Path(os.getenv("OBSIDIAN_VAULT"))
+
+# Validate required configuration
+if not all([OPENAI_API_KEY, OPENAI_BASE_URL, OPENAI_MODEL, VAULT_PATH]):
+    missing = [k for k, v in {
+        "OPENAI_API_KEY": OPENAI_API_KEY,
+        "OPENAI_BASE_URL": OPENAI_BASE_URL,
+        "OPENAI_MODEL": OPENAI_MODEL,
+        "OBSIDIAN_VAULT": os.getenv("OBSIDIAN_VAULT"),
+    }.items() if not v]
+    raise ValueError(f"Missing required environment variables: {', '.join(missing)}")
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)

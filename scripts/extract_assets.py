@@ -448,10 +448,19 @@ Examples:
 
     args = parser.parse_args()
 
-    # Get API configuration
-    api_key = os.environ.get("OPENAI_API_KEY", "dummy")
-    base_url = os.environ.get("OPENAI_BASE_URL", "http://localhost:8000/v1")
-    model = os.environ.get("OPENAI_MODEL", "glm-5-fp8")
+    # Get API configuration (all required)
+    api_key = os.environ.get("OPENAI_API_KEY")
+    base_url = os.environ.get("OPENAI_BASE_URL")
+    model = os.environ.get("OPENAI_MODEL")
+
+    if not all([api_key, base_url, model]):
+        missing = [k for k, v in {
+            "OPENAI_API_KEY": api_key,
+            "OPENAI_BASE_URL": base_url,
+            "OPENAI_MODEL": model,
+        }.items() if not v]
+        print(f"Error: Missing required environment variables: {', '.join(missing)}")
+        sys.exit(1)
 
     # Get publications to process
     if args.pub:
