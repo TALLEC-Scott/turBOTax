@@ -1,11 +1,6 @@
 # Turbo Tax
 
-An IRS document parsing agent that extracts structured information from tax forms, publications, and instructions using AI, then organizes everything into an Obsidian vault for easy querying.
-
-
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b2ebb8ce-c4cc-41f6-8fa4-cb44d7f5e054" />
-
-
+This is an experimental Knowledge Graph based agent for IRS Q&A done in a weekend for the Mistral AI World Hackathon 2026
 
 ## Screenshots
 
