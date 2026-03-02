@@ -6,7 +6,7 @@ This is an experimental Knowledge Graph based agent for IRS Q&A done in a weeken
 
 ### Obsidian Vault
 
-<img width="500" height="500" alt="Tax Assistant Web Interface" src="https://github.com/user-attachments/assets/aa65d06d-4595-4240-a3cf-b7e166f9f22e" />
+![irs-kg5](https://github.com/user-attachments/assets/dcded208-61e6-4114-910b-24db04534130)
 
 ### Web Interface
 
