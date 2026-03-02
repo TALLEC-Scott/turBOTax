@@ -6,7 +6,7 @@ This is an experimental Knowledge Graph based agent for IRS Q&A done in a weeken
 
 ### Obsidian Vault
 
-![irs-kg5](https://github.com/user-attachments/assets/dcded208-61e6-4114-910b-24db04534130)
+<img width="500" height="500" alt="Obsidian Vault Knowledge Graph timelapse" src="https://github.com/user-attachments/assets/dcded208-61e6-4114-910b-24db04534130" />
 
 ### Web Interface
 
