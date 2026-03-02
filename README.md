@@ -4,11 +4,11 @@ This is an experimental Knowledge Graph based agent for IRS Q&A done in a weeken
 
 ## Screenshots
 
-### Obsidian Vault
+### Indexing within an Obsidian Vault
 
 <img width="500" height="500" alt="Obsidian Vault Knowledge Graph timelapse" src="https://github.com/user-attachments/assets/dcded208-61e6-4114-910b-24db04534130" />
 
-### Web Interface
+### Chatbot Web Interface
 
 <img width="500" height="500" alt="Obsidian Vault Knowledge Graph" src="https://github.com/user-attachments/assets/cddf0d2e-3e15-4993-812e-168dff6267a2" />
 
